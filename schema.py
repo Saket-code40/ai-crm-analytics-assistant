@@ -1,9 +1,13 @@
 import sqlite3
+from pathlib import Path
+
+ROOT_DIR = Path(__file__).resolve().parent
+DB_PATH = ROOT_DIR / "crm.db"
 
 
 def get_schema():
 
-    conn = sqlite3.connect("crm.db")
+    conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
 
     schema = ""
