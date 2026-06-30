@@ -1,0 +1,973 @@
+id,account_name,account_type,employee_name,created_date,year,month_number,month_name,day_name,modified_date,inactive_days,account_status
+2e4c8632-b66c-65e7-6bdd-663f0eb752c6,HyperKurve,Reseller,"Amit Singh",2024-05-11,2024,5,May,Saturday,2026-02-19,99,Inactive
+30b14cd3-c912-a1fd-dcc4-5e0b3c6bc7d1,"Tikmany Telesystems Pvt Ltd",Reseller,"Amit Singh",2019-12-31,2019,12,December,Tuesday,2023-10-27,945,Inactive
+4f6e207d-ebd1-5781-ceb5-5fc9d11221cb,"IRIS GLOBAL",Customer,"Amit Singh",2020-12-04,2020,12,December,Friday,2026-03-31,59,Active
+8e310eaf-6fad-78b4-22c1-5fbe069ab32e,"Newtech Computers",Partner,"Amit Singh",2020-11-25,2020,11,November,Wednesday,2020-12-09,1997,Inactive
+dbc3c0eb-9ea0-4f91-8cdf-dd02f7c3a02d,Juan,Customer,"Amit Singh",2026-01-06,2026,1,January,Tuesday,2026-01-06,143,Inactive
+f1a12266-c784-080f-5be7-5e412a904759,"Peerless, Inc.",Customer,"Amit Singh",2020-02-10,2020,2,February,Monday,2020-02-10,2300,Inactive
+2c60069b-c128-151d-6850-5c133d98cde9,"NASC - North American Services Center",Customer," ",2018-12-14,2018,12,December,Friday,2019-12-13,2359,Inactive
+2db25997-d514-d6ff-e5e5-5de4a01a7aac,"CRM Outfitters, LLC",," ",2019-12-02,2019,12,December,Monday,2019-12-02,2370,Inactive
+16590fbb-13e8-ad80-a9bf-655e0e795d15,"Millennium Communications Inc.",Reseller,"Amit Singh",2023-11-22,2023,11,November,Wednesday,2023-11-22,919,Inactive
+1701cd9e-4c41-c539-8618-64b51526a750,Ideadunes,Reseller,"Amit Singh",2023-07-17,2023,7,July,Monday,2023-07-17,1047,Inactive
+19b807eb-640d-0d99-8cdc-66d00acc9dbb,"Moka Business Pvt Ltd",Customer,"Bhavin Patel",2024-08-29,2024,8,August,Thursday,2024-09-17,619,Inactive
+30111ae9-dcfa-8116-61cc-681c40f1b38f,"MAHAPHANT INDIA PRIVATE LIMITED",Customer,"Bhavin Patel",2025-05-08,2025,5,May,Thursday,2025-05-08,386,Inactive
+316abd2f-3e2c-db4f-93c7-669e2b6d6f0c,"Hadron Techs Pvt Ltd",Customer,"Bhavin Patel",2024-07-22,2024,7,July,Monday,2024-07-22,676,Inactive
+3431cfd9-fdc1-a685-bebf-63283b2061d9,"Chirp Technologies",Reseller,"Amit Singh",2022-09-19,2022,9,September,Monday,2022-09-19,1348,Inactive
+3931af02-a620-d832-c040-62f0c30df990,"Disaster Management Cell, Daman",Customer,"Bhavin Patel",2022-08-08,2022,8,August,Monday,2022-08-18,1380,Inactive
+3a544dbe-6edc-8c90-5fe2-6027a2a51bb4,"Khushi Infotech",Unknown,"Bhavin Patel",2021-02-13,2021,2,February,Saturday,2021-02-13,1931,Inactive
+3ac53d40-0a52-d78c-0e78-601e992444b3,"Intellect Design Arena",Reseller,"Bhavin Patel",2021-02-06,2021,2,February,Saturday,2021-02-08,1936,Inactive
+449db10d-b0b6-f0a4-7c91-6854ec543884,"VIVA COMPOSITE PANEL PRIVATE LIMITED",Customer,"Bhavin Patel",2025-06-20,2025,6,June,Friday,2025-06-20,343,Inactive
+46520202-e424-291d-d1d1-67ee5c0731c4,"Prudent ARC Limited",Customer,"Bhavin Patel",2025-04-03,2025,4,April,Thursday,2025-04-03,421,Inactive
+46e5407b-682d-2c6d-c79d-644b89015795,"AVVAD Technologies Pvt Ltd.",Customer,"Bhavin Patel",2023-04-28,2023,4,April,Friday,2023-05-17,1108,Inactive
+4f0f6263-eb61-f1bd-3600-65741e00e3f0,"La Centrale Informatique Sarl",Customer,"Amit Singh",2023-12-09,2023,12,December,Saturday,2025-04-29,395,Inactive
+5360ec0a-b2fe-424b-82db-12d138923b30,"RSSOM Power Solution (OPC) Private Limited",,"Amit Singh",2025-12-26,2025,12,December,Friday,2025-12-26,154,Inactive
+5b4f2b2b-906c-24bd-3c1a-659d505c08f0,"Asiaction Sourcing",Reseller,"Amit Singh",2024-01-09,2024,1,January,Tuesday,2024-01-09,871,Inactive
+5eed6bc6-bfdf-2a77-bf34-62b1768d4db3,"Elmex Control Pvt Ltd",Customer,"Amit Singh",2022-06-21,2022,6,June,Tuesday,2022-08-26,1372,Inactive
+6937b02d-1b18-9f84-4143-673ece3a5eda,"MLA Group Of Industries",Customer,"Bhavin Patel",2024-11-21,2024,11,November,Thursday,2024-11-21,554,Inactive
+6bfcbccb-64bf-6116-d8d1-64b54797e3cb,"Eurekacnt  Pty Ltd",Reseller,"Amit Singh",2023-07-17,2023,7,July,Monday,2023-07-17,1047,Inactive
+79b00a19-ca44-63c3-f666-6368da13fb70,"PEASS Industrial Eng.",Customer,"Bhavin Patel",2022-11-07,2022,11,November,Monday,2022-11-07,1299,Inactive
+7c470b87-4dca-4c12-7857-652fc70307b2,"TOTAL SOLUTIONS",Customer,"Amit Singh",2023-10-18,2023,10,October,Wednesday,2023-10-18,954,Inactive
+88e619c3-13f5-2a14-d7d7-663df14d5fe4,"Taduka (Pty) Ltd",,"Amit Singh",2024-05-10,2024,5,May,Friday,2024-05-10,749,Inactive
+8b41e5b8-c694-1563-5274-661d2952ed96,"Anmar Tech. & Trading Co.",Reseller,"Amit Singh",2024-04-15,2024,4,April,Monday,2024-04-15,774,Inactive
+9ca6ae2d-1240-7d3e-c7f6-63768e555904,"test demo",,"Bhavin Patel",2022-11-17,2022,11,November,Thursday,2026-01-12,137,Inactive
+a0290fc0-a263-634d-38bb-6899cc17431b,"TradeSmart Fintech Securities Limited",Customer,"Bhavin Patel",2025-08-11,2025,8,August,Monday,2025-10-06,235,Inactive
+a409916f-6d12-400c-dbb6-65895e5567e6,"NIrmala LTD",Customer,"Amit Singh",2023-12-25,2023,12,December,Monday,2023-12-25,886,Inactive
+ae2f294e-2779-8a9e-4b42-647074d5df1d,"Infinity Systems",Reseller,"Amit Singh",2023-05-26,2023,5,May,Friday,2023-05-26,1099,Inactive
+bea7e2fa-aa3a-afe2-1c99-6322cc096ac0,Lantrasoft,Reseller,"Amit Singh",2022-09-15,2022,9,September,Thursday,2022-09-15,1352,Inactive
+c8716b95-27bb-2d69-dc96-636b40f1cec5,"Radha Madhav",Customer,"Amit Singh",2022-11-09,2022,11,November,Wednesday,2022-11-09,1297,Inactive
+cdd54213-9006-42f8-b99c-8c7f4533c447,"Unique Fragrances",Customer,"Amit Singh",2026-02-04,2026,2,February,Wednesday,2026-02-05,113,Inactive
+d4130ced-5d98-9d6c-7f93-663f4d167673,"Ambit Software Pvt Ltd",Reseller,"Amit Singh",2024-05-11,2024,5,May,Saturday,2024-05-11,748,Inactive
+d4853fcb-1dfc-1128-6fe8-6332a822d47b,"NRJ Digital Solutions",Reseller,"Amit Singh",2022-09-27,2022,9,September,Tuesday,2022-09-27,1340,Inactive
+d64bb07d-4758-2f93-bca2-6655a7879fc8,qualipro1,Customer,"Amit Singh",2024-05-28,2024,5,May,Tuesday,2024-05-28,731,Inactive
+e9b70ca5-976f-e693-e7c2-646b6789d852,"IBN Technologies Limited",Partner,"Amit Singh",2023-05-22,2023,5,May,Monday,2023-05-22,1103,Inactive
+f1aaa35e-de87-9941-023c-648960f91c6b,"Quest consultancy pvt ltd",Other,"Bhavin Patel",2023-06-14,2023,6,June,Wednesday,2023-06-14,1080,Inactive
+ff5c0710-2acf-6a8e-9875-67d0228ee79d,"Winworld Energy Ltd",Customer,"Bhavin Patel",2025-03-11,2025,3,March,Tuesday,2025-03-18,437,Inactive
+4980aaa8-1dd6-9e97-0713-6561ac9ef23d,"test 1",,"Sanjay Gund",2023-11-25,2023,11,November,Saturday,2023-11-25,916,Inactive
+5b3ca3a2-6252-2487-2b63-5bee6718334b,"Dreamer Technologies",Partner," ",2018-11-16,2018,11,November,Friday,2025-04-29,395,Inactive
+7aa487e7-a9cb-3cfe-e123-6561afdf9b55,test3,,"Sanjay Gund",2023-11-25,2023,11,November,Saturday,2023-11-25,916,Inactive
+8619f5fe-2751-27ca-024e-65e30eabfbfc,"Synoptics Technologies Ltd.",," ",2024-03-02,2024,3,March,Saturday,2024-03-02,818,Inactive
+a9e005b7-8d83-41ed-4e51-67aa0c7d5d0e,"test 1",," ",2025-02-10,2025,2,February,Monday,2025-02-10,473,Inactive
+b5789b9d-4dd7-3e28-67af-6561b0a1373c,test4,,"Sanjay Gund",2023-11-25,2023,11,November,Saturday,2023-11-25,916,Inactive
+ead1e33b-5d2a-35bd-cab2-6561ae693932,test2,,"Sanjay Gund",2023-11-25,2023,11,November,Saturday,2023-11-25,916,Inactive
+f3e8f4aa-c04f-ef06-b905-67aa0cb0c59c,"test 1",," ",2025-02-10,2025,2,February,Monday,2025-02-10,473,Inactive
+9aaa5866-57ab-f8aa-d9ee-5da95a5c5871,"WebFEAT Complete, Inc.",Reseller,"Amit Singh",2019-10-18,2019,10,October,Friday,2019-10-18,2415,Inactive
+a0679430-c29c-c621-a05e-5c9098883554,"Senbac Company",Customer,"Amit Singh",2019-03-19,2019,3,March,Tuesday,2019-04-01,2615,Inactive
+0984c341-504c-43dd-bbbc-d62a86a7c997,"BIS COMPUTER PRIVATE LIMITED",Reseller,"Amit Singh",2026-03-05,2026,3,March,Thursday,2026-03-05,85,Active
+0b075115-1a48-46b6-8028-1db55b424bef,"Aktion Safety Solutions Pvt. Ltd.",Customer,"Amit Singh",2026-01-22,2026,1,January,Thursday,2026-01-22,127,Inactive
+10b4f068-70cb-13eb-5b55-66546b17b678,"Irradia Energía",Customer,"Amit Singh",2024-05-27,2024,5,May,Monday,2024-05-27,732,Inactive
+11532631-455c-0a6d-b7e1-5d246cc363ee,"SES Computers",Customer,"Amit Singh",2019-07-09,2019,7,July,Tuesday,2022-04-08,1512,Inactive
+1155feb0-abc7-b4ab-86e6-5f800b7f0b62,"Confcommercio companies for italy",Customer,"Amit Singh",2020-10-09,2020,10,October,Friday,2020-10-09,2058,Inactive
+11880294-23d9-8ad0-64d9-623f10ce718b,"FPT Education",Customer,"Amit Singh",2022-03-26,2022,3,March,Saturday,2022-03-26,1525,Inactive
+12005572-2b8c-c348-0c63-60a4c98e95fa,CompuMatrice,Reseller,"Amit Singh",2021-05-19,2021,5,May,Wednesday,2021-05-19,1836,Inactive
+125c4255-3693-1eaa-4785-5c5d574da681,Bol.com,Integrator,"Amit Singh",2019-02-08,2019,2,February,Friday,2019-02-08,2667,Inactive
+12836140-521c-5d4e-fd34-5f05b1acc849,"Perfect Circle Media Group",Reseller,"Amit Singh",2020-07-08,2020,7,July,Wednesday,2020-10-13,2054,Inactive
+12850da2-d177-b1ed-c61b-5c5c2cfe2db6,"Lew Geffen - Sothebys International Realty",Customer,"Amit Singh",2019-02-07,2019,2,February,Thursday,2019-02-07,2668,Inactive
+12b6eb9c-b7f3-ed58-381a-602a082f8b4b,"MKT Softwares Private Limited",Partner,"Bhavin Patel",2021-02-15,2021,2,February,Monday,2022-11-03,1303,Inactive
+12d3cdf6-fd74-e7ba-4a5f-64afc0341d46,"Pacifica Automation",Reseller,"Amit Singh",2023-07-13,2023,7,July,Thursday,2023-07-13,1051,Inactive
+13c0abd8-6f2c-9175-e1fa-5d19e1f60490,"Boomee Good Relations GmbH",Customer,"Amit Singh",2019-07-01,2019,7,July,Monday,2019-11-01,2401,Inactive
+13e9918c-db1c-1686-4dc2-672c6efbe55e,"Manish Singh song of Dinanath",Unknown,"Amit Singh",2024-11-07,2024,11,November,Thursday,2024-11-07,568,Inactive
+1401af13-bda0-bc84-50f6-60378d2b6a94,"Voxbay Solutions Pvt. Ltd.",Reseller,"Amit Singh",2021-02-25,2021,2,February,Thursday,2021-03-19,1897,Inactive
+147b5965-20c8-a92f-5ec7-5f5c6464a1c4,"SBCglobal account online",Customer,"Amit Singh",2020-09-12,2020,9,September,Saturday,2020-12-14,1992,Inactive
+148c69ca-57d2-5fd8-861c-63383e3e0785,Informatix,Reseller,"Amit Singh",2022-10-01,2022,10,October,Saturday,2022-10-01,1336,Inactive
+15076d79-cdde-87dc-19ae-5c9c995ca983,"Ninja Van Logistics",Customer,"Amit Singh",2019-03-28,2019,3,March,Thursday,2019-04-26,2590,Inactive
+153a7c02-3b10-e4f0-cf07-5ffed15301d7,"Albanian Dental Travel",Customer,"Amit Singh",2021-01-13,2021,1,January,Wednesday,2021-02-10,1934,Inactive
+154bfb5d-dc66-e611-4fc5-647db0acc6f9,"RSR Infotech Private Limited",Reseller,"Amit Singh",2023-06-05,2023,6,June,Monday,2023-06-05,1089,Inactive
+15780db0-e849-605a-37ec-6288854ef46c,"Vector Tech Group",Reseller,"Amit Singh",2022-05-21,2022,5,May,Saturday,2022-05-21,1469,Inactive
+159f77ce-aa1b-33cb-9182-62a33713161d,"Swalav Technologies",," ",2022-06-10,2022,6,June,Friday,2022-06-10,1449,Inactive
+160bf6f5-ed9c-24f0-8e32-60d9d6203758,VitaeTax,Customer,"Amit Singh",2021-06-28,2021,6,June,Monday,2021-06-28,1796,Inactive
+1646f4c1-6b55-8e5f-a8eb-612378f94c83,"Lion Solution Srls",Reseller,"Amit Singh",2021-08-23,2021,8,August,Monday,2021-08-23,1740,Inactive
+168345a9-e12a-a78d-dd4a-5c5c1221aa3f,"Children’s Cancer Hospital Egypt 57357",Customer,"Amit Singh",2019-02-07,2019,2,February,Thursday,2019-04-26,2590,Inactive
+169784e9-da68-8332-36c6-653bb8fd95a3,"Lazulite Technology Services LLC",Customer,"Amit Singh",2023-10-27,2023,10,October,Friday,2023-10-27,945,Inactive
+16eca1a3-7baa-00b4-a33d-5f6995ccfee9,"Rangel Media Network",Reseller,"Amit Singh",2020-09-22,2020,9,September,Tuesday,2020-10-26,2041,Inactive
+1705fce0-84a1-2208-c904-5e27eb9f262a,ComputoVision,Reseller,"Amit Singh",2020-01-22,2020,1,January,Wednesday,2020-01-22,2319,Inactive
+176c1814-518e-c548-e19e-642bf5fcdb7a,"Superfine Minerals & Chemicals",Customer,"Amit Singh",2023-04-04,2023,4,April,Tuesday,2023-04-13,1142,Inactive
+17822c21-316b-94bf-e107-5d820275bbc0,"Australian Education Union Tasmania",Customer,"Amit Singh",2019-09-18,2019,9,September,Wednesday,2019-09-27,2436,Inactive
+17fba085-03ca-1001-fcf5-6145993217de,Livatek,Reseller,"Amit Singh",2021-09-18,2021,9,September,Saturday,2021-09-18,1714,Inactive
+17fe4754-91c4-ec12-ec84-5db92b1140b9,"RC PLATFORM",Customer,"Amit Singh",2019-10-30,2019,10,October,Wednesday,2019-10-30,2403,Inactive
+18424b13-34b8-c1d1-0a56-5bf924213430,"Kanpur Edibles Pvt Ltd",Customer,"Amit Singh",2018-11-24,2018,11,November,Saturday,2018-12-11,2726,Inactive
+184891b9-565c-83d6-142e-5cf8c7422d60,"Emergent EDU",Customer,"Amit Singh",2019-06-06,2019,6,June,Thursday,2019-06-06,2549,Inactive
+19342d01-70b1-165a-3826-650c2e0b82f0,"Texas 2",Unknown,"Amit Singh",2023-09-21,2023,9,September,Thursday,2023-09-21,981,Inactive
+19b3c048-9d44-2cdd-7bfd-657944a44d1b,"Authos SpA",Customer,"Amit Singh",2023-12-13,2023,12,December,Wednesday,2023-12-13,898,Inactive
+19eeb929-7e65-a77e-a8c8-634d26f359e8,"Sai infotechs",Customer,"Amit Singh",2022-10-17,2022,10,October,Monday,2022-10-17,1320,Inactive
+1a61c1e8-8251-f8e0-0aaa-5e414ccbad9a,"Groupe Quintesens",Customer,"Amit Singh",2020-02-10,2020,2,February,Monday,2020-02-10,2300,Inactive
+1a8932ba-bd6f-d74b-1119-5c5c25bf92ad,"OpenLM LTD",Reseller,"Amit Singh",2019-02-07,2019,2,February,Thursday,2019-02-07,2668,Inactive
+1b2ddfae-803a-7eeb-14e9-60388e9dbffe,Creativa.dev,Reseller,"Amit Singh",2021-02-26,2021,2,February,Friday,2021-02-26,1918,Inactive
+1b4eab13-dc06-380a-652a-6164411a4691,"Harvel & Associates Inc.",Customer,"Amit Singh",2021-10-11,2021,10,October,Monday,2021-10-11,1691,Inactive
+1b5f432a-8384-7a0d-24b0-627e3a13dcde,"PDOS Tech",Customer,"Amit Singh",2022-05-13,2022,5,May,Friday,2022-05-13,1477,Inactive
+1b6c0df5-dba2-3d4f-a12b-66486ab955be,"Asset Intigrated Info Systems",Reseller,"Amit Singh",2024-05-18,2024,5,May,Saturday,2024-05-18,741,Inactive
+1bace442-a050-15ea-60ac-5bf633a87859,"SecurityPro Group",Customer,"Dreamer Technologies",2018-11-22,2018,11,November,Thursday,2021-01-04,1971,Inactive
+1bc4ba3c-8fa9-6e62-85fb-5c5d2ef91260,"Ensonic Computech Pvt Ltd.",Reseller,"Amit Singh",2019-02-08,2019,2,February,Friday,2019-11-25,2377,Inactive
+1bcddef1-f419-ade6-70a1-5e03417435f3,"Binary Info Solutions PVT. LTD",Partner,"Amit Singh",2019-12-25,2019,12,December,Wednesday,2025-11-15,195,Inactive
+1c1b7874-5fac-17f9-50da-61265290d690,joncasasq,Customer,"Amit Singh",2021-08-25,2021,8,August,Wednesday,2021-08-25,1738,Inactive
+1c1ede39-e965-a104-dc7e-5d79d809f585,"Design Systems Pvt. Ltd.",Customer,"Amit Singh",2019-09-12,2019,9,September,Thursday,2019-09-14,2449,Inactive
+1c6991bd-aaa3-7d80-ae2a-5fb61b0b4288,"Xeon IT Solutions",Reseller,"Amit Singh",2020-11-19,2020,11,November,Thursday,2020-11-19,2017,Inactive
+1c787a41-dba0-c9b0-6794-5d9d6defd843,"Awfar Market",Customer,"Amit Singh",2019-10-09,2019,10,October,Wednesday,2019-11-01,2401,Inactive
+1cee48db-d18d-795e-8a03-5f474b0ed70e,Mobi,Unknown,"Amit Singh",2020-08-27,2020,8,August,Thursday,2020-08-27,2101,Inactive
+1d2b618a-f723-955f-909b-63fda4582fb8,"Precisio Technologies",Reseller,"Amit Singh",2023-02-28,2023,2,February,Tuesday,2023-02-28,1186,Inactive
+1d607441-c0fb-1d6e-7e04-636e0acf44cf,"Shree Maruti Instruments Pvt Ltd",Customer,"Amit Singh",2022-11-11,2022,11,November,Friday,2024-08-27,640,Inactive
+1d6a037c-b16e-b930-10ef-5db942a5843d,"Palo Alto",Reseller,"Amit Singh",2019-10-30,2019,10,October,Wednesday,2019-10-30,2403,Inactive
+1d99e27d-e2a9-5331-f64c-673c33602713,"Premium Hotel Supplies  (PHS)",Customer,"Amit Singh",2024-11-19,2024,11,November,Tuesday,2024-11-19,556,Inactive
+1dab9374-557b-ee56-eb90-5de77e264b75,"JEM Technologies",Partner,"Amit Singh",2019-12-04,2019,12,December,Wednesday,2019-12-04,2368,Inactive
+1dbd0eba-5120-8c83-572b-5e2008ea0bec,ESATIC,Reseller,"Amit Singh",2020-01-16,2020,1,January,Thursday,2020-11-23,2013,Inactive
+1e14020a-d524-dc66-2849-5d2ebccd26ba,"OpenSymbol - The CRM Company",Reseller,"Amit Singh",2019-07-17,2019,7,July,Wednesday,2024-04-22,767,Inactive
+1e5fdd1f-9013-5bb3-f39a-5ec6072f6f00,Pimusa,Unknown,"Amit Singh",2020-05-21,2020,5,May,Thursday,2020-05-21,2199,Inactive
+1e727a63-8639-fea8-360d-682438e30018,Viktech,Customer,"Amit Singh",2025-05-14,2025,5,May,Wednesday,2025-05-14,380,Inactive
+1ed1d484-fe65-bdcc-a457-5da5c8948034,"Potoo Solutions",Customer,"Amit Singh",2019-10-15,2019,10,October,Tuesday,2019-10-15,2418,Inactive
+1ee69c9c-03b3-6aab-fedd-5fabdc4af16b,"Open Solutions",Reseller,"Amit Singh",2020-11-11,2020,11,November,Wednesday,2020-11-11,2025,Inactive
+1f43846d-aaa2-a216-5916-604b6d497e36,"The Leadership Network®",Customer,"Amit Singh",2021-03-12,2021,3,March,Friday,2021-03-12,1904,Inactive
+1f8b7e44-a22e-890f-662c-5cc00863288a,MDES,Customer,"Amit Singh",2019-04-24,2019,4,April,Wednesday,2019-04-30,2586,Inactive
+1f9d8f78-237f-42e9-73c6-5de792721189,"Banafa United",Customer,"Amit Singh",2019-12-04,2019,12,December,Wednesday,2019-12-04,2368,Inactive
+200c2c2b-2e66-ec3b-6228-5f9696343091,SalesAgility,Partner,"Amit Singh",2020-10-26,2020,10,October,Monday,2020-10-26,2041,Inactive
+201451ef-3bf5-6293-82b0-5f2406678509,"Soft Solutions",Partner,"Amit Singh",2020-07-31,2020,7,July,Friday,2020-11-12,2024,Inactive
+203ec784-534c-82c6-176d-5f56291ed07f,Sunphenix,Partner,"Amit Singh",2020-09-07,2020,9,September,Monday,2022-03-31,1520,Inactive
+205cdfe3-8ee3-06ab-bdc7-65705a2afff0,"Practices Business Solutions.",Reseller,"Amit Singh",2023-12-06,2023,12,December,Wednesday,2024-01-18,862,Inactive
+2070dbf6-09dd-d9a0-8866-668e4f3505ac,"Saral Diagnostics",Customer,"Amit Singh",2024-07-10,2024,7,July,Wednesday,2024-07-10,688,Inactive
+207743db-37ce-6b8a-8462-5e06ef96c51c,"NuTrotherm Technologies Pvt Ltd",Partner,"Amit Singh",2019-12-28,2019,12,December,Saturday,2019-12-28,2344,Inactive
+2083e5dd-3e45-0cfd-9aab-63eb42dbb3ae,"Mr. Jossel Alvarez",Customer,"Amit Singh",2023-02-14,2023,2,February,Tuesday,2023-02-14,1200,Inactive
+20970664-fe84-1404-875f-5f8fe41fb6d0,"ProMaster Home Repair & Handyman of Cincinnati",Customer,"Amit Singh",2020-10-21,2020,10,October,Wednesday,2024-11-15,560,Inactive
+20dd223f-3653-5be1-611c-62c961310c65,tehwhynot,Customer,"Amit Singh",2022-07-09,2022,7,July,Saturday,2022-07-09,1420,Inactive
+20de0142-6b53-1d4a-4754-6401a4435be7,Okafor,Customer,"Amit Singh",2023-03-03,2023,3,March,Friday,2023-03-03,1183,Inactive
+21b7035c-fb77-27ba-ae6c-6038e6955ad5,Myddleware,Reseller,"Amit Singh",2021-02-26,2021,2,February,Friday,2021-02-26,1918,Inactive
+21d949a3-8cbf-907c-bf11-6412eb8ce9d3,"Snowbell Machines Private Ltd",Customer,"Amit Singh",2023-03-16,2023,3,March,Thursday,2024-10-14,592,Inactive
+221a6903-5e68-234a-4ef0-5f58afa11066,"Iapps Market",Customer,"Amit Singh",2020-09-09,2020,9,September,Wednesday,2020-09-09,2088,Inactive
+223b0dc7-0a56-b803-d0f6-631b2bd71e29,"SP Sysnet Pvt Ltd",Partner,"Amit Singh",2022-09-09,2022,9,September,Friday,2022-09-10,1357,Inactive
+226d06ad-82fc-e586-2a76-5d1b127376d4,"Medici Bank International",Customer,"Amit Singh",2019-07-02,2019,7,July,Tuesday,2019-07-03,2522,Inactive
+22da3d06-98f6-219e-d581-5d92ea9b0a86,"Hansa Ltda.",Customer,"Amit Singh",2019-10-01,2019,10,October,Tuesday,2019-11-01,2401,Inactive
+230a594f-d219-b00c-7e47-613701a9cf5d,anonroman,Customer,"Amit Singh",2021-09-07,2021,9,September,Tuesday,2021-09-07,1725,Inactive
+2472337c-a34c-fb51-9d92-63a2971f979b,"My Gates",Reseller,"Amit Singh",2022-12-21,2022,12,December,Wednesday,2022-12-21,1255,Inactive
+24a80568-0298-082a-3e8a-5d85f6f88bf5,fmbaba1,Customer,"Amit Singh",2019-09-21,2019,9,September,Saturday,2019-09-21,2442,Inactive
+250aa678-ced7-628e-2287-5cbad0c938b3,"PeopleLink HD Video Conferencing & TelePresence",Customer,"Amit Singh",2019-04-20,2019,4,April,Saturday,2019-04-20,2596,Inactive
+258be9e9-fe9f-7d4e-0705-66793f0803f2,"NCT Solutions",Reseller,"Amit Singh",2024-06-24,2024,6,June,Monday,2024-06-24,704,Inactive
+26471086-f6e4-5def-d6d6-5c47190025cb,"Iknowplus Co.,Ltd",Reseller,"Amit Singh",2019-01-22,2019,1,January,Tuesday,2019-02-18,2657,Inactive
+26daa932-793e-071a-be65-64789f4421e9,"Supreme Investrade",Customer,"Amit Singh",2023-06-01,2023,6,June,Thursday,2023-06-01,1093,Inactive
+27070207-37c7-ece5-b5aa-64c7b748dd69,"Rudransh Fiberglass Private Limited",Customer,"Amit Singh",2023-07-31,2023,7,July,Monday,2023-07-31,1033,Inactive
+275cb340-0979-babd-2263-648fedff69dc,"Bank of Media",Reseller,"Amit Singh",2023-06-19,2023,6,June,Monday,2023-06-19,1075,Inactive
+278f2653-21fe-8e83-b316-616a64f9598e,"Parmarth Computer",Reseller,"Amit Singh",2021-10-16,2021,10,October,Saturday,2021-10-20,1682,Inactive
+27b0d365-9cbf-7db1-4b35-609b89bd5d70,"Infinity I.T Solutions",Partner,"Amit Singh",2021-05-12,2021,5,May,Wednesday,2022-06-14,1445,Inactive
+27cc04fe-c673-8ade-a515-62bfee6d4c76,"SAINNOVATE Tech Labs",Partner,"Amit Singh",2022-07-02,2022,7,July,Saturday,2022-07-06,1423,Inactive
+27f3bede-6092-afb9-92b4-5d80cd6a3cb5,"Raimata Impex Private Limited",Customer,"Amit Singh",2019-09-17,2019,9,September,Tuesday,2020-03-20,2261,Inactive
+2823fcc4-1e03-9bb3-1bcb-5ddba055647d,"Inmove IT Solutions",Reseller,"Amit Singh",2019-11-25,2019,11,November,Monday,2019-11-25,2377,Inactive
+2840a342-623f-d7c1-7bd2-62a1b6ad6017,"Lexie Staffing and Business Consulting",Customer,"Amit Singh",2022-06-09,2022,6,June,Thursday,2022-06-09,1450,Inactive
+287034fa-9cd9-6a57-f614-5cdf9abf717f,dagoaristi333,Customer,"Amit Singh",2019-05-18,2019,5,May,Saturday,2019-11-01,2401,Inactive
+28bfd27d-fd8c-efab-16cc-62985ceaa75b,"Bank of Abyssinia",Customer,"Amit Singh",2022-06-02,2022,6,June,Thursday,2022-06-02,1457,Inactive
+28e64077-dbbc-f2bf-0b42-5dc916fe0ec0,Wyzoo,Reseller,"Amit Singh",2019-11-11,2019,11,November,Monday,2019-11-11,2391,Inactive
+29006eca-d463-ca06-99e8-5ed4e48d0fd8,"ExzaTech Consulting And Services Private Limited",Customer,"Amit Singh",2020-06-01,2020,6,June,Monday,2020-06-01,2188,Inactive
+293456d7-72eb-bb20-54c7-61e54b33387a,"AKS Information Technology Services",Reseller,"Amit Singh",2022-01-17,2022,1,January,Monday,2023-07-12,1052,Inactive
+294a1778-f19a-2a57-cacd-5cab3656a480,Fonesoft(Sangoma),Customer,"Amit Singh",2019-04-08,2019,4,April,Monday,2019-05-25,2561,Inactive
+297a0175-90f9-2211-0580-6310891162f3,"Shah Industrial Products - India",Customer,"Amit Singh",2022-09-01,2022,9,September,Thursday,2024-08-27,640,Inactive
+29d62bc4-9447-46b5-ff8d-663de2bc5680,"Nexus Sistemas",Reseller,"Amit Singh",2024-05-10,2024,5,May,Friday,2024-05-17,742,Inactive
+2a0f92c7-66ff-27c8-0702-5d4030009a64,"Go Analytics",Reseller,"Amit Singh",2019-07-30,2019,7,July,Tuesday,2019-07-31,2494,Inactive
+2b678726-7b42-3112-5532-5d5e37135bc6,RedAwning.com,Customer,"Amit Singh",2019-08-22,2019,8,August,Thursday,2019-09-23,2440,Inactive
+2bee1d12-494b-1604-4cc1-64d0d0292f0f,"Software House",Reseller,"Amit Singh",2023-08-07,2023,8,August,Monday,2025-03-03,452,Inactive
+2c4c214f-7b73-f3e5-9f86-5d7b8d660b55,"MFS Investment Management",Reseller,"Amit Singh",2019-09-13,2019,9,September,Friday,2019-09-14,2449,Inactive
+2ccd2d7e-50d9-a0fa-1f15-63c10e015abe,Kohlschuetter-muelle,Customer,"Amit Singh",2023-01-13,2023,1,January,Friday,2023-01-13,1232,Inactive
+2cf34452-44c7-7e4c-f446-5cb181ba8550,Simoney,Unknown,"Amit Singh",2019-04-13,2019,4,April,Saturday,2019-04-13,2603,Inactive
+2d01d887-766f-226f-2427-5d32d283ae6d,"Santhana Lakshmi Metals.",Customer,"Amit Singh",2019-07-20,2019,7,July,Saturday,2019-12-14,2358,Inactive
+2d146dda-f02f-fcd5-589d-5dcce81568ee,"Dr. Wamser + Batra GmbH",Customer,"Amit Singh",2019-11-14,2019,11,November,Thursday,2019-11-14,2388,Inactive
+2d533d35-2a18-5f17-6be8-607e7ec91ee4,"DP Solutions",Reseller,"Amit Singh",2021-04-20,2021,4,April,Tuesday,2021-05-20,1835,Inactive
+2d8a0335-6d4f-c787-453c-5f324e87fb1b,"The Code",," ",2020-08-11,2020,8,August,Tuesday,2020-08-11,2117,Inactive
+2d8d0f8a-2f9e-a8c2-8050-5f1bec7ce25b,"Sat Sat Sai Baba Corporation",Customer,"Amit Singh",2020-07-25,2020,7,July,Saturday,2020-07-25,2134,Inactive
+2d8eac36-e80e-b7d3-555e-5d70a20b6cd2,Estilobarono,Customer,"Amit Singh",2019-09-05,2019,9,September,Thursday,2019-11-01,2401,Inactive
+2dba64ce-b264-725a-6252-66f2773b8a48,"Cloud Telecoms (PTY) Ltd",Reseller,"Amit Singh",2024-09-24,2024,9,September,Tuesday,2024-09-24,612,Inactive
+2e2600da-1573-0089-f76b-6066c673e1ab,"ECS Corporation",Reseller,"Amit Singh",2021-04-02,2021,4,April,Friday,2021-04-02,1883,Inactive
+2e26e561-c10d-2bed-1ff7-634d4b176e9e,"PRIMER Software",Reseller,"Amit Singh",2022-10-17,2022,10,October,Monday,2022-10-17,1320,Inactive
+2e98708b-a093-bd47-2385-62c2ad0a0567,ATON,Customer,"Amit Singh",2022-07-04,2022,7,July,Monday,2022-07-04,1425,Inactive
+2efae165-2af3-e411-be73-62eb9624a2ad,"Sara Studio School and Model Agency",Customer,"Amit Singh",2022-08-04,2022,8,August,Thursday,2022-08-27,1371,Inactive
+2f1fab01-15a9-620b-bb77-5d2082b6eb79,"Global Adsorbents Pvt. Ltd.",Customer,"Amit Singh",2019-07-06,2019,7,July,Saturday,2019-07-23,2502,Inactive
+2fb8093e-40a1-5e7a-958f-640c5dce48ab,"Anon Solutions",Reseller,"Amit Singh",2023-03-11,2023,3,March,Saturday,2023-03-11,1175,Inactive
+2fbd6892-3287-3a72-732f-5d8a0fd0bef2,"HR Tech Advisor",Customer,"Amit Singh",2019-09-24,2019,9,September,Tuesday,2019-11-01,2401,Inactive
+302d0b9e-5572-d6b0-09cd-6718ccc734d0,Sudhir,Customer,"Amit Singh",2024-10-23,2024,10,October,Wednesday,2024-10-23,583,Inactive
+302e024f-8fc1-7b1b-e833-60dec2c447d7,"Thunderbolt Marketing Solutions",Reseller,"Amit Singh",2021-07-02,2021,7,July,Friday,2021-07-02,1792,Inactive
+3031da36-a15a-3ac2-53e8-610264a99eed,"Forte Holdings",Reseller,"Amit Singh",2021-07-29,2021,7,July,Thursday,2021-07-29,1765,Inactive
+30571059-05f0-dbca-e0a3-5c6e4cf3dfc8,"TruewayVoIP, LLC",Reseller,"Amit Singh",2019-02-21,2019,2,February,Thursday,2019-09-07,2456,Inactive
+30771908-0cca-2157-e816-628e1dff34a2,"Etairos Business Solutions S.A.S.",Reseller,"Amit Singh",2022-05-25,2022,5,May,Wednesday,2022-05-25,1465,Inactive
+3107d4cf-9d48-591e-fa9f-61ab4a91ba71,"GMO Runsystem Corporation",Customer,"Amit Singh",2021-12-04,2021,12,December,Saturday,2021-12-04,1637,Inactive
+313d0d68-ddac-62ff-a4b2-5fe9be5399a4,"Resinex India",Customer,"Amit Singh",2020-12-28,2020,12,December,Monday,2020-12-28,1978,Inactive
+3175f572-3872-94e3-8c82-615c0aaf4d1a,"KKG Consultants",Reseller,"Amit Singh",2021-10-05,2021,10,October,Tuesday,2022-01-21,1589,Inactive
+319fac65-e108-920d-c81f-5cdeb5dc0577,"DHT INCORPORATION",Reseller,"Amit Singh",2019-05-17,2019,5,May,Friday,2023-03-21,1165,Inactive
+31a88577-f11f-b4c1-983f-64ae8902cc7e,"Zenoo Landbase Pvt Ltd",Customer,"Amit Singh",2023-07-12,2023,7,July,Wednesday,2023-09-26,976,Inactive
+32648fe4-3e8a-30f3-9703-5df1c2eb4dae,"THiNK TANK Marketing Group",Reseller,"Amit Singh",2019-12-12,2019,12,December,Thursday,2019-12-12,2360,Inactive
+326eea9e-369f-419d-3cb6-63fcb019aa2c,wmendezr,Customer,"Amit Singh",2023-02-27,2023,2,February,Monday,2023-02-27,1187,Inactive
+32879969-8b59-8d19-1845-5f7325e9c9d9,"Plants-Kölle Garden Center GmbH & Co",Unknown,"Amit Singh",2020-09-29,2020,9,September,Tuesday,2020-09-29,2068,Inactive
+32f08641-b243-caff-9a36-63c53adf1056,"Accenous Integrals",Reseller,"Amit Singh",2023-01-16,2023,1,January,Monday,2024-05-29,730,Inactive
+332818f9-5054-dcb9-3076-5e4388b21ceb,"IDC Technologies",Reseller,"Amit Singh",2020-02-12,2020,2,February,Wednesday,2020-02-12,2298,Inactive
+338bde52-967e-563c-c24b-5de892d2c527,SYSWORKS,Partner,"Amit Singh",2019-12-05,2019,12,December,Thursday,2019-12-05,2367,Inactive
+33e6832d-e682-533d-4cc2-5fd473310597,"Sitara foods",Customer,"Amit Singh",2020-12-12,2020,12,December,Saturday,2021-03-10,1906,Inactive
+33f0d0fc-3ca7-4a85-f060-63f4b523e709,"Star Specialties Polymers Pvt. Ltd",Customer,"Amit Singh",2023-02-21,2023,2,February,Tuesday,2025-01-13,501,Inactive
+34079ffb-fb04-6dde-e044-5e688657248e,"AccXchange Transactions Worldwide Pvt. Ltd.",Partner,"Amit Singh",2020-03-11,2020,3,March,Wednesday,2020-11-02,2034,Inactive
+340dbc08-434d-70f2-4a39-64ad063aff63,"Reatloo (Shakuntala Interior",Customer,"Amit Singh",2023-07-11,2023,7,July,Tuesday,2023-07-11,1053,Inactive
+3413371a-b5d7-7c19-6a6e-5ffd4911bc85,"Telxom L.L.C",Reseller,"Amit Singh",2021-01-12,2021,1,January,Tuesday,2021-01-12,1963,Inactive
+343581e5-98fa-0e23-0a71-655f0306ae20,ITZIDATA,Reseller,"Amit Singh",2023-11-23,2023,11,November,Thursday,2023-11-23,918,Inactive
+34a2f294-2839-9833-4aad-5c5bfbf0d688,Techlatam,Customer,"Amit Singh",2019-02-07,2019,2,February,Thursday,2019-11-01,2401,Inactive
+34abf8b6-1d85-bb09-4f1f-5e4ce423bbd1,"Vinschool Education System",Customer,"Amit Singh",2020-02-19,2020,2,February,Wednesday,2022-02-25,1554,Inactive
+34de779a-0e66-d396-e9f1-5f6f2d125ded,Invent,Unknown,"Amit Singh",2020-09-26,2020,9,September,Saturday,2020-09-26,2071,Inactive
+355d7574-c032-8827-e046-5d738011725b,Yonomas84,Customer,"Amit Singh",2019-09-07,2019,9,September,Saturday,2019-11-01,2401,Inactive
+3638e2ce-4016-3d22-8397-62c7c1bc719c,"Smmart Training & Consultancy Services Pvt. Ltd",Customer,"Amit Singh",2022-07-08,2022,7,July,Friday,2022-07-15,1414,Inactive
+36444d0a-e61d-5eef-395f-5edf5cffe93b,"Bridge International Academies",Customer,"Amit Singh",2020-06-09,2020,6,June,Tuesday,2021-01-29,1946,Inactive
+369c96bc-3654-77f9-db2d-61434fdbf314,"Digital Pyramid",Reseller,"Amit Singh",2021-09-16,2021,9,September,Thursday,2021-09-16,1716,Inactive
+37295817-00ed-c14d-7015-60519affd098,"Cadvin Technologies",Reseller,"Amit Singh",2021-03-17,2021,3,March,Wednesday,2021-04-05,1880,Inactive
+374c0c75-f52f-80ac-8caa-5f606ad8ef07,"Left Hand Robotics",Customer,"Amit Singh",2020-09-15,2020,9,September,Tuesday,2020-09-15,2082,Inactive
+3763ed8f-2843-9ccb-5d1e-5f6c39fdbe8e,"Sagres S.r.l.",Customer,"Amit Singh",2020-09-24,2020,9,September,Thursday,2020-09-30,2067,Inactive
+377b4888-ff15-1c75-5b26-6777bd7bf1a7,"Butma Enterprise",Reseller,"Amit Singh",2025-01-03,2025,1,January,Friday,2025-04-22,402,Inactive
+37912049-da0b-cbc0-762a-6461e182b10e,"Leadership Associates",Customer,"Amit Singh",2023-05-15,2023,5,May,Monday,2023-05-15,1110,Inactive
+379be1b3-5df5-1944-5f1a-66ab6cde3968,"Innovative Seatings Pvt Ltd",Customer,"Amit Singh",2024-08-01,2024,8,August,Thursday,2024-08-01,666,Inactive
+37a73846-8e79-9ceb-8c83-60a651b35a7f,FayeBSG,," ",2021-05-20,2021,5,May,Thursday,2021-05-20,1835,Inactive
+37d22d77-7c1c-2bb1-4fb2-65856039661b,"EarthTV Network GmbH",Customer,"Amit Singh",2023-12-22,2023,12,December,Friday,2023-12-22,889,Inactive
+37e60d4d-c601-ca98-8dd9-5d959fd2fc31,BNZSA,Customer,"Amit Singh",2019-10-03,2019,10,October,Thursday,2020-01-10,2331,Inactive
+388c27e8-40a3-0ac7-1998-6409cb249c29,"Tickets Daddy LLC",Customer,"Amit Singh",2023-03-09,2023,3,March,Thursday,2024-09-21,615,Inactive
+388ea7f4-6b00-95e1-f9c5-616071ddce85,"Eurasian Group",Customer," ",2021-10-08,2021,10,October,Friday,2021-10-08,1694,Inactive
+38abfe53-ccec-79a3-d51d-5c5017c600b9,"Uniwin Sportswear Factory",Customer,"Amit Singh",2019-01-29,2019,1,January,Tuesday,2019-01-29,2677,Inactive
+38dfb512-c531-75be-5dbe-60bb51aa24e5,Hum,," ",2021-06-05,2021,6,June,Saturday,2021-06-05,1819,Inactive
+3937898b-6dae-f7ef-2776-6916ecd203f1,"Logibird India",Partner,"Amit Singh",2025-11-14,2025,11,November,Friday,2025-11-14,196,Inactive
+3999ade9-06e9-3d41-ee56-62737ae856c8,"Scideas Solutions Pvt. Ltd.",," ",2022-05-05,2022,5,May,Thursday,2022-05-05,1485,Inactive
+39a4d428-2fbe-a51d-bb12-635b7451c024,"Iraje Software Consultants Private Limited",Prospect,"Amit Singh",2022-10-28,2022,10,October,Friday,2024-10-19,587,Inactive
+39a81c44-9e89-d9a8-789c-5befa94e3fe8,"Amstar Technologies Private Limited",Prospect,"Amit Singh",2018-11-17,2018,11,November,Saturday,2018-11-22,2745,Inactive
+39bb3fd9-ed71-5173-7d78-5d75f30dd230,"iQKitchen Inc.",Customer,"Amit Singh",2019-09-09,2019,9,September,Monday,2019-11-01,2401,Inactive
+39bd03c9-a4bc-fe00-bd77-5ce8e1e43593,"Worldwide Trophy Adventures",Customer,"Amit Singh",2019-05-25,2019,5,May,Saturday,2019-05-25,2561,Inactive
+3a3e952a-4bb3-6026-8896-5c54014e4a9d,"iCan Technosolutions",Partner,"Amit Singh",2019-02-01,2019,2,February,Friday,2021-09-13,1719,Inactive
+3a5d0a89-c94d-456a-2a3f-67583216db2f,"Shah System",Reseller,"Amit Singh",2024-12-10,2024,12,December,Tuesday,2024-12-10,535,Inactive
+3a8adad0-35c8-b831-2745-6267fcbad497,Tradewind,Reseller,"Amit Singh",2022-04-26,2022,4,April,Tuesday,2022-04-26,1494,Inactive
+3a917e3d-effa-b04d-b895-6546297e7cbb,"Polco Creations Pvt Ltd",Customer,"Amit Singh",2023-11-04,2023,11,November,Saturday,2023-11-04,937,Inactive
+3aa6c956-7ff0-e4e5-fb6b-66c868a97792,"Absolute Business Solutions (Pvt) Ltd",,"Amit Singh",2024-08-23,2024,8,August,Friday,2024-08-23,644,Inactive
+3ad0ee65-d309-a496-0766-5f59eff431b1,Phew,Unknown,"Amit Singh",2020-09-10,2020,9,September,Thursday,2020-09-10,2087,Inactive
+3b8910bd-9d7e-8b24-cb22-5fc8703c6d17,"Woodstick Module Kitchen",Partner,"Amit Singh",2020-12-03,2020,12,December,Thursday,2021-01-07,1968,Inactive
+3bce7756-19e3-5b30-36cf-5e21ad50e91f,"SMV Formation",Customer,"Amit Singh",2020-01-17,2020,1,January,Friday,2023-04-07,1148,Inactive
+3beaa981-4e32-4354-e857-5e452954d279,"Aspen Agency Limited",Customer,"Amit Singh",2020-02-13,2020,2,February,Thursday,2020-02-13,2297,Inactive
+3bf537b1-959f-0af2-880c-5e049523cc40,"Net A Online",Partner,"Amit Singh",2019-12-26,2019,12,December,Thursday,2019-12-26,2346,Inactive
+3c2a31e8-bd98-2947-f21d-5f59e8dc5534,"Hornblower Cruises and Events",Customer,"Amit Singh",2020-09-10,2020,9,September,Thursday,2020-11-23,2013,Inactive
+3c5a19e0-b626-5cc3-b211-664f16af8419,Rockset,Customer,"Amit Singh",2024-05-23,2024,5,May,Thursday,2024-05-23,736,Inactive
+3c600748-1dd7-4a03-d992-66a0e0da7927,"NextBridge Solutions",Reseller,"Amit Singh",2024-07-24,2024,7,July,Wednesday,2024-11-19,556,Inactive
+3c7af3b5-3a95-5f89-f7b6-5d28946ebf25,"BTACTIC, SCCL",Reseller,"Amit Singh",2019-07-12,2019,7,July,Friday,2019-11-01,2401,Inactive
+3c848d65-f048-e3dd-cafe-5e707aead450,"Aditya Solutions",Partner,"Amit Singh",2020-03-17,2020,3,March,Tuesday,2020-03-17,2264,Inactive
+3d06ce58-5db0-83c4-00eb-5ebb9992d9ff,IvyTies,Customer,"Amit Singh",2020-05-13,2020,5,May,Wednesday,2020-05-13,2207,Inactive
+3d201681-11c9-5915-22f0-63e351a3f8ed,"safe Software",Customer,"Amit Singh",2023-02-08,2023,2,February,Wednesday,2025-08-13,289,Inactive
+3d73f6a0-ec15-57f7-4a34-5c81fb597e67,"IPPBX (Sequelnet)",Reseller,"Amit Singh",2019-03-08,2019,3,March,Friday,2019-03-09,2638,Inactive
+3d87b623-d34f-6cf3-040c-61c31ffdf3c7,"Milenium Technologies (i) Private Limited",Customer,"Amit Singh",2021-12-22,2021,12,December,Wednesday,2021-12-22,1619,Inactive
+3e32510c-5d4c-4719-87e6-38d6ba41513f,"Omega Consultancy Services",Customer,"Amit Singh",2026-02-09,2026,2,February,Monday,2026-02-09,109,Inactive
+3e99dce0-134d-773a-2813-5e29200becc0,"Totality Solutions, LLC",Reseller,"Amit Singh",2020-01-23,2020,1,January,Thursday,2021-03-01,1915,Inactive
+3ea3d09e-b149-5312-fc15-61a9fb5bc3a2,"Sentry Management Solutions",Customer,"Amit Singh",2021-12-03,2021,12,December,Friday,2021-12-03,1638,Inactive
+3f0658e7-ee18-ce62-437e-61092bb98ff0,Vaidam.com,Customer,"Amit Singh",2021-08-03,2021,8,August,Tuesday,2021-08-03,1760,Inactive
+3f69790f-1438-d933-f8ea-5d934815a904,"Sonet Dynamics llc",Reseller,"Amit Singh",2019-10-01,2019,10,October,Tuesday,2020-01-14,2327,Inactive
+405c04e8-7be1-b4f5-5d4b-6274c8867a2b,"Grup Montaner",Customer,"Amit Singh",2022-05-06,2022,5,May,Friday,2022-06-24,1435,Inactive
+40680baf-33be-5e76-3881-607ec52d3e85,"Environmental information Center",Customer,"Amit Singh",2021-04-20,2021,4,April,Tuesday,2021-04-20,1865,Inactive
+409d1c52-1abb-d723-cffa-689324884d15,"Artistpro, LLC",Customer,"Amit Singh",2025-08-06,2025,8,August,Wednesday,2025-08-06,296,Inactive
+41260154-3c3b-b220-3158-5f43ae078847,"Procedural Worlds Pty Limited",Customer,"Amit Singh",2020-08-24,2020,8,August,Monday,2020-09-21,2076,Inactive
+413698f6-b2b2-2821-7713-60094cb8025c,Datango,Customer,"Amit Singh",2021-01-21,2021,1,January,Thursday,2021-01-21,1954,Inactive
+4179007b-9a87-fce1-2903-616589f87846,"Intensity IT Canada Ltd.",Reseller,"Amit Singh",2021-10-12,2021,10,October,Tuesday,2021-10-12,1690,Inactive
+4195a322-0565-202d-de75-5d71fec81d78,"vWare Solutions in Software",Reseller,"Amit Singh",2019-09-06,2019,9,September,Friday,2019-09-23,2440,Inactive
+41ef1d2f-bdfd-5f9f-4520-60ebd95e8cfd,Travelwire.com,Customer,"Amit Singh",2021-07-12,2021,7,July,Monday,2021-07-12,1782,Inactive
+4236204f-eb75-5204-2934-5cb71d6829af,"Klg Ecolite",Customer,"Amit Singh",2019-04-17,2019,4,April,Wednesday,2019-04-25,2591,Inactive
+4236d205-d4ef-1aef-45f8-5c87a08a85c6,Fallterms,Customer,"Amit Singh",2019-03-12,2019,3,March,Tuesday,2019-11-01,2401,Inactive
+42e5b183-efea-5b88-9e1c-5c4ffb5fab47,"Mk Tech Solutions",Customer,"Amit Singh",2019-01-29,2019,1,January,Tuesday,2019-01-29,2677,Inactive
+439146b3-08be-4014-03de-6027ae761ce9,"Tulsyan Enterprises",Customer,"Amit Singh",2021-02-13,2021,2,February,Saturday,2021-02-13,1931,Inactive
+43c5a303-8a04-5dd6-deae-5f6f20e33f13,"Estglass Limited",Customer,"Amit Singh",2020-09-26,2020,9,September,Saturday,2020-09-26,2071,Inactive
+4425d0df-52e4-402e-1238-5c53e7f90038,"Soluções em CRM Ltda",Reseller,"Amit Singh",2019-02-01,2019,2,February,Friday,2023-01-16,1229,Inactive
+44b71d04-0b4e-2af7-4c87-664f173a098a,"Massive Networks",Customer,"Amit Singh",2024-05-23,2024,5,May,Thursday,2024-05-23,736,Inactive
+44e30cfc-8db2-e42e-8647-60378345c790,Capacura,Customer,"Amit Singh",2021-02-25,2021,2,February,Thursday,2021-02-25,1919,Inactive
+4529fe9a-f401-a09f-3f0f-659bff30a53c,"BPO Services",Customer,"Amit Singh",2024-01-08,2024,1,January,Monday,2024-01-08,872,Inactive
+45393194-8faf-cffb-1c14-678a1bbd367e,"Invecto Technologies Private Limited",Reseller,"Amit Singh",2025-01-17,2025,1,January,Friday,2025-01-17,497,Inactive
+45e5df78-280a-7371-216a-5c9c745dd8c2,"TechRiver LLC",Customer,"Amit Singh",2019-03-28,2019,3,March,Thursday,2019-03-28,2619,Inactive
+46106042-7781-808c-418e-5c5c0c68720c,CRMTeam,Reseller,"Amit Singh",2019-02-07,2019,2,February,Thursday,2019-11-01,2401,Inactive
+467f6ad6-7232-ab9b-4251-5cd3c61aaf14,"En-Pro International Inc.",Customer,"Amit Singh",2019-05-09,2019,5,May,Thursday,2019-08-14,2480,Inactive
+46957544-9d2f-61b2-9825-5d6e095fb81a,"Maths — No Problem!",Customer,"Amit Singh",2019-09-03,2019,9,September,Tuesday,2019-11-01,2401,Inactive
+46bc7323-f125-e506-2e7e-5f8ed01c5dd0,"Geek Cloud Services LLC (Machine LOGIC )",Reseller,"Amit Singh",2020-10-20,2020,10,October,Tuesday,2020-10-20,2047,Inactive
+4726f9e3-7e48-d60f-8740-62c819e22410,"US Telecom Services, Inc.",Customer,"Amit Singh",2022-07-08,2022,7,July,Friday,2022-07-08,1421,Inactive
+479b3a24-fc2d-f526-68bd-5df0eb23b0f4,"B4Tek México",Reseller,"Amit Singh",2019-12-11,2019,12,December,Wednesday,2019-12-11,2361,Inactive
+47c6216c-773f-51ab-314a-60095f088580,Acrovision,Customer,"Amit Singh",2021-01-21,2021,1,January,Thursday,2021-01-27,1948,Inactive
+48387bea-0dc6-fef9-9229-5df47652db7f,Revolucion,Partner,"Amit Singh",2019-12-14,2019,12,December,Saturday,2019-12-14,2358,Inactive
+484e3c8b-84ef-a6d7-a5f3-639b21a703f4,"Stonera Systems Pvt. Ltd",Customer,"Amit Singh",2022-12-15,2022,12,December,Thursday,2022-12-15,1261,Inactive
+485033a0-5b2c-4cc7-6afa-5fc1066b2b92,"Globaltech Telecomunicaciones S.A.S",Reseller,"Amit Singh",2020-11-27,2020,11,November,Friday,2020-11-27,2009,Inactive
+48653b2f-03e5-77b0-18db-5ffee28be8f6,"Intrepid Sourcing and Services",Reseller,"Amit Singh",2021-01-13,2021,1,January,Wednesday,2021-02-05,1939,Inactive
+489855c8-3502-ddea-21df-5c95e67727a3,"Discovery ADR Group Ltd",Customer,"Amit Singh",2019-03-23,2019,3,March,Saturday,2019-11-01,2401,Inactive
+490f81ff-41c7-d2d8-41f9-5d95b758eee4,"Gaius Media",Reseller,"Amit Singh",2019-10-03,2019,10,October,Thursday,2019-11-01,2401,Inactive
+4913e053-9e6c-c623-b715-635b73ae7ad2,"Kubic Technology",,"Amit Singh",2022-10-28,2022,10,October,Friday,2022-10-28,1309,Inactive
+4927d624-bf5c-917b-04d1-64ed899d21e6,Unicorn,Customer,"Amit Singh",2023-08-29,2023,8,August,Tuesday,2023-08-29,1004,Inactive
+4927ff0a-c346-7bab-65ad-67f0c7bb0eb0,"Cloud Zero",Reseller,"Amit Singh",2025-04-05,2025,4,April,Saturday,2025-04-05,419,Inactive
+495fe1c6-952f-24db-0179-5e0191f70c6a,"Sun Way Vietnam",Customer,"Amit Singh",2019-12-24,2019,12,December,Tuesday,2020-03-09,2272,Inactive
+4981e165-dc53-7a2d-45aa-61c18dd96583,"REX D (PRIVATE) LIMITED",Customer,"Amit Singh",2021-12-21,2021,12,December,Tuesday,2022-02-08,1571,Inactive
+498b2d38-44be-9ada-03db-5e2690326f32,"Adyar Students Xerox Pvt Ltd",Customer,"Amit Singh",2020-01-21,2020,1,January,Tuesday,2023-04-06,1149,Inactive
+49920f22-a34c-8ee5-e80a-5de8e97ef7c0,"ITWorks @ Siyaram",Customer,"Amit Singh",2019-12-05,2019,12,December,Thursday,2019-12-16,2356,Inactive
+49941632-63ef-d558-c096-5ec615bd699b,"We Can Consulting S.p.A",Reseller,"Amit Singh",2020-05-21,2020,5,May,Thursday,2020-05-21,2199,Inactive
+49bb20e3-50a9-8e78-9d60-64d7259bc127,"NT Comunicaciones",Reseller,"Amit Singh",2023-08-12,2023,8,August,Saturday,2023-08-12,1021,Inactive
+49f58954-cca5-740c-c1fd-5c90acd4582d,"Advance 101",Reseller,"Amit Singh",2019-03-19,2019,3,March,Tuesday,2019-06-12,2543,Inactive
+4a1086e6-63e1-7798-387a-5ebb9266ced9,"COMSAT, Inc",Customer,"Amit Singh",2020-05-13,2020,5,May,Wednesday,2020-05-13,2207,Inactive
+4a1c7498-1b3d-4ac7-daf0-631ef511e9ea,"Cebod Telecom",Reseller,"Amit Singh",2022-09-12,2022,9,September,Monday,2023-10-07,965,Inactive
+4a5816b8-dd96-93f0-439f-6141c9ba18f7,V-Intech,Reseller,"Amit Singh",2021-09-15,2021,9,September,Wednesday,2023-01-23,1222,Inactive
+4ab96c55-92d9-ed41-a2d0-68b29a17b012,DREASDASD;ASD'SA'D,,"Amit Singh",2025-08-30,2025,8,August,Saturday,2025-08-30,272,Inactive
+4b336b38-2cd2-ced9-0682-5f8547420258,"Messages On Hold Pte Ltd",Customer,"Amit Singh",2020-10-13,2020,10,October,Tuesday,2020-10-13,2054,Inactive
+4b5cf376-ffc3-2ea6-111d-65d89b1c4e55,"R. L. Jain Industries Pvt. Ltd.",Customer,"Amit Singh",2024-02-23,2024,2,February,Friday,2024-02-23,826,Inactive
+4b92916a-8f35-3560-f66b-5cab33bc2672,"Celtine Beauty HO & Training Academy",Customer,"Amit Singh",2019-04-08,2019,4,April,Monday,2019-05-01,2585,Inactive
+4c0ec74e-0101-92fe-0f8e-6100197b2ea5,BlueOptima,Customer,"Amit Singh",2021-07-27,2021,7,July,Tuesday,2021-09-04,1728,Inactive
+4c8302e8-a7b6-1306-b8a9-5f6f331d9b75,"Proactive Digital",Unknown,"Amit Singh",2020-09-26,2020,9,September,Saturday,2020-09-26,2071,Inactive
+4cd27b44-c157-d035-2242-5e60a0a6e9ad,"Tomasi Auto SRL",Customer,"Amit Singh",2020-03-05,2020,3,March,Thursday,2020-03-12,2269,Inactive
+4cd5099e-a040-5efa-bcea-618cdd9c5494,"Ac Globel tech Solutions",Reseller,"Amit Singh",2021-11-11,2021,11,November,Thursday,2021-11-11,1660,Inactive
+4d276504-8473-60bf-e425-618239770de5,"Tuongee FM",Reseller,"Amit Singh",2021-11-03,2021,11,November,Wednesday,2021-11-03,1668,Inactive
+4d7ad86c-637f-a905-a3be-63b51c21a701,"Vyapaar Network",Partner,"Amit Singh",2023-01-04,2023,1,January,Wednesday,2023-01-04,1241,Inactive
+4e300e69-8d38-7416-6b8c-605836c866a9,"Militti Sales & Promotions, LLC",Customer,"Amit Singh",2021-03-22,2021,3,March,Monday,2021-03-22,1894,Inactive
+4e75fcb4-fd15-a741-c9c8-6050543376b5,"Selection ENR",Customer,"Amit Singh",2021-03-16,2021,3,March,Tuesday,2021-03-16,1900,Inactive
+4ef78bc8-4f8a-4799-f4f9-5d4d4705a332,"E2E Performance",Reseller,"Amit Singh",2019-08-09,2019,8,August,Friday,2019-08-13,2481,Inactive
+4f27b408-fee6-e215-2f37-66670246b00b,"IMPRESSIVE STAR SOFTWARES PRIVATE LIMITED",Reseller,"Amit Singh",2024-06-10,2024,6,June,Monday,2025-10-11,230,Inactive
+4f357ba5-460d-bd8c-c3d5-5e27f7e545ee,"The LUXOY Company",Customer,"Amit Singh",2020-01-22,2020,1,January,Wednesday,2020-01-22,2319,Inactive
+4f79786d-5f6b-4ddc-93c7-5c8bb7fbe384,"ISOAH Data Securities Pvt. Ltd.",Customer,"Amit Singh",2019-03-15,2019,3,March,Friday,2019-04-25,2591,Inactive
+4f8fc7b2-3d34-7fea-0718-647735a3973e,"Thinkcap Advisors",Reseller,"Amit Singh",2023-05-31,2023,5,May,Wednesday,2023-05-31,1094,Inactive
+500dca9e-f22f-e8ed-b1ac-5cac73cb4f06,"Anaxee Digital Runners Private Limited",Customer,"Amit Singh",2019-04-09,2019,4,April,Tuesday,2019-06-01,2554,Inactive
+501d5f8e-16a4-4fbd-703e-6152b819b468,"Link Serve",Reseller,"Amit Singh",2021-09-28,2021,9,September,Tuesday,2021-09-28,1704,Inactive
+505a4f62-9340-4696-448f-63b58d2ffbed,"Gseven Computers Business Pvt Ltd",Reseller,"Amit Singh",2023-01-04,2023,1,January,Wednesday,2023-01-24,1221,Inactive
+508f4dc5-4810-4a07-ab84-681c81b229e7,"Sam IT Tech",Reseller,"Amit Singh",2025-05-08,2025,5,May,Thursday,2025-05-08,386,Inactive
+511900d5-16ab-3929-7d1f-5d8f396ab275,SkyAirTeam,Customer,"Amit Singh",2019-09-28,2019,9,September,Saturday,2019-11-01,2401,Inactive
+51e12eeb-a3f5-9894-e596-5fbb5d9fed62,fperellifp,Customer,"Amit Singh",2020-11-23,2020,11,November,Monday,2020-12-20,1986,Inactive
+5281a3a2-68aa-d51e-66ab-5d8f500d7d00,"Process Flow Consulting",Unknown,"Amit Singh",2019-09-28,2019,9,September,Saturday,2019-09-28,2435,Inactive
+52a583a4-9ef1-411c-6ae0-63eb395fbc46,"Jet Computer (Point Technovation )",Reseller,"Amit Singh",2023-02-14,2023,2,February,Tuesday,2023-02-14,1200,Inactive
+52ec0f20-7dc6-5499-f357-6477319ddb49,anthonyrega777,,"Amit Singh",2023-05-31,2023,5,May,Wednesday,2023-05-31,1094,Inactive
+533a95b6-6d90-0db2-57fa-60d2ea8c6914,"Fruition Horticulture Ltd",Customer,"Amit Singh",2021-06-23,2021,6,June,Wednesday,2021-07-09,1785,Inactive
+53852312-3710-8f4f-b91d-5e579f277513,"STJ Electronics Pvt Ltd",Reseller,"Amit Singh",2020-02-27,2020,2,February,Thursday,2020-02-27,2283,Inactive
+53ce3af8-f07e-fe06-4e0b-629df3a20107,Zillancer,Partner,"Amit Singh",2022-06-06,2022,6,June,Monday,2024-11-19,556,Inactive
+54587548-8661-091b-f59c-5e96b194e6ec,"Alice Blue Financial Services Private Limited",Customer,"Amit Singh",2020-04-15,2020,4,April,Wednesday,2020-04-15,2235,Inactive
+5477c609-9fe0-f5b7-08e1-6422c5c1c413,"FPT Education Global",Customer,"Amit Singh",2023-03-28,2023,3,March,Tuesday,2023-03-28,1158,Inactive
+549702d9-89dc-24ab-413e-5cc0302dd074,"Cecilia Montevideo",Customer,"Amit Singh",2019-04-24,2019,4,April,Wednesday,2019-11-01,2401,Inactive
+54a608d7-a7b5-5368-ae93-63d8c65f5799,"Metavision Technology Private Limited",Partner,"Amit Singh",2023-01-31,2023,1,January,Tuesday,2024-09-23,613,Inactive
+54c5ecf9-4906-ae3b-c744-5c04f0c7cd2e,"AIE (ACADEMIC INSTITUTE OF EXCELLENCE)",Customer,"Amit Singh",2018-12-03,2018,12,December,Monday,2019-01-04,2702,Inactive
+54e709b0-42a7-5618-75ce-672f5b95da5b,"St. Andrews University Online",Customer,"Amit Singh",2024-11-09,2024,11,November,Saturday,2024-11-09,566,Inactive
+550221d0-8d00-deb6-4502-60e2f703ba85,"Select Car Leasing",Customer,"Amit Singh",2021-07-05,2021,7,July,Monday,2021-07-05,1789,Inactive
+5503aaa1-839f-1312-4039-64146b6f679a,"3 Base Associates",Reseller,"Amit Singh",2023-03-17,2023,3,March,Friday,2023-03-17,1169,Inactive
+5580f52f-f617-d66e-d966-627deef147c7,"PEREIRA Real Estate Developments",Customer,"Amit Singh",2022-05-13,2022,5,May,Friday,2022-05-13,1477,Inactive
+55b505fd-852b-62fb-d18e-60b63300267a,"Almanet Professional Services",Reseller,"Amit Singh",2021-06-01,2021,6,June,Tuesday,2021-06-01,1823,Inactive
+55f50636-67f1-2c8a-e3c4-60c722719f86,SiFAST,Reseller,"Amit Singh",2021-06-14,2021,6,June,Monday,2021-06-14,1810,Inactive
+5669b590-84c8-961b-951b-6399689b1ab3,"Data Giant",Reseller,"Amit Singh",2022-12-14,2022,12,December,Wednesday,2022-12-14,1262,Inactive
+56bc4203-0bb0-c9e1-5320-610a757994ec,"Dfine Art Pvt Ltd",Customer,"Amit Singh",2021-08-04,2021,8,August,Wednesday,2022-07-21,1408,Inactive
+56ecf420-5f47-6e1c-a00b-5cb6ee841189,"Jorge Lucasrpg",Customer,"Amit Singh",2019-04-17,2019,4,April,Wednesday,2023-08-19,1014,Inactive
+5702bb77-0282-a8ec-2f56-60b631a82710,"Reeka Solutions",Reseller,"Amit Singh",2021-06-01,2021,6,June,Tuesday,2021-06-01,1823,Inactive
+57082260-f04e-be73-de93-60c467b45c45,"Unipart Rail",Reseller,"Amit Singh",2021-06-12,2021,6,June,Saturday,2021-06-12,1812,Inactive
+57111057-cdd1-801d-7703-60f973306a06,"Xcel Source Corp",Reseller,"Amit Singh",2021-07-22,2021,7,July,Thursday,2021-09-17,1715,Inactive
+583679c7-f393-df3e-d180-5e1fed04bb90,"Pronetba S.A.",Reseller,"Amit Singh",2020-01-16,2020,1,January,Thursday,2020-01-16,2325,Inactive
+58f706fc-f8bd-5a0e-ca45-67b0541a2b4b,Jimmy,Customer,"Amit Singh",2025-02-15,2025,2,February,Saturday,2025-02-15,468,Inactive
+58f7cd0f-f9b4-5606-a046-620608e3ded1,"Vasavi Pipes Private Limited",Customer,"Amit Singh",2022-02-11,2022,2,February,Friday,2022-05-19,1471,Inactive
+59da638a-01f3-61fc-06ed-5cd14c08c8c0,"HLBS TECH (P) LIMITED",Reseller,"Amit Singh",2019-05-07,2019,5,May,Tuesday,2019-05-23,2563,Inactive
+59f304dd-fe43-e590-cae0-62ac7bc98be9,"Pioneer Marketing Corporation",Partner,"Amit Singh",2022-06-17,2022,6,June,Friday,2023-05-16,1109,Inactive
+5a156626-6778-3435-b572-5dedd0ce72fb,Sina,Customer,"Amit Singh",2019-12-09,2019,12,December,Monday,2019-12-09,2363,Inactive
+5a482185-96e5-f315-87eb-5e7eeab2c752,"OKG Tech",Reseller,"Amit Singh",2020-03-28,2020,3,March,Saturday,2020-03-28,2253,Inactive
+5ac14103-721b-aab7-cffe-5c5bc709b6b5,"CMC Corporation",Reseller,"Amit Singh",2019-02-07,2019,2,February,Thursday,2019-02-18,2657,Inactive
+5af714d8-9b93-6619-8ea3-5d91c6236fb2,Orange,Customer,"Amit Singh",2019-09-30,2019,9,September,Monday,2019-11-01,2401,Inactive
+5b0d65fb-01e9-16fd-cc73-60b73a3ddc08,WarpMe,Reseller,"Amit Singh",2021-06-02,2021,6,June,Wednesday,2021-06-02,1822,Inactive
+5b329fdd-f706-ce69-012a-61d7e7acacbf,"Mayhem Innovations LLC",Customer,"Amit Singh",2022-01-07,2022,1,January,Friday,2022-01-07,1603,Inactive
+5b343789-cdaa-d996-b384-61f280cb8a72,"Flomic Global Logistics Limited",Customer,"Amit Singh",2022-01-27,2022,1,January,Thursday,2022-01-27,1583,Inactive
+5ba3272f-ec00-9d08-998f-64f19ba0e3bb,"Cute Nails",Customer,"Amit Singh",2023-09-01,2023,9,September,Friday,2023-09-01,1001,Inactive
+5bc00056-b654-72eb-89c0-5d83328c0fca,"Coinodes Consultants, LLP.",Reseller,"Amit Singh",2019-09-19,2019,9,September,Thursday,2019-11-01,2401,Inactive
+5c341565-c78a-f9e3-448a-63468e506e1f,"Business Cloud",Customer,"Amit Singh",2022-10-12,2022,10,October,Wednesday,2022-11-26,1280,Inactive
+5c3648eb-8770-9144-7ee0-6493fbac4ece,"Federated Computer",Reseller,"Amit Singh",2023-06-22,2023,6,June,Thursday,2023-06-22,1072,Inactive
+5c53fbf6-8f61-a67f-30b2-67408ac96dad,"La Clinique financière inc",Customer,"Amit Singh",2024-11-22,2024,11,November,Friday,2024-11-22,553,Inactive
+5c7351a4-88e8-302c-2f7e-60d70fc8f35c,Asaffialkov,Customer,"Amit Singh",2021-06-26,2021,6,June,Saturday,2021-06-26,1798,Inactive
+5ceb11ae-e2d5-3bc6-d121-6889d1d813b1,deemed,Customer,"Amit Singh",2025-07-30,2025,7,July,Wednesday,2025-07-30,303,Inactive
+5dbee8c9-272e-4d27-f999-64993d549cf0,"Ideas 4 Transformation",Reseller,"Amit Singh",2023-06-26,2023,6,June,Monday,2023-06-26,1068,Inactive
+5dce4ff5-26ee-7792-530f-641c2bb36642,"Orchid Scientific & Innovative India Pvt. Ltd",Customer,"Amit Singh",2023-03-23,2023,3,March,Thursday,2024-03-04,816,Inactive
+5e008274-1def-27bc-fbf8-5cb5ad271ab4,"SAFE Software & Integrated Solutions Pvt Ltd",Reseller,"Amit Singh",2019-04-16,2019,4,April,Tuesday,2025-08-08,294,Inactive
+5e135f9d-ad72-8165-0cbd-66615af571f3,"SICURTRE SRL",Reseller,"Amit Singh",2024-06-06,2024,6,June,Thursday,2024-06-06,722,Inactive
+5e256bb7-3c4f-e9fd-b3ae-5c63e7420bbe,"Vascon Solutions",Reseller,"Amit Singh",2019-02-13,2019,2,February,Wednesday,2019-02-13,2662,Inactive
+5eb52328-ede9-687e-769f-5e8593b47f15,"Hanco Global Solutions",Reseller,"Amit Singh",2020-04-02,2020,4,April,Thursday,2020-04-02,2248,Inactive
+5ec2a4e9-7088-69ea-8d3f-66ae44ae4dcc,"Act Computers",Reseller,"Bhavin Patel",2024-08-03,2024,8,August,Saturday,2024-10-14,592,Inactive
+5eef5366-41e1-4dda-e233-5d22f4256c55,"AdNet Agency",Reseller,"Amit Singh",2019-07-08,2019,7,July,Monday,2019-11-01,2401,Inactive
+5f81da60-4264-0783-6a2f-644f7a1b9e6d,"Dialing Innovations",Reseller,"Amit Singh",2023-05-01,2023,5,May,Monday,2024-05-13,746,Inactive
+5faa08ae-4724-b9ed-a6e2-5e4e788a1e7e,"UP Broadcast",Customer,"Amit Singh",2020-02-20,2020,2,February,Thursday,2020-02-20,2290,Inactive
+5ff2233e-8454-9f74-00f9-66a23bbbf43b,"Communica Group",Customer,"Amit Singh",2024-07-25,2024,7,July,Thursday,2024-09-24,612,Inactive
+5ff246c0-9c04-ceef-e234-5fc0c25e3dc2,"Icontact ilirix",Prospect,"Amit Singh",2020-11-27,2020,11,November,Friday,2020-11-27,2009,Inactive
+5ff8d655-53f1-7b07-4dd3-619bad809a27,"Grupo Dinsar",Reseller,"Amit Singh",2021-11-22,2021,11,November,Monday,2021-11-22,1649,Inactive
+60156e1c-fc3a-0388-e22c-5db14e51ec16,"Rams Computer World",Reseller,"Amit Singh",2019-10-24,2019,10,October,Thursday,2019-10-24,2409,Inactive
+603eaa85-303c-4cdb-3fca-62bae1d45df1,"Toyo Sanitary Wares Private Limited",Customer,"Amit Singh",2022-06-28,2022,6,June,Tuesday,2022-07-23,1406,Inactive
+6046018b-2b4b-2440-2765-5e50cbc665f4,epyrrekej9113,Customer,"Amit Singh",2020-02-22,2020,2,February,Saturday,2020-02-22,2288,Inactive
+60c324f1-6970-4925-ac0d-5d4a907fc3a2,"Comptronic Solutions",Customer,"Amit Singh",2019-08-07,2019,8,August,Wednesday,2019-09-03,2460,Inactive
+61244ec4-ca13-e8cb-a2f7-60f93911db18,"JDA Advanced Solutions",Reseller,"Amit Singh",2021-07-22,2021,7,July,Thursday,2021-07-22,1772,Inactive
+612f8975-132b-7f81-c68c-5dc92ae7d01a,"Acma Computers Ltd",Reseller,"Amit Singh",2019-11-11,2019,11,November,Monday,2025-11-06,204,Inactive
+61338d5a-de25-a904-ca24-6478301c4ad1,"Mangal Murti Softech",Reseller,"Amit Singh",2023-06-01,2023,6,June,Thursday,2024-10-24,582,Inactive
+615222d6-e44d-1cb8-e60c-60a20193bbe6,"Envisions Hub",Reseller,"Amit Singh",2021-05-17,2021,5,May,Monday,2021-09-04,1728,Inactive
+616b0778-f309-2f2d-e505-5f97beecb639,Teloro,Customer,"Amit Singh",2020-10-27,2020,10,October,Tuesday,2020-10-27,2040,Inactive
+61a3f6f3-6bbe-6220-a760-655eef80d694,"Infinity Technology Services",Reseller,"Amit Singh",2023-11-23,2023,11,November,Thursday,2023-11-23,918,Inactive
+61c72d69-d059-a0dc-48dc-5d931480796f,StüdioX,Unknown,"Amit Singh",2019-10-01,2019,10,October,Tuesday,2019-10-01,2432,Inactive
+6235d98d-cc21-d488-705c-60c32e3d07d2,"semantIQ SA",Reseller,"Amit Singh",2021-06-11,2021,6,June,Friday,2021-06-11,1813,Inactive
+62c9ea7e-63b8-ec47-9e1d-61b71f55fd44,"Infoway India",Reseller,"Amit Singh",2021-12-13,2021,12,December,Monday,2021-12-13,1628,Inactive
+63147af8-395e-c2a0-3275-600fc8819b75,GermedUSA,Customer,"Amit Singh",2021-01-26,2021,1,January,Tuesday,2021-01-26,1949,Inactive
+63538807-91a5-01d6-3e14-5f11938428b5,"Black Tier Group.",Customer,"Amit Singh",2020-07-17,2020,7,July,Friday,2020-07-17,2142,Inactive
+6379094f-d626-583d-21e4-5cb5ce3e4052,"Koy Lab",Customer,"Amit Singh",2019-04-16,2019,4,April,Tuesday,2019-12-07,2365,Inactive
+63a94408-46c3-84e8-d8c0-5dd681c5e2b6,Nestiwork,Customer,"Amit Singh",2019-11-21,2019,11,November,Thursday,2019-11-21,2381,Inactive
+64bc0906-7a35-0010-0c85-65d6ee9cca42,"Unicorn Service Solutions",Customer,"Amit Singh",2024-02-22,2024,2,February,Thursday,2024-02-22,827,Inactive
+652ffe8f-803d-99c5-b798-5d930c2bef3f,"Dynamite App Technologies (DAT)",Partner,"Amit Singh",2019-10-01,2019,10,October,Tuesday,2022-09-12,1355,Inactive
+65542ba4-3eaa-1f46-252b-5f6f300a2004,"Advanced Digital Technology, Inc.",Customer,"Amit Singh",2020-09-26,2020,9,September,Saturday,2020-09-26,2071,Inactive
+659c3030-8005-2097-7082-5e8c15f162aa,"Logic Fusion Pvt Ltd",Partner,"Amit Singh",2020-04-07,2020,4,April,Tuesday,2023-05-05,1120,Inactive
+65d3dcb6-863a-7e4e-a044-5e5ca0813d3c,Active_Research,Customer,"Amit Singh",2020-03-02,2020,3,March,Monday,2020-03-02,2279,Inactive
+65d6d404-67da-b2b6-8572-5d4d484d60ea,"To Signature Smiles Dental Clinic Pvt. Ltd",Customer,"Amit Singh",2019-08-09,2019,8,August,Friday,2019-09-01,2462,Inactive
+66462ab3-f1b2-06ef-573a-5de4cedc53aa,"Creadent Solutions",Partner,"Amit Singh",2019-12-02,2019,12,December,Monday,2020-01-06,2335,Inactive
+664bd834-7184-5bad-ac98-6048a82ac201,"IWL -head office",Customer,"Amit Singh",2021-03-10,2021,3,March,Wednesday,2021-03-10,1906,Inactive
+666d8119-c9d7-efdd-3bba-653b90d457f2,"Greytip Software Pvt. Ltd.",Reseller,"Amit Singh",2023-10-27,2023,10,October,Friday,2024-01-04,876,Inactive
+66753f3e-d74e-e944-9256-5d5e36175dba,"PPS A/S",Customer,"Amit Singh",2019-08-22,2019,8,August,Thursday,2019-10-21,2412,Inactive
+667f051e-5949-14d6-920d-5d930b06e91d,"Easa Saleh Al Gurg Group LLC.",Customer,"Amit Singh",2019-10-01,2019,10,October,Tuesday,2019-11-01,2401,Inactive
+66af2c97-8127-55a1-33d7-612f1d583fbb,"Sandbox Strategies",Customer,"Amit Singh",2021-09-01,2021,9,September,Wednesday,2021-09-01,1731,Inactive
+670a1b31-499e-cdcf-713a-63f373d4aed1,SICES,Customer,"Amit Singh",2023-02-20,2023,2,February,Monday,2023-02-20,1194,Inactive
+671a5e7a-2463-3b52-5bce-62a336363e74,"Miracle Tech Distributors Pvt Ltd",Reseller," ",2022-06-10,2022,6,June,Friday,2025-01-31,483,Inactive
+67d4a291-cef5-ba47-ae06-61937c2bf493,"Nirlon Kitchenware Private Limited",Customer,"Amit Singh",2021-11-16,2021,11,November,Tuesday,2021-11-22,1649,Inactive
+681e1e1c-37c6-5c21-0c9e-666ac0e7cf79,"Technowin Solutions Private Limited",Reseller,"Amit Singh",2024-06-13,2024,6,June,Thursday,2025-09-17,254,Inactive
+68373a27-98c8-eaf7-9b89-5c8c9571b00b,"EngageCRM UK",Reseller,"Amit Singh",2019-03-16,2019,3,March,Saturday,2019-11-01,2401,Inactive
+6970855b-9059-ed1e-d7df-6651d8928fe1,"Primes & Zooms",Customer,"Amit Singh",2024-05-25,2024,5,May,Saturday,2024-05-25,734,Inactive
+6a356558-8650-61b7-9826-6177a9f957c4,"My Consistent Profits",Customer,"Amit Singh",2021-10-26,2021,10,October,Tuesday,2021-12-16,1625,Inactive
+6aa9bce9-fafc-cb37-29bf-5c13881918a5,Lyudmila,Customer,"Amit Singh",2018-12-14,2018,12,December,Friday,2019-11-01,2401,Inactive
+6ac20b28-352e-ec53-29b8-5e50c4a5a126,"WinTech llc",Reseller,"Amit Singh",2020-02-22,2020,2,February,Saturday,2020-02-22,2288,Inactive
+6b2506a1-9822-35a4-5e94-5c9867e45d76,"Meshi Computers",Reseller,"Amit Singh",2019-03-25,2019,3,March,Monday,2019-11-01,2401,Inactive
+6b8417d2-2754-3dcc-bdf7-64105fa9daf9,"Coverage One Insurance Group LLC.",Customer,"Amit Singh",2023-03-14,2023,3,March,Tuesday,2023-06-08,1086,Inactive
+6b8d0b4f-beb2-dc28-1aa3-5d93039e53fd,Concentrix,Reseller,"Amit Singh",2019-10-01,2019,10,October,Tuesday,2019-11-01,2401,Inactive
+6bc8f412-2d89-35af-c1c4-6149bad08a26,"Viva Composite Panel Private Limited",Customer,"Amit Singh",2021-09-21,2021,9,September,Tuesday,2025-06-20,343,Inactive
+6bd3763a-1235-5827-59f0-65954d293609,"Connext Network",Customer,"Amit Singh",2024-01-03,2024,1,January,Wednesday,2024-02-20,829,Inactive
+6bf89c55-2d6c-0be5-616b-601a9ea8c7b5,Creattività,Reseller,"Amit Singh",2021-02-03,2021,2,February,Wednesday,2021-02-03,1941,Inactive
+6c59c267-7fa2-3c8a-4302-5df0ec4ecb69,"UIC Intercontinental University",Customer,"Amit Singh",2019-12-11,2019,12,December,Wednesday,2019-12-11,2361,Inactive
+6c77599a-bc6a-38f4-be54-63c0f8148e71,"Weismann Web LLC",Reseller,"Amit Singh",2023-01-13,2023,1,January,Friday,2023-01-27,1218,Inactive
+6c96221b-2ff2-1f62-8861-6166d730998f,"Dockmate USA",Customer,"Amit Singh",2021-10-13,2021,10,October,Wednesday,2021-10-13,1689,Inactive
+6d61b0fc-62f9-0b6f-70da-6729b65901b5,GivemetheVIN.com,Customer,"Amit Singh",2024-11-05,2024,11,November,Tuesday,2024-11-05,570,Inactive
+6d91e302-e0de-e579-3c21-5d95eead4c36,"Final Expense Direct",Customer,"Amit Singh",2019-10-03,2019,10,October,Thursday,2019-10-31,2402,Inactive
+6dd7c448-d63b-837c-cc75-606abd4d8abf,xjkeee,Unknown,"Amit Singh",2021-04-05,2021,4,April,Monday,2021-04-05,1880,Inactive
+6df092ab-4519-f433-5708-5d26cd3820f7,"Welker & Associates Inc.",Customer,"Amit Singh",2019-07-11,2019,7,July,Thursday,2019-07-15,2510,Inactive
+6df0d3c2-5f5f-5218-f4f7-61f3c186c924,"Fincare Services",Customer,"Amit Singh",2022-01-28,2022,1,January,Friday,2022-06-17,1442,Inactive
+6e8efcb2-14cd-4b17-11ef-60c3256754f8,"Woodhollow Designs",Customer,"Amit Singh",2021-06-11,2021,6,June,Friday,2024-05-11,748,Inactive
+6f1978d8-0711-9272-ec02-60e3fb822f46,"Inteliwaves Technology Private Limited",Partner,"Amit Singh",2021-07-06,2021,7,July,Tuesday,2022-08-20,1378,Inactive
+6faea7f6-e4f9-eee5-e001-641af84eb7c6,"Vikas Info Solutions",Partner,"Amit Singh",2023-03-22,2023,3,March,Wednesday,2023-03-22,1164,Inactive
+6fafd9bf-c408-12eb-258b-5c5d7d6dbc41,"Landmark Group",Customer,"Amit Singh",2019-02-08,2019,2,February,Friday,2019-11-01,2401,Inactive
+6fcb66a3-23fd-c031-963b-68e5fabe6ad1,amrmk7,Customer,"Amit Singh",2025-10-08,2025,10,October,Wednesday,2025-10-08,233,Inactive
+6fcf0eb2-469d-8043-256b-5e7eee7e1625,Farpost,Reseller,"Amit Singh",2020-03-28,2020,3,March,Saturday,2020-03-28,2253,Inactive
+6fd181f0-77af-8ff9-76e4-663f73c310be,LearnersPlatform,Customer,"Amit Singh",2024-05-11,2024,5,May,Saturday,2024-05-11,748,Inactive
+70037682-3cd7-b115-8f3f-615ac53fe501,"Confident Sales India Pvt Ltd.",Customer,"Amit Singh",2021-10-04,2021,10,October,Monday,2023-03-24,1162,Inactive
+70381856-2515-6dbe-fed7-608f93ac6a92,Verra,Customer,"Amit Singh",2021-05-03,2021,5,May,Monday,2021-11-16,1655,Inactive
+707c2094-7e48-1402-fd9c-5c8f4efa1009,Proactii,Unknown,"Amit Singh",2019-03-18,2019,3,March,Monday,2024-08-27,640,Inactive
+70b7e194-7c34-a607-425c-6030f074850f,Mathscan,Reseller,"Amit Singh",2021-02-20,2021,2,February,Saturday,2021-02-20,1924,Inactive
+70e00a29-7f8c-3915-3ab8-648fe7681282,Ward,Customer,"Amit Singh",2023-06-19,2023,6,June,Monday,2023-06-19,1075,Inactive
+7140a24b-2991-e744-bee2-654b280c85e4,MUFG,Customer,"Amit Singh",2023-11-08,2023,11,November,Wednesday,2023-11-24,917,Inactive
+717004b7-f85a-1b30-a5ab-5d837f296e57,"Aimondo GmbH",Customer,"Amit Singh",2019-09-19,2019,9,September,Thursday,2019-09-19,2444,Inactive
+7172fe31-add9-2e82-1ed9-668d05b0ba32,AngelOne,Customer,"Amit Singh",2024-07-09,2024,7,July,Tuesday,2024-07-09,689,Inactive
+71c9812d-445b-bd27-f521-5faa2b356cdb,"Vetril Systems Pvt. Ltd.",Partner,"Amit Singh",2020-11-10,2020,11,November,Tuesday,2023-04-13,1142,Inactive
+72246394-7873-711b-c916-5d319efcca42,Squiz,Customer,"Amit Singh",2019-07-19,2019,7,July,Friday,2019-07-19,2506,Inactive
+72ca532a-b35e-7f5c-ad62-5dcd35302780,"RICK IT WORLD",Partner,"Amit Singh",2019-11-14,2019,11,November,Thursday,2020-01-25,2316,Inactive
+72e1dca2-d5dc-2c23-63a1-64cc9116876d,"Grupo NODS",Reseller,"Amit Singh",2023-08-04,2023,8,August,Friday,2023-08-04,1029,Inactive
+72e682fe-4b91-5d5c-e3da-615c2161b845,800CarGuru,Customer,"Amit Singh",2021-10-05,2021,10,October,Tuesday,2024-11-20,555,Inactive
+72f58e3d-01de-ad74-b759-5d4a8f23fe92,VocaBase,Reseller,"Amit Singh",2019-08-07,2019,8,August,Wednesday,2019-10-07,2426,Inactive
+735691a1-ea24-addd-d553-60be01ee1d6f,Malikchand,Customer,"Amit Singh",2021-06-07,2021,6,June,Monday,2021-06-07,1817,Inactive
+7398d7bd-cadd-93d0-47fd-5bf2a91aa6b0,"Infranet, S.A",Reseller," ",2018-11-19,2018,11,November,Monday,2018-12-18,2719,Inactive
+746c3ba9-e8e9-0123-54e9-6077ce4a859a,"Sentry Surveillance, Inc.",Customer,"Amit Singh",2021-04-15,2021,4,April,Thursday,2021-04-15,1870,Inactive
+74af2be3-453a-5f6b-99df-68fc60c6bdb3,"Leap Networks Pty Ltd",Customer,"Amit Singh",2025-10-25,2025,10,October,Saturday,2025-10-25,216,Inactive
+74d66ca4-eb32-566c-96d9-649409f7173c,"Tarben Ventures Ltd",Customer,"Amit Singh",2023-06-22,2023,6,June,Thursday,2023-06-22,1072,Inactive
+74fe3bf2-be56-1a93-fe9e-5def48d890b5,"SPECIAL EVENT DJZ",Customer," ",2019-12-10,2019,12,December,Tuesday,2019-12-10,2362,Inactive
+754d2b59-5b94-eb79-3a3c-64a6b836936b,"Emirates International Facility Management (EIFM)",Customer,"Amit Singh",2023-07-06,2023,7,July,Thursday,2023-07-06,1058,Inactive
+754e5199-147f-c6e6-6b14-60b61ad384c4,usmanarshad8112,Customer,"Amit Singh",2021-06-01,2021,6,June,Tuesday,2024-11-29,546,Inactive
+757b22d0-fec6-1964-7d23-5f756e8543f8,"Autonomous University of the Caribbean",Customer,"Amit Singh",2020-10-01,2020,10,October,Thursday,2020-10-01,2066,Inactive
+759f00be-83df-6562-b9f2-638b155c6299,Shapotools,Customer,"Amit Singh",2022-12-03,2022,12,December,Saturday,2022-12-03,1273,Inactive
+75aaedca-a16c-457d-708b-673c3193a80f,"Saraswati infosys",Partner,"Amit Singh",2024-11-19,2024,11,November,Tuesday,2024-11-19,556,Inactive
+767a7e59-77be-699d-f9f7-5cfbb739245f,"Cool Multimedia",Customer,"Amit Singh",2019-06-08,2019,6,June,Saturday,2019-11-01,2401,Inactive
+76a17b9a-ae24-23fb-f4e1-5c91d423cc6c,"Southwest University",Customer,"Amit Singh",2019-03-20,2019,3,March,Wednesday,2019-11-01,2401,Inactive
+76e1149c-fa96-8aa2-4209-5f9949d8505c,"Link Systems",Reseller,"Amit Singh",2020-10-28,2020,10,October,Wednesday,2020-10-28,2039,Inactive
+773a6f47-9a02-bc87-5120-65007b09d34f,"ACE Rentek Co.Ltd.",Customer,"Amit Singh",2023-09-12,2023,9,September,Tuesday,2023-09-20,982,Inactive
+7758abfc-f39a-9c44-1d04-5c88ef230f95,"Verity International Ltd.™",Reseller,"Amit Singh",2019-03-13,2019,3,March,Wednesday,2019-03-13,2634,Inactive
+77a4399a-29d9-b7a8-f3e6-5f05ae4b3089,Mytetra,Customer,"Amit Singh",2020-07-08,2020,7,July,Wednesday,2020-07-08,2151,Inactive
+77d533e2-6f69-1fb6-a577-5d4e6af21e32,"Innovate Infotech Pvt Ltd",Reseller,"Amit Singh",2019-08-10,2019,8,August,Saturday,2019-11-01,2401,Inactive
+785cd9e4-f565-32f9-947b-6322cfc901e9,"Reconnect Energy",Customer,"Amit Singh",2022-09-15,2022,9,September,Thursday,2023-02-17,1197,Inactive
+78a48154-b8bd-116d-9d30-619b43d74c1a,"Nirmal Seeds Pvt Ltd",Customer,"Amit Singh",2021-11-22,2021,11,November,Monday,2021-11-22,1649,Inactive
+79872b4b-e258-1511-4c63-5edf5735940b,BETALD,Customer,"Amit Singh",2020-06-09,2020,6,June,Tuesday,2020-06-09,2180,Inactive
+79999148-cc43-bd00-6c31-638ed9b009fa,"1point (north west) limited",Customer,"Amit Singh",2022-12-06,2022,12,December,Tuesday,2022-12-06,1270,Inactive
+79a0d243-2eb2-a5af-a3d6-5e7ee64099ff,"Aivamastu Consulting",Reseller,"Amit Singh",2020-03-28,2020,3,March,Saturday,2020-03-28,2253,Inactive
+79af040a-f494-d3dd-b4aa-643d0d15d616,"RDP Workstation Pvt Ltd",Partner,"Amit Singh",2023-04-17,2023,4,April,Monday,2023-04-17,1138,Inactive
+79de729a-7784-c626-3d4a-66c737d4eed2,"Software@Work India Pvt Ltd",Partner,"Amit Singh",2024-08-22,2024,8,August,Thursday,2024-08-22,645,Inactive
+79e274db-0fe8-facb-9459-5f73171387b8,ProjectsPakistan,Customer,"Amit Singh",2020-09-29,2020,9,September,Tuesday,2020-10-19,2048,Inactive
+7a125be7-93f0-9276-5eec-5da416f04ddd,"CBROS Technologies Limited",Customer,"Amit Singh",2019-10-14,2019,10,October,Monday,2019-10-14,2419,Inactive
+7a613ec9-b90f-9e0f-dd9c-61b7204a33c2,"Udyog Software India Ltd",Reseller,"Amit Singh",2021-12-13,2021,12,December,Monday,2021-12-13,1628,Inactive
+7adc54ea-c03c-1ccd-c82d-605073c70048,"DSL Packaging & sales Pvt.Ltd.,",Customer,"Amit Singh",2021-03-16,2021,3,March,Tuesday,2021-03-16,1900,Inactive
+7b777f8c-aee0-49e8-768a-66c86b659f9a,Nakshatra,Reseller,"Amit Singh",2024-08-23,2024,8,August,Friday,2024-08-23,644,Inactive
+7bacdae8-521b-e573-2308-5e99541d66bd,"Unique Innovations",Customer,"Amit Singh",2020-04-17,2020,4,April,Friday,2020-10-22,2045,Inactive
+7bfd213c-7be7-0f61-5940-612388aeecf2,"MSI medical supply Inc",Customer,"Amit Singh",2021-08-23,2021,8,August,Monday,2021-08-23,1740,Inactive
+7d3d071e-e7e1-7609-e47e-5f8ed0891831,"Vivitel Communications Inc",Reseller,"Amit Singh",2020-10-20,2020,10,October,Tuesday,2020-10-20,2047,Inactive
+7d6720af-7c11-0353-b50c-61e80159d237,gianko.com,Reseller,"Amit Singh",2022-01-19,2022,1,January,Wednesday,2022-01-19,1591,Inactive
+7d6882c9-98ce-fa03-9e15-6579549e91f0,"Massif Marketing",Reseller,"Amit Singh",2023-12-13,2023,12,December,Wednesday,2023-12-13,898,Inactive
+7d7d1f8b-2de4-35c7-a4fc-5c6ff1a3f9ab,"EPIC MDEPIC Primary Care",Customer,"Amit Singh",2019-02-22,2019,2,February,Friday,2019-02-22,2653,Inactive
+7df62cbe-84b2-36de-58f6-615459dea511,"Genix Ventures Pty Ltd",Reseller,"Amit Singh",2021-09-29,2021,9,September,Wednesday,2024-05-11,748,Inactive
+7e676d49-c57c-6955-6ec8-63f4590ae7dd,Aydaen,Customer,"Amit Singh",2023-02-21,2023,2,February,Tuesday,2023-02-21,1193,Inactive
+7e94434c-f617-c909-19ef-5f6f24c614df,"Fibula Air Travel",Customer,"Amit Singh",2020-09-26,2020,9,September,Saturday,2020-09-26,2071,Inactive
+7ea00504-e21f-2bbe-f7d3-5d91aa905d4b,"Alice blue Commodities Pvt Ltd",Customer,"Amit Singh",2019-09-30,2019,9,September,Monday,2019-12-13,2359,Inactive
+7ecc0620-3805-8c48-1032-635fa3f8930a,"Future Learning Institute Private Limited",Customer,"Amit Singh",2022-10-31,2022,10,October,Monday,2023-01-11,1234,Inactive
+7f2dfbb8-c6e2-f007-bffc-66bc99647b5f,"SM Industries",Customer,"Amit Singh",2024-08-14,2024,8,August,Wednesday,2025-10-11,230,Inactive
+7f3c3f99-0273-4424-5a6a-5db7cb39765b,"TierFive Solutions Group, Inc.",Reseller,"Amit Singh",2019-10-29,2019,10,October,Tuesday,2019-10-29,2404,Inactive
+7f75e6cb-0c52-1646-d469-5e4b9c4c5ab0,"Umawar Group",Customer,"Amit Singh",2020-02-18,2020,2,February,Tuesday,2020-05-16,2204,Inactive
+7f813332-1ee8-bcd6-f59e-5c625c3279f6,"Copipunto Imprenta Digital",Customer,"Amit Singh",2019-02-12,2019,2,February,Tuesday,2019-02-12,2663,Inactive
+7f85f781-a2ff-a54a-14db-5fd9a9fae261,"Freetech Solutions",Reseller,"Amit Singh",2020-12-16,2020,12,December,Wednesday,2020-12-20,1986,Inactive
+7f868533-b397-2ea9-b81d-5c35a0c3431d,"Compu Graphics4U",Partner,"Amit Singh",2019-01-09,2019,1,January,Wednesday,2019-11-01,2401,Inactive
+8036d374-8170-806a-4746-6684fda47a91,Ecosystem.Ai,Reseller,"Amit Singh",2024-07-03,2024,7,July,Wednesday,2024-07-03,695,Inactive
+805bf6ab-09a8-5d30-74d7-611f4acfc770,"GROUPE SONATEL",Customer,"Amit Singh",2021-08-20,2021,8,August,Friday,2021-08-20,1743,Inactive
+80735b51-f0c3-e718-69fb-5ec6041c7aac,"MK1 Technology Co., Ltd.",Reseller,"Amit Singh",2020-05-21,2020,5,May,Thursday,2020-05-21,2199,Inactive
+80d014e9-82b6-fc2e-f776-642e82970d0d,"Sparacino Realty Advisors, Inc.",Customer,"Amit Singh",2023-04-06,2023,4,April,Thursday,2024-05-10,749,Inactive
+80e24f6c-3357-799f-05a9-643d3dfc3073,"Sgeye Innovations Private Limited",Customer,"Amit Singh",2023-04-17,2023,4,April,Monday,2023-04-17,1138,Inactive
+8128d3be-77e0-3e97-fe31-5f803d62dde8,"L&F Group Sp. z o. o",Customer,"Amit Singh",2020-10-09,2020,10,October,Friday,2020-10-09,2058,Inactive
+8137097b-5ba8-7ace-441a-686f9e72e354,"Soft-Tech Computers Pvt Ltd",Reseller,"Amit Singh",2025-07-10,2025,7,July,Thursday,2025-07-10,323,Inactive
+8150f08d-6a66-7129-40eb-649d77101d76,"Enable Services",Reseller,"Amit Singh",2023-06-29,2023,6,June,Thursday,2024-07-01,697,Inactive
+815d9a4b-a4a7-a695-8185-5d1afbcfc3d1,"Darcos Mexico",Customer,"Amit Singh",2019-07-02,2019,7,July,Tuesday,2019-11-01,2401,Inactive
+81c2d0e3-8f10-1ef8-067d-5d440aa493e0,GrowthAide,Reseller,"Amit Singh",2019-08-02,2019,8,August,Friday,2019-08-03,2491,Inactive
+81c9989d-d23e-580a-e0a0-5d8ded89a560,"Zoogle Technologies",Reseller,"Amit Singh",2019-09-27,2019,9,September,Friday,2022-09-08,1359,Inactive
+81d3bfad-a2ab-2100-2bd7-5de4e4a94bfd,"ACME Computing Services",Reseller,"Amit Singh",2019-12-02,2019,12,December,Monday,2019-12-02,2370,Inactive
+82637320-874d-793a-dadb-62357955059e,Gipyc,Customer,"Amit Singh",2022-03-19,2022,3,March,Saturday,2022-03-19,1532,Inactive
+82c7e24b-ea63-443f-24c1-5e203638dc30,"ERP Solutions",Unknown,"Amit Singh",2020-01-16,2020,1,January,Thursday,2020-01-16,2325,Inactive
+82e6eb65-7670-d206-0cea-5e7eecc45015,"Zoos South Australia",Customer,"Amit Singh",2020-03-28,2020,3,March,Saturday,2020-03-28,2253,Inactive
+831392d1-42b6-4e7d-86a7-4a42d97e9a62,MecTech,Customer,"Amit Singh",2026-04-06,2026,4,April,Monday,2026-04-11,48,Active
+839ec6d9-c0d3-4c63-8d93-7e9778bbbbf6,"Mayur Solar",,"Amit Singh",2026-02-14,2026,2,February,Saturday,2026-02-14,104,Inactive
+83aef549-2dfd-d2f4-9609-5de5e96bb4d5,"CBD IT Solutions Pvt Ltd",Partner,"Amit Singh",2019-12-03,2019,12,December,Tuesday,2019-12-24,2348,Inactive
+83e9afc8-ce38-ad03-9ab2-67cbe4236140,"POWER ELECTRONICS AND SOLUTIONS MARVEL MICROSYS",Customer,"Amit Singh",2025-03-08,2025,3,March,Saturday,2025-03-08,447,Inactive
+841bf19e-3d86-71ee-5a72-5dc286cd0882,henrypet712,Unknown,"Amit Singh",2019-11-06,2019,11,November,Wednesday,2019-11-06,2396,Inactive
+845af2d7-8081-afc0-27a1-63383fade1e6,"Health Connect Bd",Customer,"Amit Singh",2022-10-01,2022,10,October,Saturday,2022-10-01,1336,Inactive
+848f02d2-a18f-466e-6c33-5e4b986a3591,Bezalu,Reseller,"Amit Singh",2020-02-18,2020,2,February,Tuesday,2025-08-11,291,Inactive
+8565398a-9b1b-661a-6048-5cdf99d77e77,Santiago,Customer,"Amit Singh",2019-05-18,2019,5,May,Saturday,2019-11-01,2401,Inactive
+859bd7b8-9004-856c-8c5d-610be36380ff,"Redian Software Global",Partner,"Amit Singh",2021-08-05,2021,8,August,Thursday,2021-08-09,1754,Inactive
+85ec62f1-6186-1a52-d859-5d95f0d6f8c2,"Eligeo CRM Inc.",Reseller,"Amit Singh",2019-10-03,2019,10,October,Thursday,2019-10-03,2430,Inactive
+85f2c681-897e-bc35-f88d-6422e8769439,"Arihant Polymer",Customer,"Amit Singh",2023-03-28,2023,3,March,Tuesday,2023-03-29,1157,Inactive
+862b02f7-8f99-6ff4-10a3-5e032940f1aa,"Glew Engineering Consulting Inc.",Customer,"Amit Singh",2019-12-25,2019,12,December,Wednesday,2019-12-25,2347,Inactive
+86920a18-d2a9-cd83-67da-5dcd3f5b5bce,"Striped Giraffe Innovation & Strategy GmbH",Reseller,"Amit Singh",2019-11-14,2019,11,November,Thursday,2019-11-14,2388,Inactive
+86acf623-2f8b-0de7-df62-62a7406b9397,antonymic,Customer,"Amit Singh",2022-06-13,2022,6,June,Monday,2022-06-13,1446,Inactive
+86c1a702-75d4-1d88-0762-616abd8d2042,"Packt Publishing Limited",Customer,"Amit Singh",2021-10-16,2021,10,October,Saturday,2021-10-16,1686,Inactive
+86c54221-707c-370a-3ee4-5f5f059a5e3e,"Marbe Sa",Customer,"Amit Singh",2020-09-14,2020,9,September,Monday,2020-09-14,2083,Inactive
+87000980-f1e0-9ae3-a454-6045c9f3ca97,"Arihant Capital Markets Ltd",Customer,"Amit Singh",2021-03-08,2021,3,March,Monday,2024-02-05,844,Inactive
+87400179-7bbb-4b5c-2170-5d369623fe5e,"Key Currency",Customer,"Amit Singh",2019-07-23,2019,7,July,Tuesday,2019-10-22,2411,Inactive
+87a12b01-3c19-fbf3-1211-5d78956b3840,"MVAST Corporate Services",Customer,"Amit Singh",2019-09-11,2019,9,September,Wednesday,2019-09-14,2449,Inactive
+87b7c499-4425-2bd4-2436-635b902124db,VoiceTelecom,Reseller,"Amit Singh",2022-10-28,2022,10,October,Friday,2022-10-28,1309,Inactive
+87c08c2e-b305-dba8-3b78-5d9ecc20023b,"Digital Copywriting",Customer,"Amit Singh",2019-10-10,2019,10,October,Thursday,2019-10-23,2410,Inactive
+888ee251-7881-9e9c-2d91-6173afa4e624,"Intake Desk",Customer,"Amit Singh",2021-10-23,2021,10,October,Saturday,2024-05-10,749,Inactive
+88c16320-1527-e1dd-a9ea-5c5c065700ab,"The O-Ring Store, LLC",Customer,"Amit Singh",2019-02-07,2019,2,February,Thursday,2019-11-01,2401,Inactive
+88e62643-bd62-bcef-de30-5c9874776c69,"Tagrem Corp",Reseller,"Amit Singh",2019-03-25,2019,3,March,Monday,2019-05-23,2563,Inactive
+8914660b-2fab-da1c-0ac1-60ace98a22cd,mbayesamb41,Unknown,"Amit Singh",2021-05-25,2021,5,May,Tuesday,2021-05-25,1830,Inactive
+89277510-63fb-f139-1a1d-5db9251a7608,"Julio Sanchez Sosa",Customer,"Amit Singh",2019-10-30,2019,10,October,Wednesday,2019-10-30,2403,Inactive
+89280be2-8950-1751-afa2-637b738db5cd,"Vivaan Water & Enviro Solutions Private Limited",Customer,"Amit Singh",2022-11-21,2022,11,November,Monday,2023-10-09,963,Inactive
+892e8eee-8c0e-d9c2-996a-5ebb8d96d911,SaadKhakwani,Customer,"Amit Singh",2020-05-13,2020,5,May,Wednesday,2021-02-12,1932,Inactive
+894ddffe-d9eb-25ee-4c2a-5e9801a3ae67,"Adsar Hydro Controls",Customer,"Amit Singh",2020-04-16,2020,4,April,Thursday,2025-10-01,240,Inactive
+89794f40-2d4a-de58-204d-612f87521102,1CLICKHEAT.COM,Customer,"Amit Singh",2021-09-01,2021,9,September,Wednesday,2022-11-10,1296,Inactive
+89e00365-7478-4905-8a8d-6127332c7dc9,"Lake Effect Furniture & Mattress",Customer,"Amit Singh",2021-08-26,2021,8,August,Thursday,2022-01-07,1603,Inactive
+89e03eab-fdb6-2673-0430-613615b03f20,www.ukr.net,Customer,"Amit Singh",2021-09-06,2021,9,September,Monday,2021-09-06,1726,Inactive
+89f62826-5748-5df9-1356-5dce5cdb5f98,"iOne Resources, Inc.",Reseller,"Amit Singh",2019-11-15,2019,11,November,Friday,2019-12-09,2363,Inactive
+8a0351a3-1311-fc84-c9ba-61eabdd1660f,"Sanjay Gund Ltd",Investor,"Sanjay Gund",2022-01-21,2022,1,January,Friday,2025-04-02,422,Inactive
+8a0c9eb5-1105-40c1-27ae-6283387d1bec,"Spocto Solutions Private Limited",Customer,"Bhavin Patel",2022-05-17,2022,5,May,Tuesday,2022-08-18,1380,Inactive
+8a42bbf5-9ffa-532e-b90a-5daaae177259,"t-ip: IP Developments",Reseller,"Amit Singh",2019-10-19,2019,10,October,Saturday,2019-10-19,2414,Inactive
+8a51bf54-1c37-42a5-b8aa-5d6502d03da7,Janse,Customer,"Amit Singh",2019-08-27,2019,8,August,Tuesday,2019-09-14,2449,Inactive
+8ad8c091-e4e4-a788-4b6e-610a69c6fc8c,"Hertz India Inc.",Partner,"Amit Singh",2021-08-04,2021,8,August,Wednesday,2025-01-07,507,Inactive
+8b9be84f-f36b-e0bf-c405-5da0194631be,"Times IT Solutions Ltd",Partner,"Amit Singh",2019-10-11,2019,10,October,Friday,2019-10-11,2422,Inactive
+8baa3d63-8779-086e-b5c0-5d1b0da43ef0,"Nomiki Bibliothiki",Reseller,"Amit Singh",2019-07-02,2019,7,July,Tuesday,2019-07-15,2510,Inactive
+8bb699e1-91b1-841f-a593-658eb33da623,"Kanvtech Solutions Pvt. Ltd",Reseller,"Amit Singh",2023-12-29,2023,12,December,Friday,2024-04-19,770,Inactive
+8c273957-a883-7362-7ebb-63e4f900b573,"Platinum Protection Systems, LLC.",Reseller,"Amit Singh",2023-02-09,2023,2,February,Thursday,2023-02-09,1205,Inactive
+8c63617b-2f41-d2b5-799a-608d30b2002f,SavoStore.com,Customer,"Amit Singh",2021-05-01,2021,5,May,Saturday,2021-05-01,1854,Inactive
+8cbf9791-c43c-04d4-44b5-5ee364caa9ed,Weiaunooi,Customer,"Amit Singh",2020-06-12,2020,6,June,Friday,2020-06-12,2177,Inactive
+8d5bac35-26ef-322e-4207-5d497ac6ec86,Ashley,Customer,"Amit Singh",2019-08-06,2019,8,August,Tuesday,2019-11-01,2401,Inactive
+8d87f670-24c1-1d74-9ab0-5fc214046271,"Koehn Consulting, Inc.",Reseller,"Amit Singh",2020-11-28,2020,11,November,Saturday,2020-11-28,2008,Inactive
+8d93fe55-fc16-afe7-70c1-5e2685058900,FibreCRM,Reseller,"Amit Singh",2020-01-21,2020,1,January,Tuesday,2020-01-21,2320,Inactive
+8db45734-159d-45e6-daf5-672c6e403651,"Jhanvi Singh Daughter of Amit",Unknown,"Amit Singh",2024-11-07,2024,11,November,Thursday,2024-11-07,568,Inactive
+8db61b6d-48d6-31e8-812f-5fcdd572a55f,"Indigo Bookkeeping Services",Customer,"Amit Singh",2020-12-07,2020,12,December,Monday,2020-12-08,1998,Inactive
+8dbad04b-3d8d-2f31-3c4a-5c8cb6add81f,"Taxi Foods & Restaurant Co., LTD.",Customer,"Amit Singh",2019-03-16,2019,3,March,Saturday,2019-11-01,2401,Inactive
+8dd1bdc4-32c5-7f07-5f20-617d2bf910da,"Pectize Technologies Pvt. Ltd.",Reseller,"Amit Singh",2021-10-30,2021,10,October,Saturday,2021-10-30,1672,Inactive
+8e704d68-b320-5ce9-1fbb-62ac14ad875b,"Chroma Color Corporation (Arsenal Capital Partners)",,"Amit Singh",2022-06-17,2022,6,June,Friday,2022-06-17,1442,Inactive
+8ec16ffa-7e20-7522-da27-6158470e3486,"AGC Networks Limited",Reseller,"Amit Singh",2021-10-02,2021,10,October,Saturday,2021-10-02,1700,Inactive
+8ec6a189-0260-5a6a-1597-5d85f4ed4385,DigitalOcean,Reseller,"Amit Singh",2019-09-21,2019,9,September,Saturday,2019-11-01,2401,Inactive
+8f3cc6d6-b70e-1279-05d1-63257bc84c5b,19337,Reseller,"Amit Singh",2022-09-17,2022,9,September,Saturday,2022-09-17,1350,Inactive
+8f518ea1-c1af-5cbe-55cd-676d444c670f,"KS Enterprises",Reseller," ",2024-12-26,2024,12,December,Thursday,2025-02-11,472,Inactive
+8fa10632-00c0-1540-31dd-5e7ede777f4f,"Oriskami OU",Reseller,"Amit Singh",2020-03-28,2020,3,March,Saturday,2020-03-28,2253,Inactive
+8fa2c69b-2548-1dea-09d8-5e882397fd8c,"Farsight Travel Desk LLP",Customer,"Amit Singh",2020-04-04,2020,4,April,Saturday,2020-04-04,2246,Inactive
+8fba5926-e193-07c2-3529-645b92d70160,"UPLAY GLOBAL PHARMA",Customer,"Amit Singh",2023-05-10,2023,5,May,Wednesday,2023-05-10,1115,Inactive
+8feb08d1-3786-c550-acbb-5ee218369d70,"Principal Coverage",Customer,"Amit Singh",2020-06-11,2020,6,June,Thursday,2020-09-08,2089,Inactive
+90381011-e2da-49c2-0231-65489077de5d,"Khandar Softech Private Limited",Partner,"Amit Singh",2023-11-06,2023,11,November,Monday,2023-11-06,935,Inactive
+903ad1ec-a9ce-8b90-ec59-5daab2cefed9,Danix,Customer,"Amit Singh",2019-10-19,2019,10,October,Saturday,2019-10-19,2414,Inactive
+909cbd48-7639-2707-b4eb-6564454e30be,"Innoveza Business Software Solutions",Reseller,"Amit Singh",2023-11-27,2023,11,November,Monday,2024-08-27,640,Inactive
+90b23756-2083-e24d-f55b-616a83642f90,POS365.VN,Reseller,"Amit Singh",2021-10-16,2021,10,October,Saturday,2021-10-23,1679,Inactive
+90e97bbf-3715-1ed3-936b-646490e4a57e,"Agencia Nacional de Desarrollo",Customer,"Amit Singh",2023-05-17,2023,5,May,Wednesday,2023-05-17,1108,Inactive
+918541c0-93d3-b901-482a-672c6e2c8ca7,"Aarvee daughter of Manish",Unknown,"Amit Singh",2024-11-07,2024,11,November,Thursday,2024-11-07,568,Inactive
+919e593e-6273-8d1d-6f41-63a5a810d5a1,Simposio,Reseller,"Amit Singh",2022-12-23,2022,12,December,Friday,2023-01-17,1228,Inactive
+91d9289e-2f6c-1674-9622-609cda55a518,"Aarchi Infotech Solutions (AIS)",Partner,"Amit Singh",2021-05-13,2021,5,May,Thursday,2021-05-13,1842,Inactive
+922f6de1-1b1a-74b6-863b-5f92a26d4def,STARMAC,Customer,"Amit Singh",2020-10-23,2020,10,October,Friday,2024-05-10,749,Inactive
+9239ff2c-706d-45b5-1a8d-5d7c8ef63b3b,NetThunder,Reseller,"Amit Singh",2019-09-14,2019,9,September,Saturday,2019-11-01,2401,Inactive
+92630eb9-1820-85fa-965b-5e60b6574fd2,"Quebble Professional",Customer,"Amit Singh",2020-03-05,2020,3,March,Thursday,2020-03-05,2276,Inactive
+92987d38-1e22-392d-6712-603f83fbe010,"Okappy Ltd.",Reseller,"Amit Singh",2021-03-03,2021,3,March,Wednesday,2025-03-15,440,Inactive
+92f602b0-2687-af0f-6538-5c5599436b1c,"Axis My India Ltd (AAJ TAK)",Customer,"Amit Singh",2019-02-02,2019,2,February,Saturday,2019-12-11,2361,Inactive
+9317babb-8b8f-2c53-fa95-6763bf060961,"Neelkanth Dream House Llp",Customer,"Amit Singh",2024-12-19,2024,12,December,Thursday,2024-12-19,526,Inactive
+93593591-c811-57d9-58fc-5dd2532598b5,"Om Computer",Reseller,"Amit Singh",2019-11-18,2019,11,November,Monday,2019-11-18,2384,Inactive
+93f7a209-15aa-cedb-a73b-6259324ac106,"Packwell industries",Customer,"Amit Singh",2022-04-15,2022,4,April,Friday,2024-12-23,522,Inactive
+94c19749-909e-8695-8de3-60791a91b5b7,"RC Cloud",Partner,"Amit Singh",2021-04-16,2021,4,April,Friday,2021-04-24,1861,Inactive
+950fd290-ac43-bd0b-8d94-5c5c1dbe1a25,"Posilan Ltd",Customer,"Amit Singh",2019-02-07,2019,2,February,Thursday,2019-02-07,2668,Inactive
+9521ad66-3068-c875-5231-5cb02a9b60bf,"O-SO Pure",Customer,"Amit Singh",2019-04-12,2019,4,April,Friday,2026-03-24,66,Active
+9526a890-75c6-3825-63a1-663f439095df,"Tech Implement",Reseller,"Amit Singh",2024-05-11,2024,5,May,Saturday,2024-05-11,748,Inactive
+95318701-d793-8715-e6c2-66a49e6acc64,Errorkart,Reseller,"Amit Singh",2024-07-27,2024,7,July,Saturday,2024-08-21,646,Inactive
+954224a0-3e7c-556d-a936-5fc6325adaf3,"XCEL Corp",Reseller,"Amit Singh",2020-12-01,2020,12,December,Tuesday,2020-12-01,2005,Inactive
+954a03a2-d55a-cc80-7765-623f15bbc3b3,Thanhuyan,Customer,"Amit Singh",2022-03-26,2022,3,March,Saturday,2022-03-26,1525,Inactive
+955e0987-fabe-77cb-056c-6026971ab2d2,"BrianKidd and associates",Customer,"Amit Singh",2021-02-12,2021,2,February,Friday,2021-03-15,1901,Inactive
+956229c6-75b3-052e-76b9-60b629c7ab8d,"Bray International",Unknown,"Amit Singh",2021-06-01,2021,6,June,Tuesday,2021-06-01,1823,Inactive
+9586254d-0335-e017-f5ac-5d78ce8a6e27,"Ozone Logistics Pvt Ltd",Customer,"Amit Singh",2019-09-11,2019,9,September,Wednesday,2019-11-02,2400,Inactive
+95bfbf62-f625-778e-a635-60ffaeecf77e,YouAddon,Reseller,"Amit Singh",2021-07-27,2021,7,July,Tuesday,2021-07-27,1767,Inactive
+95cdce82-e00e-c67d-61f3-5d22ef4e34c2,Schiavello,Customer,"Amit Singh",2019-07-08,2019,7,July,Monday,2019-11-01,2401,Inactive
+95e70332-a901-c2c1-47e0-665032c260df,"Grant Thornton Argentina",Customer,"Amit Singh",2024-05-24,2024,5,May,Friday,2024-06-06,722,Inactive
+95fd3164-75c4-5f87-765d-6577fd5c95ad,"OM Logistics Ltd",Customer,"Amit Singh",2023-12-12,2023,12,December,Tuesday,2023-12-12,899,Inactive
+96638578-82d2-b1c5-3e52-60b09432df37,"Advise Insurance",Customer,"Amit Singh",2021-05-28,2021,5,May,Friday,2021-05-28,1827,Inactive
+96bd27d7-c4f8-7f37-2015-63cbf5f4732d,"9 Miles Marketing",Customer,"Amit Singh",2023-01-21,2023,1,January,Saturday,2023-01-21,1224,Inactive
+9731522a-3002-1955-daba-6768fc9529ad,prandellienoteca,Customer,"Amit Singh",2024-12-23,2024,12,December,Monday,2024-12-23,522,Inactive
+97420391-2a69-66c5-ad3d-64a6afaeddde,"Incredible Travel Network",Customer,"Amit Singh",2023-07-06,2023,7,July,Thursday,2023-07-06,1058,Inactive
+979970c3-d439-5512-2f16-67615de93415,"Next Connect(Solutoins)",Partner,"Amit Singh",2024-12-17,2024,12,December,Tuesday,2025-02-15,468,Inactive
+97cdf401-b6a2-ce0a-000d-5d43f42b8885,"Reeksoft Limited",Reseller,"Amit Singh",2019-08-02,2019,8,August,Friday,2019-11-01,2401,Inactive
+9831c021-ddf7-f990-7aad-61ea922a9ed9,"Tech-India Infosolutions Pvt Ltd",Reseller,"Amit Singh",2022-01-21,2022,1,January,Friday,2023-01-21,1224,Inactive
+98b2c3dc-54cd-c779-8043-5e1d5bb493c9,Anaheim,Customer,"Amit Singh",2020-01-14,2020,1,January,Tuesday,2020-01-14,2327,Inactive
+99060487-c743-a639-9147-6192140ec95e,"Punjab Polytechnic College",Customer,"Amit Singh",2021-11-15,2021,11,November,Monday,2021-11-15,1656,Inactive
+9907055b-bcf2-979b-ae25-5f718088b198,"SG3 Technology",Reseller,"Amit Singh",2020-09-28,2020,9,September,Monday,2020-09-28,2069,Inactive
+991c2d27-ded5-d345-68b2-5db9216bebf1,ROHDE,Customer,"Amit Singh",2019-10-30,2019,10,October,Wednesday,2019-10-30,2403,Inactive
+994cf7b7-700a-883a-3b13-5bf65f7745de,"Grace Christian University",Customer,"Amit Singh",2018-11-22,2018,11,November,Thursday,2022-08-17,1381,Inactive
+99705221-df38-67f1-5125-5e1d8e99bbc8,"SolarEdge Technologies",Customer,"Amit Singh",2020-01-14,2020,1,January,Tuesday,2023-09-12,990,Inactive
+998c5b5c-4dcb-f06d-cc1f-5f8e9ae4ba6f,"Next Visual Design, Lda",Customer,"Amit Singh",2020-10-20,2020,10,October,Tuesday,2020-11-21,2015,Inactive
+99ca7f39-2f6e-b709-9e49-60d41556f76b,"ARCA GROUP LLC.",Customer,"Amit Singh",2021-06-24,2021,6,June,Thursday,2021-08-11,1752,Inactive
+9a7a3192-27a5-2830-5a6a-62a7480e24e3,nghotoumfranck,,"Amit Singh",2022-06-13,2022,6,June,Monday,2022-06-13,1446,Inactive
+9a7abe8c-b1f2-a6e6-cdc9-5bf249dda62b,"Init Systems",Prospect,"Amit Singh",2018-11-19,2018,11,November,Monday,2018-11-19,2748,Inactive
+9a9e58d3-0901-2f54-e86f-6437ffdc8749,"Mobi Konnect",Reseller,"Amit Singh",2023-04-13,2023,4,April,Thursday,2023-04-18,1137,Inactive
+9bdfb5b7-ce0c-8e45-24e7-5e4d132fa977,mohan4u2005,Customer,"Amit Singh",2020-02-19,2020,2,February,Wednesday,2020-03-12,2269,Inactive
+9c2ff851-d3d9-95c6-0c12-67a30c7a40d0,gagsgsv,Investor,"Amit Singh",2025-02-05,2025,2,February,Wednesday,2025-02-05,478,Inactive
+9c7b24ed-e2ae-1ce9-079d-605ade51b19b,"InfoVision Inc.",Reseller,"Amit Singh",2021-03-24,2021,3,March,Wednesday,2021-04-14,1871,Inactive
+9cae07ad-1c4e-029b-38a2-5dc90fbe2c31,"Herman Collins LLC",Customer,"Amit Singh",2019-11-11,2019,11,November,Monday,2019-11-11,2391,Inactive
+9ce5a9fb-d3cf-ae5f-2914-679c98a411df,"Kiana Decor India Pvt Ltd",Prospect,"Amit Singh",2025-01-31,2025,1,January,Friday,2025-10-11,230,Inactive
+9da006a4-369a-635b-6390-5c42cd737e49,Exploseo,Customer,"Amit Singh",2019-01-19,2019,1,January,Saturday,2019-01-19,2687,Inactive
+9db6dadb-9e3f-60d8-2203-63b54990de2a,"Ethames Collage",Customer,"Amit Singh",2023-01-04,2023,1,January,Wednesday,2023-01-04,1241,Inactive
+9dd5363b-69ae-e3b2-627c-6050a90994c9,"Mounting Horizons Inc",Customer,"Amit Singh",2021-03-16,2021,3,March,Tuesday,2021-03-16,1900,Inactive
+9e0d5ee2-1c56-b9b3-7049-630da89a3b87,"Maitri Lab Grown Diamonds",Customer,"Amit Singh",2022-08-30,2022,8,August,Tuesday,2025-03-21,434,Inactive
+9e0f8373-83a7-656a-7ad6-66e2b5cdc8e6,"Trafalgar House Pensions Administration",Customer,"Amit Singh",2024-09-12,2024,9,September,Thursday,2024-09-12,624,Inactive
+9e25de61-c55d-fa82-1bb8-60d9b0439fbf,"Manschaft IT Pvt Ltd",Reseller,"Amit Singh",2021-06-28,2021,6,June,Monday,2021-06-28,1796,Inactive
+9e4a6b03-ea21-dd64-79c1-5e203c8dd2ac,Merida,Customer,"Amit Singh",2020-01-16,2020,1,January,Thursday,2020-01-16,2325,Inactive
+9e595ebf-b492-ef2a-1955-5c96201ff1f8,"BillRun Ltd.",Reseller,"Amit Singh",2019-03-23,2019,3,March,Saturday,2019-12-03,2369,Inactive
+9ed99748-c02c-65b0-cab4-5ebb9b4ddb5b,Sinaengan,Customer,"Amit Singh",2020-05-13,2020,5,May,Wednesday,2020-05-13,2207,Inactive
+9f12d8a6-2a4a-21b0-a3f2-5e005972bd15,Rolustech,Reseller,"Amit Singh",2019-12-23,2019,12,December,Monday,2019-12-23,2349,Inactive
+9f13447e-01e8-a756-f069-637345bb2bc5,"Alliance Business Academy",Customer,"Amit Singh",2022-11-15,2022,11,November,Tuesday,2022-11-15,1291,Inactive
+9f28ac93-50df-e784-7742-64549125d938,"PSSC Labs",Reseller,"Amit Singh",2023-05-05,2023,5,May,Friday,2023-05-05,1120,Inactive
+9fd5e9bc-4c04-3075-ca98-5e859c9be3ab,"KS ONLINE LIMITED",Customer,"Amit Singh",2020-04-02,2020,4,April,Thursday,2020-05-13,2207,Inactive
+9ff75325-d4b9-42c9-b2c5-66f6725d6958,"CRM Wedata Solutions",Customer,"Amit Singh",2024-09-27,2024,9,September,Friday,2025-10-06,235,Inactive
+9ff7f590-6649-c81f-a6d6-672c6d143f86,"Amit Singh son of Dinanath",Unknown,"Amit Singh",2024-11-07,2024,11,November,Thursday,2024-11-07,568,Inactive
+a0290f74-3353-33dd-14a1-6040e2f317bb,"Lead Rest",Customer,"Amit Singh",2021-03-04,2021,3,March,Thursday,2021-03-04,1912,Inactive
+a0905746-7520-2aae-8d63-5d6a25201bcc,"Vertex Computers",Reseller,"Amit Singh",2019-08-31,2019,8,August,Saturday,2023-08-19,1014,Inactive
+a0cc3166-d275-fae0-8649-5e2809207214,"Global Med Group",Customer,"Amit Singh",2020-01-22,2020,1,January,Wednesday,2020-01-22,2319,Inactive
+a122cd7a-bd31-699f-bc40-5c5c2d99a2a9,"Swish Maintenance Limited",Customer,"Amit Singh",2019-02-07,2019,2,February,Thursday,2019-02-07,2668,Inactive
+a16f062d-2405-7b1d-c742-61332bd61fae,"AllWeb Solutions, LLC",Reseller,"Amit Singh",2021-09-04,2021,9,September,Saturday,2021-09-04,1728,Inactive
+a17b1b9c-c0ec-b53a-8ba7-5d75fbe19289,Bhinneka,Customer,"Amit Singh",2019-09-09,2019,9,September,Monday,2020-01-08,2333,Inactive
+a18705d1-41ab-7409-958a-6048a947d6eb,"Alamathy Factory",Customer,"Amit Singh",2021-03-10,2021,3,March,Wednesday,2021-03-10,1906,Inactive
+a19fc41f-47fd-6a51-ee7c-6481ac5bc2d3,"Texas Systems LTD",Customer,"Amit Singh",2023-06-08,2023,6,June,Thursday,2025-07-09,324,Inactive
+a1c64fb2-d50d-1930-ee0b-61e6b161884b,"KP Services",Reseller,"Amit Singh",2022-01-18,2022,1,January,Tuesday,2022-01-18,1592,Inactive
+a22ea9d7-03f4-455d-1218-60507b8cc6a2,artjomsmor,Unknown,"Amit Singh",2021-03-16,2021,3,March,Tuesday,2021-03-16,1900,Inactive
+a25c780e-ab16-fed2-53b0-5f6f2e715fd2,"Rusmanto Maryanto",Customer,"Amit Singh",2020-09-26,2020,9,September,Saturday,2020-12-07,1999,Inactive
+a2c0b47a-e56d-a0fd-d0c4-6311851d7586,Hammerton,Customer,"Amit Singh",2022-09-02,2022,9,September,Friday,2022-11-07,1299,Inactive
+a2d2f707-1016-749e-f6e6-5f7b093e7bff,"Monogon IO",Customer,"Amit Singh",2020-10-05,2020,10,October,Monday,2020-10-05,2062,Inactive
+a2f4574a-2cfc-603d-fed2-5d948d13b884,"Guillermo Garza",Customer,"Amit Singh",2019-10-02,2019,10,October,Wednesday,2019-11-01,2401,Inactive
+a30b94b0-5659-8815-a353-636f9b747991,schal901,Customer,"Amit Singh",2022-11-12,2022,11,November,Saturday,2022-11-12,1294,Inactive
+a3279bff-e0d5-4682-b744-45c0f44f7a71,"Mandholiwal Industries Private Limited",,"Amit Singh",2026-02-14,2026,2,February,Saturday,2026-02-14,104,Inactive
+a336c6bf-b5ca-1298-de1b-663f4100c453,"Manlitics B2B ITES Pvt Ltd",Customer,"Amit Singh",2024-05-11,2024,5,May,Saturday,2024-05-11,748,Inactive
+a39cd59e-0fb8-82ca-09a3-5ec61a560235,"Design Create",Customer,"Amit Singh",2020-05-21,2020,5,May,Thursday,2020-05-21,2199,Inactive
+a3bc5c7b-1960-b25b-6f73-5db933dc1f49,ejtecson12,Customer,"Amit Singh",2019-10-30,2019,10,October,Wednesday,2019-11-01,2401,Inactive
+a3cb62fe-dcba-4627-b5bb-faa095899d8c,"Honeylinks International F2-LLC",Reseller,"Amit Singh",2026-04-21,2026,4,April,Tuesday,2026-04-21,38,Active
+a4409e22-b8ad-6a16-3373-63d8b9531c1c,"DEVTAC CRM INC.",Reseller,"Amit Singh",2023-01-31,2023,1,January,Tuesday,2023-01-31,1214,Inactive
+a511081b-c099-d11d-e500-60ace6367b88,Ndiayabdoulaye,Customer,"Amit Singh",2021-05-25,2021,5,May,Tuesday,2021-05-25,1830,Inactive
+a57d758a-a912-0320-8d7b-5f3fb74390aa,"Amkay Products Pvt Ltd",Prospect,"Amit Singh",2020-08-21,2020,8,August,Friday,2020-12-24,1982,Inactive
+a5930519-fa10-f861-cf8d-63d398d1de7a,"WEA Member Benefits",Customer,"Amit Singh",2023-01-27,2023,1,January,Friday,2023-01-27,1218,Inactive
+a593d225-84ce-a2b3-cb1f-5fed62063164,"Hudson Global Scholars",Customer,"Amit Singh",2020-12-31,2020,12,December,Thursday,2021-01-02,1973,Inactive
+a5d330f6-f48d-28bb-3ccc-5d207ccbc9cd,"Shiva International",Partner,"Amit Singh",2019-07-06,2019,7,July,Saturday,2019-07-23,2502,Inactive
+a5d6d4ab-c75b-ac60-fb65-60f0331a2c02,Iuraqq,Customer,"Amit Singh",2021-07-15,2021,7,July,Thursday,2021-07-15,1779,Inactive
+a610380a-4e31-f018-da84-5d37f9fa8a88,"Ingenio Tech SARL",Customer,"Amit Singh",2019-07-24,2019,7,July,Wednesday,2019-08-22,2472,Inactive
+a665b2b3-ad0e-6bfb-8ba0-5ff94ceb6423,"Essa Tech Services",Reseller,"Amit Singh",2021-01-09,2021,1,January,Saturday,2021-02-08,1936,Inactive
+a682db64-956b-1aee-ed1b-5cbd64dd67bd,"CPSN SEPARATOR.biz",Reseller,"Amit Singh",2019-04-22,2019,4,April,Monday,2020-01-06,2335,Inactive
+a69738bc-4a62-8b15-de6a-5f96ab2ce990,"Anagram Media Labs Pvt Ltd",Partner,"Amit Singh",2020-10-26,2020,10,October,Monday,2020-10-26,2041,Inactive
+a6f80df3-cdcf-2a8e-0215-66692f2011d9,"Xplore Systems Pvt Ltd",Reseller,"Amit Singh",2024-06-12,2024,6,June,Wednesday,2024-06-13,715,Inactive
+a72ace0d-088e-81a4-bbe3-60e00744e310,"Kiran Electricals",Customer,"Amit Singh",2021-07-03,2021,7,July,Saturday,2022-11-02,1304,Inactive
+a72c8e93-1360-cead-450e-668d06f0a4a9,"Matrix Business Machines Pvt. Ltd",Customer,"Amit Singh",2024-07-09,2024,7,July,Tuesday,2024-07-09,689,Inactive
+a7c300a4-f032-4e04-1357-5d91ec143a4a,"Malawi Investment and Trade Centre",Customer,"Amit Singh",2019-09-30,2019,9,September,Monday,2019-11-01,2401,Inactive
+a7fb3280-3cf3-cf8f-efe8-690d899d116e,IOU-Money,Reseller,"Bhavin Patel",2025-11-07,2025,11,November,Friday,2025-11-07,203,Inactive
+a83a0296-a2a6-bed8-146e-63ad342bebb4,"Saraswati Accountants Software Pvt Ltd",Partner,"Amit Singh",2022-12-29,2022,12,December,Thursday,2025-07-09,324,Inactive
+a88e3685-2862-cf49-2eef-5c5d1d61bdac,OSSCube,Reseller,"Amit Singh",2019-02-08,2019,2,February,Friday,2019-11-01,2401,Inactive
+a8c05fee-86f1-a20f-1d8f-5d9353cc846c,"Praxis Credit Consulting",Customer,"Amit Singh",2019-10-01,2019,10,October,Tuesday,2019-11-01,2401,Inactive
+a8e9c39b-e0fb-8b8d-89ed-5db00673e4f4,"Pacifica Companies",Customer,"Amit Singh",2019-10-23,2019,10,October,Wednesday,2019-10-23,2410,Inactive
+a8f87ff9-6746-7032-52d6-5f71d6095436,CRMAppz,Reseller,"Amit Singh",2020-09-28,2020,9,September,Monday,2020-12-12,1994,Inactive
+aa1f903a-6ea0-4a5f-f220-5c98a4a62b12,KEMIO,Reseller,"Amit Singh",2019-03-25,2019,3,March,Monday,2019-11-01,2401,Inactive
+aa704a2d-dcf3-b478-0770-64919f3061e2,"Et Ceterum",Reseller,"Amit Singh",2023-06-20,2023,6,June,Tuesday,2023-06-20,1074,Inactive
+aa86a4b8-c50e-b39c-7853-5ed4beb619fb,"Tecogis Software Solutions",Reseller,"Amit Singh",2020-06-01,2020,6,June,Monday,2020-06-06,2183,Inactive
+ab7730de-abb8-095c-7049-5ec6202fa11a,"Delta Computer Systems, Inc.",Unknown,"Amit Singh",2020-05-21,2020,5,May,Thursday,2020-05-21,2199,Inactive
+abc1caae-5984-5ce5-80ff-5e70c2e34dfb,"Sahaj Hospital, Indore",Customer,"Amit Singh",2020-03-17,2020,3,March,Tuesday,2020-10-20,2047,Inactive
+abc8755d-2a58-6605-ad55-5c9c9e9576c1,"King AbdulAziz University",Customer,"Amit Singh",2019-03-28,2019,3,March,Thursday,2019-11-01,2401,Inactive
+ac005198-c045-59fa-5951-645ce248bbac,"Symbium GmbH",Reseller,"Amit Singh",2023-05-11,2023,5,May,Thursday,2023-05-12,1113,Inactive
+ac35b647-823a-6837-0626-6489a144ac0d,"Pursuit Marketing",Customer,"Amit Singh",2023-06-14,2023,6,June,Wednesday,2023-06-14,1080,Inactive
+ac615cda-5c9c-8ccf-fb1d-632973e3504a,"KEY IN HAND REALITY",Customer,"Amit Singh",2022-09-20,2022,9,September,Tuesday,2022-09-27,1340,Inactive
+acab027e-6c26-944b-fb82-675801455abe,"AECO Energy Australia Pty Ltd",Reseller,"Amit Singh",2024-12-10,2024,12,December,Tuesday,2024-12-10,535,Inactive
+acbe69c4-6add-92b5-4349-633529524e6c,"Eden Exchange",Reseller,"Amit Singh",2022-09-29,2022,9,September,Thursday,2023-10-30,942,Inactive
+ace717c0-6bdf-d8db-299a-636cb7b44aa2,"Iqtisaduna Private Enterprise",Reseller,"Amit Singh",2022-11-10,2022,11,November,Thursday,2022-11-10,1296,Inactive
+ad067b1a-711c-77c6-4bd5-5dfda1e45180,"Rahsegel Group, LLC",Customer,"Amit Singh",2019-12-21,2019,12,December,Saturday,2019-12-21,2351,Inactive
+ad3564ef-84fd-d974-5a7a-5c5c2363f01d,"Aluparia Telecomunicaciones SL",Reseller,"Amit Singh",2019-02-07,2019,2,February,Thursday,2019-02-07,2668,Inactive
+ad3eecc0-20de-b761-cfa4-5d765908c926,"Durga Distributors",Reseller,"Amit Singh",2019-09-09,2019,9,September,Monday,2019-09-14,2449,Inactive
+ad5dd74e-b17e-a31e-e57c-688dfef40045,"VNS Finance & Capital Services Ltd.  (TradeSmart)",Customer,"Amit Singh",2025-08-02,2025,8,August,Saturday,2025-10-06,235,Inactive
+adf63de9-af7f-fea0-f159-63c64a1293a8,"IBI HEALTHCARE INSTITUTE",Customer,"Amit Singh",2023-01-17,2023,1,January,Tuesday,2024-05-13,746,Inactive
+ae5ba462-f345-22f6-82e5-62a6d718943f,"Udima Distance University of Madrid",Customer,"Amit Singh",2022-06-13,2022,6,June,Monday,2022-07-16,1413,Inactive
+ae8f4176-868c-f339-a0a2-66ee7ac0c493,"AMS LATAM LLC",Customer,"Amit Singh",2024-09-21,2024,9,September,Saturday,2024-09-21,615,Inactive
+aed1e67d-1402-d2fe-db28-5c91d709535b,"Estudio Juridico",Customer,"Amit Singh",2019-03-20,2019,3,March,Wednesday,2019-11-01,2401,Inactive
+aefad634-3b53-192d-0565-5cadd6e30386,"SBie - Brazilian Society of Emotional Intelligence",Customer,"Amit Singh",2019-04-10,2019,4,April,Wednesday,2019-11-01,2401,Inactive
+af21ee32-19c0-f12d-9ac6-667680a543c7,"FBF ITALIA",Customer,"Amit Singh",2024-06-22,2024,6,June,Saturday,2024-08-14,653,Inactive
+af816318-b660-bd95-6942-61091d398893,"Superior Integrated Solutions",Customer,"Amit Singh",2021-08-03,2021,8,August,Tuesday,2021-08-03,1760,Inactive
+afeefefe-c595-9543-b189-673c6da0c5b3,"Santa Monica Study Abroad P Ltd. (Santa Monica Group)",Customer,"Amit Singh",2024-11-19,2024,11,November,Tuesday,2024-11-19,556,Inactive
+aff0bc0a-1452-8a54-ba62-60d57969715b,Vortecx,Customer,"Amit Singh",2021-06-25,2021,6,June,Friday,2021-06-25,1799,Inactive
+b0489cb4-e6a6-8b03-a42e-61ee82abd40b,3Dprintlife,Customer,"Amit Singh",2022-01-24,2022,1,January,Monday,2022-01-24,1586,Inactive
+b09dbaa7-5f68-b32b-6c1d-5e464656346c,"NovoInvent Software",Reseller,"Amit Singh",2020-02-14,2020,2,February,Friday,2021-11-25,1646,Inactive
+b0a2954a-4c94-b2a2-9b3f-645c9a3cbff0,SAES,Reseller,"Amit Singh",2023-05-11,2023,5,May,Thursday,2025-09-13,258,Inactive
+b15be45f-f9cf-e1b2-9844-5d3aa2bfd58d,"Eneo Cameroon S.A.",Reseller,"Amit Singh",2019-07-26,2019,7,July,Friday,2019-08-22,2472,Inactive
+b172d699-8b58-1847-7039-6024b5bab1ef,"Millennium Trailers",Customer,"Amit Singh",2021-02-11,2021,2,February,Thursday,2021-02-11,1933,Inactive
+b1aa63c8-9431-e6eb-abc2-5ca307b21b68,"Eau Technology",Customer,"Amit Singh",2019-04-02,2019,4,April,Tuesday,2019-10-03,2430,Inactive
+b220b6f2-17be-92f1-6350-5ed8c8d3b79b,Ingenius,Reseller,"Amit Singh",2020-06-04,2020,6,June,Thursday,2020-06-04,2185,Inactive
+b2a509a9-009b-8640-133b-5f69d3dbf88a,Mediaral,Customer,"Amit Singh",2020-09-22,2020,9,September,Tuesday,2021-06-17,1807,Inactive
+b2fce8ad-2c3d-360a-0ef3-606ab614c06e,"Quality Cake Company",Customer,"Amit Singh",2021-04-05,2021,4,April,Monday,2021-04-05,1880,Inactive
+b3179c21-cc31-a814-4ebb-60336493ec7d,"IB4T LTD Renault",Unknown,"Amit Singh",2021-02-22,2021,2,February,Monday,2021-02-22,1922,Inactive
+b3223e1e-11e9-4df5-5ff0-66067d95a98b,"LMG Hydro Pneumatics",Customer,"Amit Singh",2024-03-29,2024,3,March,Friday,2025-04-11,413,Inactive
+b33fffa0-f66a-6fb3-e2c9-663decd5927d,ToukanLabs,Reseller,"Amit Singh",2024-05-10,2024,5,May,Friday,2024-05-10,749,Inactive
+b357ab9e-4739-6447-4a27-5c5c0cab08f4,"Pronova Partners",Customer,"Amit Singh",2019-02-07,2019,2,February,Thursday,2019-11-01,2401,Inactive
+b3f19ec2-1637-c25a-939c-63e3874feea9,"Yellowstone Electronic Solutions Ltd",Customer,"Amit Singh",2023-02-08,2023,2,February,Wednesday,2023-02-08,1206,Inactive
+b45ea6a8-b175-dd44-ee71-5dcbd05185d1,"M3 Interiors",Customer,"Amit Singh",2019-11-13,2019,11,November,Wednesday,2019-11-13,2389,Inactive
+b5714931-a8d5-3877-50b7-5d1ddf3b9963,Solaris,Prospect,"Amit Singh",2019-07-04,2019,7,July,Thursday,2020-04-09,2241,Inactive
+b575e820-7681-4922-3754-5c1c7b0f6c00,"Grupo Empresarial Lafuente",Customer,"Amit Singh",2018-12-21,2018,12,December,Friday,2022-07-19,1410,Inactive
+b5f30f88-83ee-19da-0b23-5f1830d2d808,"aCrm net",Reseller,"Amit Singh",2020-07-22,2020,7,July,Wednesday,2020-10-24,2043,Inactive
+b5f73222-2ed6-e7b4-f2a3-5f8839c89150,"Empresario de Alto Rendimiento",Customer,"Amit Singh",2020-10-15,2020,10,October,Thursday,2020-10-15,2052,Inactive
+b623722a-d6f6-aa4b-d842-604b66f2e5f8,"Peak American Financial Companies, Inc.",Customer,"Amit Singh",2021-03-12,2021,3,March,Friday,2024-04-11,778,Inactive
+b63d4ea7-d97d-43da-6f24-5d19ffc66647,"PowerPlay Destination Properties Inc",Customer,"Amit Singh",2019-07-01,2019,7,July,Monday,2019-07-05,2520,Inactive
+b65339c5-d511-6d49-9b36-5e97f5bbad2e,"Rakata Technology",Prospect,"Amit Singh",2020-04-16,2020,4,April,Thursday,2020-04-16,2234,Inactive
+b6f305d4-4784-68fd-4ad9-5e200f6dcf59,"Paradiso Solutions LLC",Reseller,"Amit Singh",2020-01-16,2020,1,January,Thursday,2020-12-01,2005,Inactive
+b78a98b3-2292-9ac3-3222-5cab3d94ba50,iDeskMD,Reseller,"Amit Singh",2019-04-08,2019,4,April,Monday,2019-04-08,2608,Inactive
+b7c635e5-5cbe-58f0-3578-64dc765e2dcb,"Black Rifle Coffee Company",Customer,"Amit Singh",2023-08-16,2023,8,August,Wednesday,2023-08-16,1017,Inactive
+b842a049-91f3-0be8-8918-62aae3f3e2be,Blackstone.Agency,Customer,"Amit Singh",2022-06-16,2022,6,June,Thursday,2024-07-16,682,Inactive
+b850748d-d230-441c-c007-618f78638416,"VSJ Exports HK Ltd",Customer,"Amit Singh",2021-11-13,2021,11,November,Saturday,2025-03-21,434,Inactive
+b868582a-99fe-2812-c1e0-69083ac30ff9,kallgren,,"Amit Singh",2025-11-03,2025,11,November,Monday,2025-11-03,207,Inactive
+b8f94cc7-2f29-0019-06cc-666ac117658a,"TechFlex Solutions Pvt Ltd",Reseller,"Amit Singh",2024-06-13,2024,6,June,Thursday,2024-09-19,617,Inactive
+b9165dbd-75dc-62b1-1814-601a39a7e5c8,SugarCRM,Partner,"Amit Singh",2021-02-03,2021,2,February,Wednesday,2021-02-03,1941,Inactive
+b9a62f6d-cdc1-6ad5-f017-67d939e8b216,"Mavuth Control Systems",Customer,"Amit Singh",2025-03-18,2025,3,March,Tuesday,2025-03-18,437,Inactive
+b9d2209b-4300-4ee3-89fd-605edf548d84,"Pearl Headhunters",Customer,"Amit Singh",2021-03-27,2021,3,March,Saturday,2021-03-27,1889,Inactive
+b9d66dbf-218b-b1a4-afe0-5bf27b490fbb,"SecUR Credentials",Customer," ",2018-11-19,2018,11,November,Monday,2025-01-25,489,Inactive
+b9dd104e-5950-e33e-0310-5d316e37d7b5,"Kappa Internet Services Pvt. Ltd.",Customer,"Amit Singh",2019-07-19,2019,7,July,Friday,2019-07-19,2506,Inactive
+b9fc18a8-51be-7c7c-99a8-5d53b9d016ed,"Shem Pamplin Photography",Customer,"Amit Singh",2019-08-14,2019,8,August,Wednesday,2019-10-14,2419,Inactive
+ba5195f1-e782-5970-1c65-5f6c3203b4b6,"International Payment Solutions",Customer,"Amit Singh",2020-09-24,2020,9,September,Thursday,2020-09-24,2073,Inactive
+ba9b389e-d84d-5ac1-63db-5db01a16d39c,"ISDC Global",Customer,"Amit Singh",2019-10-23,2019,10,October,Wednesday,2019-10-23,2410,Inactive
+bab80252-e040-9f6a-4da7-5d53b8a01b96,"iCMG International, LLC",Customer,"Amit Singh",2019-08-14,2019,8,August,Wednesday,2019-08-20,2474,Inactive
+bba13b74-03cf-e229-3ff5-64798abf4b91,"Skylake Automation",Customer,"Bhavin Patel",2023-06-02,2023,6,June,Friday,2023-06-02,1092,Inactive
+bc94ddde-e82f-e265-0b78-64525e0d74d8,"Vision Web Solutions Pvt. Ltd.",Reseller,"Amit Singh",2023-05-03,2023,5,May,Wednesday,2023-05-03,1122,Inactive
+bcb783f5-ff3b-00d2-f2f3-5de48db46cd6,"UPI Energy",Customer,"Amit Singh",2019-12-02,2019,12,December,Monday,2019-12-02,2370,Inactive
+bd3edefa-ce7e-4530-5baa-632c5a79a133,"Parth Infotech Solutions Pvt Ltd",Reseller,"Amit Singh",2022-09-22,2022,9,September,Thursday,2023-12-29,882,Inactive
+bd6a57c3-8279-49f2-9b47-644fa56ecd9e,Pillr,Reseller,"Amit Singh",2023-05-01,2023,5,May,Monday,2023-05-01,1124,Inactive
+be19a252-831b-f3ad-3589-5cb8640f8cf3,"The Digital Men Ltd",Reseller,"Amit Singh",2019-04-18,2019,4,April,Thursday,2019-05-15,2571,Inactive
+beb11504-ab2b-b6e9-c602-6586a29a7218,"Verus Valuations",Customer,"Amit Singh",2023-12-23,2023,12,December,Saturday,2023-12-23,888,Inactive
+bee83104-56d0-263f-bdf1-60b606403193,"Erasys Consulting | Big In Digital",Reseller,"Amit Singh",2021-06-01,2021,6,June,Tuesday,2021-06-01,1823,Inactive
+bf13c570-e189-5f41-23ea-5ffd5baf6df2,Sugeng,Unknown,"Amit Singh",2021-01-12,2021,1,January,Tuesday,2021-01-12,1963,Inactive
+bf22af6f-4ea5-648e-5229-63400ce69d2b,FullGestion,Reseller,"Amit Singh",2022-10-07,2022,10,October,Friday,2022-10-07,1330,Inactive
+bf87e9d8-449b-f229-96d4-666c0d27a7e2,"Johns Hopkins University",Customer,"Amit Singh",2024-06-14,2024,6,June,Friday,2024-06-14,714,Inactive
+bf8803aa-7d7f-571d-40d0-5c92165b3da6,"Vicarious Productions Inc.",Unknown,"Amit Singh",2019-03-20,2019,3,March,Wednesday,2019-03-20,2627,Inactive
+bf982d51-be58-1798-2cc8-5e82c5f199a0,"Evergreen Computers",Reseller,"Amit Singh",2020-03-31,2020,3,March,Tuesday,2020-03-31,2250,Inactive
+bfe7c8bb-158d-00e2-6ade-5ec60de92cbf,"Abraham Tech Solutions",Reseller,"Amit Singh",2020-05-21,2020,5,May,Thursday,2020-06-06,2183,Inactive
+bffcc397-17f0-274d-06e6-60cc32facf53,"Jesus Redeems",Customer,"Amit Singh",2021-06-18,2021,6,June,Friday,2021-06-18,1806,Inactive
+c0b70b58-d48b-fc46-8f8d-643906b1f3d5,"Leandro Luiz Teixeira Investimento e Consultoria Ltda",Customer,"Amit Singh",2023-04-14,2023,4,April,Friday,2023-04-14,1141,Inactive
+c0e3f0f5-4ad5-e41b-bd7d-5e411fa3c232,"PQE Group",Customer,"Amit Singh",2020-02-10,2020,2,February,Monday,2020-06-29,2160,Inactive
+c0e5d8a2-d202-f2c3-672b-605de2816de7,Helfertech,Reseller,"Amit Singh",2021-03-26,2021,3,March,Friday,2021-03-26,1890,Inactive
+c1485612-2427-5580-4653-5d6518062a57,JVHNY.COM,Customer,"Amit Singh",2019-08-27,2019,8,August,Tuesday,2019-09-14,2449,Inactive
+c14cb24f-2f8f-1f89-cbe3-6101417572b4,"Tutree Inc.",Customer,"Amit Singh",2021-07-28,2021,7,July,Wednesday,2022-06-10,1449,Inactive
+c15ac78d-cc23-36d9-499a-61fbcddb62cb,"Vacuum Tables UK",Customer,"Amit Singh",2022-02-03,2022,2,February,Thursday,2022-02-03,1576,Inactive
+c1f28e06-bf87-21a8-6630-652e33b3654d,Ayanexis,Customer,"Amit Singh",2023-10-17,2023,10,October,Tuesday,2023-11-22,919,Inactive
+c2212882-d7b3-c1db-35d4-62e9f9bba2d8,"Automations Zone",Customer,"Amit Singh",2022-08-03,2022,8,August,Wednesday,2025-05-08,386,Inactive
+c22ad15f-07b6-d117-36c1-5c8f4fcf3758,CMSN.COMPANY,Customer,"Amit Singh",2019-03-18,2019,3,March,Monday,2019-03-18,2629,Inactive
+c2437b4f-54bf-113f-457a-64a905f02a47,"ProCare Rx",Reseller,"Amit Singh",2023-07-08,2023,7,July,Saturday,2023-07-08,1056,Inactive
+c316ac21-f39f-f78c-86a3-5ff2ce98f4dd,"SBI Consultant",Unknown,"Amit Singh",2021-01-04,2021,1,January,Monday,2021-01-04,1971,Inactive
+c36678fd-82b7-8157-a7b4-5d524a908c37,"Urbanfibre (Urban Communications Inc)",Customer,"Amit Singh",2019-08-13,2019,8,August,Tuesday,2019-11-01,2401,Inactive
+c3c40451-0571-b313-a834-66bf5383a557,"Bharati It Solutions Private Limited",Partner,"Amit Singh",2024-08-16,2024,8,August,Friday,2024-11-13,562,Inactive
+c3e813f4-e57d-a240-2479-5cb417f9f5e1,"Tri Anh Technology Solutions Co., Ltd.",Customer,"Amit Singh",2019-04-15,2019,4,April,Monday,2019-05-15,2571,Inactive
+c3f26762-5a9e-ce34-04ad-6124c41c168a,"Aaxel Insurance Brokers",Customer,"Amit Singh",2021-08-24,2021,8,August,Tuesday,2022-06-10,1449,Inactive
+c422145a-1e3b-99ee-384e-6825e09ee8ff,"Total Infowave Solutions (P) Ltd (Perfect ERP)",,"Amit Singh",2025-05-15,2025,5,May,Thursday,2025-05-15,379,Inactive
+c4a6f002-39ef-6a5a-31c6-5df1d0c2fac2,"Balaji Solutions Limited",Integrator,"Amit Singh",2019-12-12,2019,12,December,Thursday,2019-12-12,2360,Inactive
+c4b2d9dd-628a-8184-6975-60af44cb43bf,carmine.pimentel,Unknown,"Amit Singh",2021-05-27,2021,5,May,Thursday,2021-05-27,1828,Inactive
+c4bd65dd-aea7-ec32-1dae-5c7cbb931305,"Peoplefone AG",Reseller,"Amit Singh",2019-03-04,2019,3,March,Monday,2019-03-04,2643,Inactive
+c52ecb32-6b35-2c81-1160-63ee3762b16b,"ETSC Computers Pvt Ltd",Partner,"Amit Singh",2023-02-16,2023,2,February,Thursday,2023-02-23,1191,Inactive
+c576804f-bd78-1e0c-889c-5d2f08f6e626,"Capsid GmbH/Jobvector",Customer,"Amit Singh",2019-07-17,2019,7,July,Wednesday,2019-07-23,2502,Inactive
+c5b828c0-4eb8-9529-9794-682d5c3d80e9,"Midwest Battery",Customer,"Amit Singh",2025-05-21,2025,5,May,Wednesday,2025-05-21,373,Inactive
+c5bada45-62ce-8ef1-c4b4-5d833725d31d,"Ageing Asia Pte Ltd-Yiing",Customer,"Amit Singh",2019-09-19,2019,9,September,Thursday,2020-05-21,2199,Inactive
+c64301bf-c555-584a-18be-5f7b03ef778d,Increnta,Reseller,"Amit Singh",2020-10-05,2020,10,October,Monday,2020-10-05,2062,Inactive
+c6ad1203-f8a8-8113-1a2a-648fe84bf6e7,Altumare,Customer,"Amit Singh",2023-06-19,2023,6,June,Monday,2023-06-19,1075,Inactive
+c6dea04a-fecd-fae9-bcbf-5d8354ca518f,"Massimo Capuano Bari",Customer,"Amit Singh",2019-09-19,2019,9,September,Thursday,2019-11-01,2401,Inactive
+c76ae59e-3715-cf1b-166f-6245a7ae9ea5,"Peak Machinery Equipments",Customer,"Amit Singh",2022-03-31,2022,3,March,Thursday,2022-03-31,1520,Inactive
+c7be0d7d-1081-0574-dc6e-5c6d00bd7e43,"Tecno Adsl Lazio s.rl.",Customer,"Amit Singh",2019-02-20,2019,2,February,Wednesday,2019-04-25,2591,Inactive
+c81802b0-c667-98b8-1c4b-5e60b7ad25ba,"Hyper Communication",Reseller,"Amit Singh",2020-03-05,2020,3,March,Thursday,2020-03-05,2276,Inactive
+c81c0171-bd8f-7494-ef0c-607984a39077,"Variable Techs",Customer,"Amit Singh",2021-04-16,2021,4,April,Friday,2021-04-16,1869,Inactive
+c835cf0a-bc3b-840f-ec3b-669ba2d80c48,"Art Projects For Schools",Customer,"Amit Singh",2024-07-20,2024,7,July,Saturday,2024-07-20,678,Inactive
+c871159f-88a6-a1fb-e8fe-5e43a816258c,"Chapter of Commerce of New Venture Corp(CCNV)",Customer,"Amit Singh",2020-02-12,2020,2,February,Wednesday,2020-02-26,2284,Inactive
+c8b411ca-75f8-5fef-16cf-5d37f8aa178d,"The QuantumX Collective",Reseller,"Amit Singh",2019-07-24,2019,7,July,Wednesday,2019-11-01,2401,Inactive
+c8c70a95-ff33-4623-e91c-5dd61d6abdc6,"Inline Communications & Marketing Strategies Ltd.",Reseller,"Amit Singh",2019-11-21,2019,11,November,Thursday,2021-02-20,1924,Inactive
+c8ecf18f-8835-8c48-eb9c-5f9fb845f2b5,"Smarty Software Pvt. Ltd.",Partner,"Amit Singh",2020-11-02,2020,11,November,Monday,2020-11-09,2027,Inactive
+c902caa3-02b8-5322-097c-5d9b3dd7eaee,"OElite Ltd",Reseller,"Amit Singh",2019-10-07,2019,10,October,Monday,2019-10-07,2426,Inactive
+c905f47b-c44e-a1bd-0e2f-5ee2173a0415,"Razum Agency",Customer,"Amit Singh",2020-06-11,2020,6,June,Thursday,2020-06-18,2171,Inactive
+ca490884-f792-f8c8-6052-5e4b9086d62c,"LiveGames Limited",Reseller,"Amit Singh",2020-02-18,2020,2,February,Tuesday,2020-02-18,2292,Inactive
+cacdf70c-2287-992e-068c-5cbab06e7048,PopCompta,Reseller,"Amit Singh",2019-04-20,2019,4,April,Saturday,2019-11-01,2401,Inactive
+cad51e52-ab24-8a87-cfbd-6167e7c66379,Proxymedia.ae,Reseller,"Amit Singh",2021-10-14,2021,10,October,Thursday,2021-10-14,1688,Inactive
+cb0f6f04-1b58-68bb-bfe6-615d61c37c34,"Raineau Group",Customer,"Amit Singh",2021-10-06,2021,10,October,Wednesday,2021-10-26,1676,Inactive
+cb2b2bac-b765-ab27-637c-64d354d0ed86,"Safe Software",Customer,"Amit Singh",2023-08-09,2023,8,August,Wednesday,2023-08-09,1024,Inactive
+cb73fde0-9b98-1b35-a601-660ead68dcd8,LinkMercado,Reseller,"Amit Singh",2024-04-04,2024,4,April,Thursday,2024-04-04,785,Inactive
+cb8d1717-0b42-10ca-10d9-642e836c1bf0,"eLink System & Concepts Corp",Reseller,"Amit Singh",2023-04-06,2023,4,April,Thursday,2023-04-21,1134,Inactive
+cc3584c5-46a2-8659-5383-5d1b0a13c369,"Social Shortcuts",Customer,"Amit Singh",2019-07-02,2019,7,July,Tuesday,2020-01-14,2327,Inactive
+cc5a3b8c-3be1-c6cd-94d1-5fd06a9943e8,PTBang,Customer,"Amit Singh",2020-12-09,2020,12,December,Wednesday,2020-12-09,1997,Inactive
+cc66af07-9909-90bd-4394-660bcdab5b2e,"MDS Call Solutions, Inc.",Reseller,"Amit Singh",2024-04-02,2024,4,April,Tuesday,2024-04-02,787,Inactive
+cd5c6584-b8ff-b609-eb64-62a1b27cd17c,"Express Cash Flow",Customer,"Amit Singh",2022-06-09,2022,6,June,Thursday,2022-06-21,1438,Inactive
+cd8c3d07-f5ec-1fa5-0321-5d8f44b244b9,"Netset Software Solution Pvt Ltd.",Reseller,"Amit Singh",2019-09-28,2019,9,September,Saturday,2020-08-06,2122,Inactive
+cd9b8e42-68a8-ed12-94a8-5f50d83c278a,"INDEPENDENT IT SOLUTIONS (INITSOL GmbH)",Reseller,"Amit Singh",2020-09-03,2020,9,September,Thursday,2020-09-03,2094,Inactive
+cda34306-192b-bdf6-9ad7-5e2933d48d3c,"INDSYS Infotech Services India Private limited",Partner,"Amit Singh",2020-01-23,2020,1,January,Thursday,2020-01-23,2318,Inactive
+cdd09874-f0c0-07c0-53e2-63ad5134fe15,"Chaitanya Rain Harvest Products & Systems Pvt. Ltd",Customer,"Amit Singh",2022-12-29,2022,12,December,Thursday,2023-12-22,889,Inactive
+cdf5b30a-2fb4-c2ea-6784-616d5e3b349a,Timoklein,Customer,"Amit Singh",2021-10-18,2021,10,October,Monday,2021-10-18,1684,Inactive
+ce189387-d476-71fc-d8b5-63c653a5c77d,"The French Beauty Academy",Customer,"Amit Singh",2023-01-17,2023,1,January,Tuesday,2023-01-17,1228,Inactive
+ce52f2b8-c957-fa38-7be1-688da7f8c1ba,SOTTYE,Customer,"Amit Singh",2025-08-02,2025,8,August,Saturday,2025-08-02,300,Inactive
+ce5387d7-f822-23e6-2eb7-61a602449cb5,"Indoma Industries Pvt. Ltd.",Customer,"Amit Singh",2021-11-30,2021,11,November,Tuesday,2021-11-30,1641,Inactive
+cee793bf-588e-1155-a913-5e69c625135c,"Panache Digilife Ltd",Reseller,"Amit Singh",2020-03-12,2020,3,March,Thursday,2020-03-12,2269,Inactive
+cefd6556-fe51-0b5b-8e77-61c2ecfc328b,"Nexus Automech Pvt Ltd",Customer,"Amit Singh",2021-12-22,2021,12,December,Wednesday,2024-04-01,788,Inactive
+cf050778-a3d3-da30-605d-620e539ab6e0,3i,Reseller,"Amit Singh",2022-02-17,2022,2,February,Thursday,2022-02-17,1562,Inactive
+cf6ae135-b182-f7f2-e3d5-663f3736cf74,Nusair,Customer,"Amit Singh",2024-05-11,2024,5,May,Saturday,2024-05-11,748,Inactive
+cfb03aab-e675-9783-b534-63870bc340a5,"Think Realty Real Estate",Customer,"Amit Singh",2022-11-30,2022,11,November,Wednesday,2022-12-16,1260,Inactive
+d043b165-b983-635d-d48c-62a6f9edd1b6,UAsoft,Customer,"Amit Singh",2022-06-13,2022,6,June,Monday,2023-05-11,1114,Inactive
+d0660cab-d399-e364-53b4-628e17beaf7f,"Smart IP",Reseller,"Amit Singh",2022-05-25,2022,5,May,Wednesday,2022-05-25,1465,Inactive
+d07edf11-4465-33da-97bb-5c5ad85223e3,Wackengg,Customer,"Amit Singh",2019-02-06,2019,2,February,Wednesday,2019-11-01,2401,Inactive
+d0bbdc6b-b948-35c2-2d50-644fb32a5dc3,"FPT Education Organization",Customer,"Amit Singh",2023-05-01,2023,5,May,Monday,2023-05-01,1124,Inactive
+d0be0dda-b3f2-b0a9-a137-5dad5840790e,"YAM IT LTD",Reseller,"Amit Singh",2019-10-21,2019,10,October,Monday,2019-10-21,2412,Inactive
+d0cfdaef-b0df-939d-6447-61c994c6c7f4,"Chokhani Pharma Vet",Customer,"Amit Singh",2021-12-27,2021,12,December,Monday,2022-07-21,1408,Inactive
+d0d911c4-7890-efd4-0e32-5de2045004ac,Smartcom,Partner,"Amit Singh",2019-11-30,2019,11,November,Saturday,2022-11-10,1296,Inactive
+d1110d64-6d64-9d1c-1710-68ece4f38e12,"Girdhar Roll Wrap ltd",Customer,"Amit Singh",2025-10-13,2025,10,October,Monday,2025-10-13,228,Inactive
+d1e4e7c2-c0d2-ee8d-49e9-5ebb806b8f4f,"Gigabit Business Consulting",Reseller,"Amit Singh",2020-05-13,2020,5,May,Wednesday,2020-12-14,1992,Inactive
+d2000b16-47c0-bfbd-deb4-6128d00f9b9f,"Sikka Software Corporation.",Reseller,"Amit Singh",2021-08-27,2021,8,August,Friday,2021-08-27,1736,Inactive
+d2245c60-e3d0-f3b0-005e-690d9934a34c,"Kartik Industrial Heaters Private Limited",Customer,"Amit Singh",2025-11-07,2025,11,November,Friday,2025-11-07,203,Inactive
+d236b43a-8ab1-f725-7f41-5edf62d8169f,"Grupo Fast Solutions",Customer,"Amit Singh",2020-06-09,2020,6,June,Tuesday,2020-06-30,2159,Inactive
+d2ce0f24-abeb-a02e-c3d5-65c4c82328b1,"BourneSoft - Software Development Company",Reseller,"Amit Singh",2024-02-08,2024,2,February,Thursday,2024-02-08,841,Inactive
+d2d2d563-64f4-8006-69e3-60fc068c49ea,"uNLOK Development",Reseller,"Amit Singh",2021-07-24,2021,7,July,Saturday,2021-07-24,1770,Inactive
+d30788c9-2d13-58bb-70ca-67f7bf11347a,"Glam Jewels - Lab Grown Diamond Jewellery",Customer,"Amit Singh",2025-04-10,2025,4,April,Thursday,2025-04-10,414,Inactive
+d308807b-b567-d6b5-9634-64057d5f1cbf,"The Logit Group, Inc.",Reseller,"Amit Singh",2023-03-06,2023,3,March,Monday,2023-03-06,1180,Inactive
+d30c8cdd-7014-bf74-ddd8-5f2ccf86ff43,"Intelligent Computer Solutions",Partner,"Amit Singh",2020-08-07,2020,8,August,Friday,2020-08-19,2109,Inactive
+d349ad83-a8b9-d1e8-96eb-6002da42a50c,"Maricopa Community Colleges",Customer,"Amit Singh",2021-01-16,2021,1,January,Saturday,2021-01-16,1959,Inactive
+d3d8313f-1780-7fe1-b067-5dae97714227,"Digital North Consulting",Reseller,"Amit Singh",2019-10-22,2019,10,October,Tuesday,2019-10-22,2411,Inactive
+d3d89747-da4b-efd3-d9a7-63eb5ab65392,DCSupplier,Reseller,"Amit Singh",2023-02-14,2023,2,February,Tuesday,2023-02-14,1200,Inactive
+d445d232-b879-4a1c-bc17-60508c73eae8,"Movil Evolution",Unknown,"Amit Singh",2021-03-16,2021,3,March,Tuesday,2021-03-16,1900,Inactive
+d44ec643-f680-f9b1-560a-616ac45f59c6,"Esthetic Planet",,"Amit Singh",2021-10-16,2021,10,October,Saturday,2021-10-16,1686,Inactive
+d45d2dd9-823a-3617-16a2-5d3830d64b62,"GRC TRUCK SALES LTD",Customer,"Amit Singh",2019-07-24,2019,7,July,Wednesday,2025-05-15,379,Inactive
+d51025cd-119a-95d5-64fe-5d931fbeb8b1,"Tms Corporation",Partner,"Amit Singh",2019-10-01,2019,10,October,Tuesday,2025-03-28,427,Inactive
+d5d11fff-59a2-2c54-f383-62862d5a1634,"Al Chiar di Luna",Customer,"Amit Singh",2022-05-19,2022,5,May,Thursday,2022-05-19,1471,Inactive
+d5e828fa-9b40-7047-f238-63a58e8f79de,"Hi-Power Systems & Services",Customer,"Amit Singh",2022-12-23,2022,12,December,Friday,2022-12-23,1253,Inactive
+d640fdcb-7e23-d0b6-e5e9-5d4ac6ebdc2e,"iNterra Networks Inc.",Customer,"Amit Singh",2019-08-07,2019,8,August,Wednesday,2020-01-25,2316,Inactive
+d6ac69b7-c3b3-20a8-1452-5d4a9d88a823,"Ruthraj Technologies Pvt Ltd",Reseller,"Amit Singh",2019-08-07,2019,8,August,Wednesday,2025-05-08,386,Inactive
+d6c95b42-e2a4-e1f7-01a3-5f800fc46974,Webpart,Customer,"Amit Singh",2020-10-09,2020,10,October,Friday,2020-10-09,2058,Inactive
+d6d034e0-eef6-9c99-f2c1-603f8267c528,"European Central Bank",Customer,"Amit Singh",2021-03-03,2021,3,March,Wednesday,2021-03-03,1913,Inactive
+d72e3b37-d1fc-f8c7-bc30-60dedd60d3ef,"Webcarepacks B.V.",Customer,"Amit Singh",2021-07-02,2021,7,July,Friday,2021-07-02,1792,Inactive
+d75c45c1-58ac-8c30-7ccd-62c95a8d8ba9,"Vebze Software",Reseller,"Amit Singh",2022-07-09,2022,7,July,Saturday,2022-07-09,1420,Inactive
+d78ccfde-226f-4e97-5704-6658743d1183,"Shera Building Solutions India Pvt Ltd",Customer,"Amit Singh",2024-05-30,2024,5,May,Thursday,2024-09-21,615,Inactive
+d79ea584-9c78-b553-1f09-61a72a9c2225,"WorldWide Group",Customer,"Amit Singh",2021-12-01,2021,12,December,Wednesday,2021-12-01,1640,Inactive
+d83faf02-fab3-f665-86a2-6087aed783d4,"SUGARCRM INC",Partner,"Amit Singh",2021-04-27,2021,4,April,Tuesday,2024-11-27,548,Inactive
+d8612c31-8c93-a02e-5b23-5d920009e99d,"Al Deyaa Media Production",Customer,"Amit Singh",2019-09-30,2019,9,September,Monday,2019-11-01,2401,Inactive
+d866f2ee-a9ee-12a2-28f0-6149de328447,Wardslaus,Reseller,"Amit Singh",2021-09-21,2021,9,September,Tuesday,2021-09-21,1711,Inactive
+d8e23b40-5c94-40e4-2010-628e24828806,IBRACEM,Customer,"Amit Singh",2022-05-25,2022,5,May,Wednesday,2022-05-25,1465,Inactive
+d921d756-337d-9b56-7b75-609f7a8993ec,Mrkt360,Customer,"Amit Singh",2021-05-15,2021,5,May,Saturday,2025-08-11,291,Inactive
+d98d02af-a6d2-f23b-2488-5d5e38d2d61e,"Algeria e-Banking Services (AEBS)",Reseller,"Amit Singh",2019-08-22,2019,8,August,Thursday,2019-10-16,2417,Inactive
+d9b485e6-4a99-b9c1-b828-610d35a1a6d7,"Government Of Sharjah (E-Gov)",Customer,"Amit Singh",2021-08-06,2021,8,August,Friday,2021-08-06,1757,Inactive
+da28c8cc-f2ef-eb3c-3d0e-61c30fa644ad,"Fusion Business Solutions (P) Ltd",Reseller,"Amit Singh",2021-12-22,2021,12,December,Wednesday,2021-12-22,1619,Inactive
+da98479d-5eda-ab57-7e76-5c3dd6c4f7a0,"Kredence Digital Resources Pvt. Ltd",Reseller,"Amit Singh",2019-01-15,2019,1,January,Tuesday,2026-01-22,127,Inactive
+daa23acb-508b-8bdf-9796-67f0c8623de0,"Ariston Dental",Customer,"Amit Singh",2025-04-05,2025,4,April,Saturday,2025-04-05,419,Inactive
+dacd05b8-3452-8ed0-3bc3-63a6a17c3c8b,"Pinnacle Systems Pvt Ltd",Reseller,"Amit Singh",2022-12-24,2022,12,December,Saturday,2022-12-24,1252,Inactive
+dad8076f-e851-a44b-91a8-5da80781b3df,"Euroview Inc",Customer,"Amit Singh",2019-10-17,2019,10,October,Thursday,2019-10-19,2414,Inactive
+db4ea930-055a-0d84-a1d9-62dbc2482ada,"Mallavee Global Manufacturing",Customer,"Amit Singh",2022-07-23,2022,7,July,Saturday,2022-07-23,1406,Inactive
+db8ae43a-845f-78e5-c009-60558cde7a20,"Ohm Infosolutions",Reseller,"Amit Singh",2021-03-20,2021,3,March,Saturday,2023-03-06,1180,Inactive
+db90a6fa-55ac-8f75-89c6-5ec60663c1b8,Michaelhorup,Unknown,"Amit Singh",2020-05-21,2020,5,May,Thursday,2020-05-21,2199,Inactive
+dbaeb567-0ce0-5aa0-a0e7-6128bde400af,"CFT Teodoro Wickel",Customer,"Amit Singh",2021-08-27,2021,8,August,Friday,2021-08-27,1736,Inactive
+dbda5539-5f21-abac-8c60-5d4c55a8aecc,"Shivam Residency",Customer," ",2019-08-08,2019,8,August,Thursday,2019-08-08,2486,Inactive
+dc5f6b57-8c3e-aa94-3b0a-6108de2071e3,"Scicom MSC Bhd",Customer,"Amit Singh",2021-08-03,2021,8,August,Tuesday,2021-08-03,1760,Inactive
+dc81bdbe-23b7-a3fe-7bf8-6267a688052b,"Navachetana Microfinance PVT LTD",Customer,"Amit Singh",2022-04-26,2022,4,April,Tuesday,2022-07-11,1418,Inactive
+dcab02e1-7fb0-009c-8861-68e3764bc4be,"Prime Tools & Equipment Pvt Ltd",Customer,"Amit Singh",2025-10-06,2025,10,October,Monday,2025-11-03,207,Inactive
+dcc1eed9-c620-90ab-3f84-642bde68e232,"Nesco Limited",Customer,"Amit Singh",2023-04-04,2023,4,April,Tuesday,2023-04-04,1151,Inactive
+dd0e1702-7f8b-0a61-dbae-5d5ba065ed5d,"ReaTech Computer",Reseller,"Amit Singh",2019-08-20,2019,8,August,Tuesday,2025-09-13,258,Inactive
+dd3d7821-e175-a0bf-cfdb-64d6284825ed,Leonardo,Competitor,"Amit Singh",2023-08-11,2023,8,August,Friday,2023-08-11,1022,Inactive
+de229c19-77da-41a2-8c97-cfae436cd07e,"Fastener World India",Customer,"Amit Singh",2026-01-05,2026,1,January,Monday,2026-01-05,144,Inactive
+de3130a2-1b2d-6bff-be6a-5fa2d93b109b,Diantum,Reseller,"Amit Singh",2020-11-04,2020,11,November,Wednesday,2020-11-23,2013,Inactive
+de446746-bd80-9558-0592-61d06a07dbf3,"Techincglobal Advisory",Reseller,"Amit Singh",2022-01-01,2022,1,January,Saturday,2022-01-01,1609,Inactive
+de69acdb-a7b7-0c7e-0e22-62e48029fc9a,"Rightway Funding, LLC",Customer," ",2022-07-30,2022,7,July,Saturday,2022-07-30,1399,Inactive
+dea60399-9d85-decb-a37c-5c41d8250ed0,"ServaxNet LLC.",Reseller,"Amit Singh",2019-01-18,2019,1,January,Friday,2019-11-01,2401,Inactive
+dfa028b5-5e83-b71b-d396-6050a3d02b69,"Asesores Kalu",Customer,"Amit Singh",2021-03-16,2021,3,March,Tuesday,2021-03-16,1900,Inactive
+dfb0f8e5-df07-0609-d8df-5f65dbf1f533,"Oxequa SRLS",Unknown,"Amit Singh",2020-09-19,2020,9,September,Saturday,2020-09-19,2078,Inactive
+e01521bb-9e7f-e3df-3219-6177f0e82fb3,Wafa20104,Customer,"Amit Singh",2021-10-26,2021,10,October,Tuesday,2021-10-26,1676,Inactive
+e02470e6-3f1f-1154-2901-6107b18b7b03,MeritaBiz,Reseller,"Amit Singh",2021-08-02,2021,8,August,Monday,2021-08-02,1761,Inactive
+e05a9f13-6a97-7d71-1b5d-5d5a30c44675,"Agobus International",Customer,"Amit Singh",2019-08-19,2019,8,August,Monday,2019-08-19,2475,Inactive
+e1067408-7024-a7f7-7a04-61efe4cd84c5,"LAZIOcrea SpA",Reseller,"Amit Singh",2022-01-25,2022,1,January,Tuesday,2022-01-25,1585,Inactive
+e15b10bd-1840-99f7-23d2-5ec5fdd79cd9,"Global Connect Resources",Customer,"Amit Singh",2020-05-21,2020,5,May,Thursday,2020-05-21,2199,Inactive
+e1625962-eb17-41a4-9818-5ebb7c539c5e,"Suma Soft Pvt. Ltd",Reseller,"Amit Singh",2020-05-13,2020,5,May,Wednesday,2020-05-13,2207,Inactive
+e17135e0-e8e7-8192-a22b-663dee95bf13,Bennett,,"Amit Singh",2024-05-10,2024,5,May,Friday,2024-05-10,749,Inactive
+e1d71237-9144-f46e-585a-63b2bd2996fa,"Tangent Infocom",Partner,"Amit Singh",2023-01-02,2023,1,January,Monday,2023-01-02,1243,Inactive
+e1f46300-01c6-3bcd-868b-61779d411a16,"Navsale ETES GmbH",Reseller,"Amit Singh",2021-10-26,2021,10,October,Tuesday,2021-11-10,1661,Inactive
+e2094bd9-0e07-d96b-9ec3-65c61cea149a,Technisys,Reseller,"Amit Singh",2024-02-09,2024,2,February,Friday,2024-02-09,840,Inactive
+e20c7414-4333-c4eb-e1c6-618a4a177e79,"TechCity Solution",Partner,"Amit Singh",2021-11-09,2021,11,November,Tuesday,2021-11-09,1662,Inactive
+e2640462-90b0-43a3-ac08-60a8f616c13b,"University of Bucaramanga - UNAB",Customer,"Amit Singh",2021-05-22,2021,5,May,Saturday,2021-05-22,1833,Inactive
+e29ecd98-b51f-30c7-5889-68b19ecadfb7,IPTELEKOM,Reseller,"Amit Singh",2025-08-29,2025,8,August,Friday,2025-08-29,273,Inactive
+e302e443-aa3f-4345-e1b0-5d6e04135515,"CD2I heritage management",Customer,"Amit Singh",2019-09-03,2019,9,September,Tuesday,2019-10-07,2426,Inactive
+e31b7f56-a88f-4c81-b848-7178641bd2aa,"Mukti Software",,"Amit Singh",2026-02-14,2026,2,February,Saturday,2026-02-14,104,Inactive
+e3dfd58e-3173-e6a8-5f2a-62bff605ffd2,"Di CUBE",Partner,"Amit Singh",2022-07-02,2022,7,July,Saturday,2022-07-02,1427,Inactive
+e3f84a0f-10f5-45e4-84fb-5c8ced4aeb08,"LF Seguros",Customer,"Amit Singh",2019-03-16,2019,3,March,Saturday,2019-03-18,2629,Inactive
+e4bbf557-9baf-1614-5aee-61f259593f10,Evanza,Reseller,"Amit Singh",2022-01-27,2022,1,January,Thursday,2022-08-27,1371,Inactive
+e4f299ae-5089-2579-9acd-6051ffb63677,"Stealth - ISS Group Inc.",Customer,"Amit Singh",2021-03-17,2021,3,March,Wednesday,2021-03-17,1899,Inactive
+e5cf214b-a00c-d882-e1f7-5e3e55736ee5,"McCarthy Law PLC",Customer,"Amit Singh",2020-02-08,2020,2,February,Saturday,2020-09-26,2071,Inactive
+e62afb0c-94e6-dac6-04bb-5d92ff1f0361,Travelpayouts,Customer,"Amit Singh",2019-10-01,2019,10,October,Tuesday,2019-11-01,2401,Inactive
+e6547dd4-bc06-93fa-b950-5e12c22667e5,"Foothills Medical Center",Customer,"Amit Singh",2020-01-06,2020,1,January,Monday,2020-01-06,2335,Inactive
+e67c01c5-f668-3cfb-e307-5e1408650603,"Sabanci University",Customer,"Amit Singh",2020-01-07,2020,1,January,Tuesday,2020-01-09,2332,Inactive
+e68d626c-f852-07ca-591c-5f6c446b278a,"International Monetary Bank",Customer,"Amit Singh",2020-09-24,2020,9,September,Thursday,2020-09-24,2073,Inactive
+e6d3251a-1cff-929b-ef91-5f6f262cecc5,"WBC packaging",Customer,"Amit Singh",2020-09-26,2020,9,September,Saturday,2020-10-20,2047,Inactive
+e6dd4193-936e-efa6-d687-6603d55db685,"VENZO WOOD PRIVATE LIMITED",Customer,"Amit Singh",2024-03-27,2024,3,March,Wednesday,2024-07-19,679,Inactive
+e6f01cad-19a1-aa51-c6bc-650c2d192d61,"Texas 1",Unknown,"Amit Singh",2023-09-21,2023,9,September,Thursday,2023-09-21,981,Inactive
+e70074ac-8054-35f9-573b-6203b6c75cff,"Petals Enlightment Institutes Private Limited",Reseller,"Amit Singh",2022-02-09,2022,2,February,Wednesday,2022-06-15,1444,Inactive
+e7160be7-44a6-3010-083e-64c36147c2e8,"Catapult Steel Buildings",Customer,"Amit Singh",2023-07-28,2023,7,July,Friday,2024-02-07,842,Inactive
+e7533018-daf6-dafa-98f9-60d72c6ceb07,"Entek Partners, LLC",Reseller,"Amit Singh",2021-06-26,2021,6,June,Saturday,2021-10-18,1684,Inactive
+e79a7ae6-396b-bf19-4d3e-5c41d7bca33b,Tenebit,Customer,"Amit Singh",2019-01-18,2019,1,January,Friday,2019-01-31,2675,Inactive
+e7b6acbf-dd93-a082-e971-5f5778aadd1e,"Power Choice",Customer,"Amit Singh",2020-09-08,2020,9,September,Tuesday,2024-11-09,566,Inactive
+e7cf8a9e-631e-c164-e2d1-5d19e7ae292a,"SmartOwner Services India Pvt. Ltd.",Customer,"Amit Singh",2019-07-01,2019,7,July,Monday,2019-07-02,2523,Inactive
+e8329004-274d-eea2-d339-635f68fb9a80,BellSouth,Customer,"Amit Singh",2022-10-31,2022,10,October,Monday,2023-04-06,1149,Inactive
+e833d1f7-36a5-2eec-fd4a-627221fc261b,"Brand Consulting Business",Reseller,"Amit Singh",2022-05-04,2022,5,May,Wednesday,2022-05-28,1462,Inactive
+e873b047-2f0d-fbb2-9902-61af3de05443,"Unotech Software Pvt Ltd",Reseller,"Amit Singh",2021-12-07,2021,12,December,Tuesday,2021-12-07,1634,Inactive
+e87f0f48-123c-aa18-a5b9-638857c2aff4,Rahsil823,Customer,"Amit Singh",2022-12-01,2022,12,December,Thursday,2022-12-01,1275,Inactive
+e88188c5-ec8e-dcc9-0baa-5c7f91ac0e14,"Trend World Technologies",Reseller,"Amit Singh",2019-03-06,2019,3,March,Wednesday,2019-09-03,2460,Inactive
+e8b61f98-93a1-f6f0-462a-5d946728df47,"Itech Services",Partner,"Amit Singh",2019-10-02,2019,10,October,Wednesday,2019-12-09,2363,Inactive
+e95b8683-8a71-36c8-0a33-5fabdbcc38aa,ActivaLink,Reseller,"Amit Singh",2020-11-11,2020,11,November,Wednesday,2020-11-11,2025,Inactive
+e963e3d0-53ce-f6ef-7e3a-622878352e67,"Netsoft Solutions",Reseller,"Amit Singh",2022-03-09,2022,3,March,Wednesday,2022-03-09,1542,Inactive
+e96f4a6b-445a-e9b8-dcf5-5cac784c580a,"Free Rein Limited",Reseller,"Amit Singh",2019-04-09,2019,4,April,Tuesday,2019-04-25,2591,Inactive
+e9a34cad-67a5-25fe-b806-60c32943c738,Nominalia,Reseller,"Amit Singh",2021-06-11,2021,6,June,Friday,2021-06-11,1813,Inactive
+ea2dcd28-9eae-a826-dacd-5ec61f70a4ac,"Suma Soft Private Limited",Unknown,"Amit Singh",2020-05-21,2020,5,May,Thursday,2020-05-21,2199,Inactive
+ea5209a8-5ed7-6462-e274-65ca5bf45cdb,"sanjay pvt ltd demo",Unknown,"Amit Singh",2024-02-12,2024,2,February,Monday,2024-02-12,837,Inactive
+ea7afe9a-1db2-46ae-1412-5f5f2c939693,"Winbiz (LOGICIAL SA)",Customer,"Amit Singh",2020-09-14,2020,9,September,Monday,2020-09-14,2083,Inactive
+ea895cb4-a8ad-1b5d-cf84-5e26ab13c373,"Esquire Machines Pvt. Ltd.",Customer,"Amit Singh",2020-01-21,2020,1,January,Tuesday,2020-01-21,2320,Inactive
+ea9c78c8-2dd3-059a-c9c4-6381fd4d47eb,"Palm Beach IT Service",Reseller,"Amit Singh",2022-11-26,2022,11,November,Saturday,2022-11-26,1280,Inactive
+ead34946-5ddb-0f23-153b-6177ed6a044c,Koldpak,Customer,"Amit Singh",2021-10-26,2021,10,October,Tuesday,2021-10-26,1676,Inactive
+eae878ea-5424-59bc-1295-5e16a96e3cd1,Hubtel,Reseller,"Amit Singh",2020-01-09,2020,1,January,Thursday,2020-01-09,2332,Inactive
+eb051943-0ee5-3ee3-7e0a-5c591df106b7,"Avalon School of Cosmetology",Customer,"Amit Singh",2019-02-05,2019,2,February,Tuesday,2019-02-05,2670,Inactive
+eb1d58ed-9b98-20e4-947d-5fd9bad4cb05,Origami,Customer,"Amit Singh",2020-12-16,2020,12,December,Wednesday,2024-05-17,742,Inactive
+eb8769fc-da63-24c2-0d23-6039de5dede7,"Digibook Technologies Pvt. Ltd (Kopykitab)",Unknown,"Amit Singh",2021-02-27,2021,2,February,Saturday,2021-02-27,1917,Inactive
+ebb0e875-fc14-1030-4dd6-672c6e190fb8,"Devyansh Singh son of Manish",Unknown,"Amit Singh",2024-11-07,2024,11,November,Thursday,2024-11-07,568,Inactive
+ebd7139c-3f14-3e36-86e0-64ae8bcba52e,"Loas Itech Private Limited",Partner,"Amit Singh",2023-07-12,2023,7,July,Wednesday,2023-07-12,1052,Inactive
+ec1c0d9a-414e-e090-239e-61643ac261eb,"Queen Web di Silvia Cavallaro",Reseller,"Amit Singh",2021-10-11,2021,10,October,Monday,2021-10-11,1691,Inactive
+ec56a7bb-b100-c93f-0e4a-5fe5bea06ef5,"APCO GROUP",Partner,"Amit Singh",2020-12-25,2020,12,December,Friday,2021-06-26,1798,Inactive
+ec57c465-14f6-988a-5cc7-671b8f18dd33,"Performance SEM",Customer,"Amit Singh",2024-10-25,2024,10,October,Friday,2024-10-25,581,Inactive
+ec6a69df-7a35-b9ed-cbb0-668ba4a9de76,FICO,Customer,"Amit Singh",2024-07-08,2024,7,July,Monday,2024-07-08,690,Inactive
+ec71b846-1815-217c-cb46-607538775676,Aihubspot,Reseller,"Amit Singh",2021-04-13,2021,4,April,Tuesday,2021-04-13,1872,Inactive
+ecd3134c-4163-3129-8079-628e2ab8ea8f,"Avdhesh Khare Seller",Customer,"Amit Singh",2022-05-25,2022,5,May,Wednesday,2022-05-25,1465,Inactive
+eda401c4-c91a-0702-b4fd-5e1d4deadaa6,SoLoMoBOX,Customer,"Amit Singh",2020-01-14,2020,1,January,Tuesday,2020-01-14,2327,Inactive
+edfd90fa-e7c2-8cfe-9e26-68554da504b2,"Check Point Software Technologies, Ltd.",Reseller,"Amit Singh",2025-06-20,2025,6,June,Friday,2025-06-20,343,Inactive
+ee30427a-c3c4-31d9-2b6b-6267c5a7ae98,"Mea Vita Ventures",Reseller,"Amit Singh",2022-04-26,2022,4,April,Tuesday,2022-04-26,1494,Inactive
+ee894d72-a7d1-41b0-0323-64f97fd5185d,CityVet,Customer,"Amit Singh",2023-09-07,2023,9,September,Thursday,2023-09-07,995,Inactive
+eed36dd8-719a-2e17-b762-5de884af6c1f,Inteli-K,Reseller,"Amit Singh",2019-12-05,2019,12,December,Thursday,2019-12-05,2367,Inactive
+ef35ca66-d758-8f40-84e0-61656aaa932c,"GrowPro Experience",Reseller,"Amit Singh",2021-10-12,2021,10,October,Tuesday,2021-10-12,1690,Inactive
+efa71b1f-f3d9-d365-b9e1-5d8c6b8d1e14,"Ipercepts Creative Soft Tech Private Limited",Reseller,"Amit Singh",2019-09-26,2019,9,September,Thursday,2025-03-18,437,Inactive
+efd76dfc-7246-3939-9c5c-5c5432d818cd,"River Networks, LLC",Reseller,"Amit Singh",2019-02-01,2019,2,February,Friday,2019-02-01,2674,Inactive
+efeb5d3b-5923-5426-bb8a-659bac91c19b,SriSys.inc,Reseller,"Amit Singh",2024-01-08,2024,1,January,Monday,2024-01-25,855,Inactive
+efef977c-46e3-268a-f67e-638096d0eda9,E-obuchenie,Customer,"Amit Singh",2022-11-25,2022,11,November,Friday,2022-11-25,1281,Inactive
+f001b6d2-8bac-a609-260d-644f4e9b2898,E-tender.UA,Reseller,"Amit Singh",2023-05-01,2023,5,May,Monday,2023-05-11,1114,Inactive
+f0b570da-66ea-5102-1ad1-5e5ce65e4e16,"Nandini Infosystems",Partner,"Amit Singh",2020-03-02,2020,3,March,Monday,2025-07-28,305,Inactive
+f0baf930-471e-6f45-707b-5d26e3ecb213,www.CRUISE.co.uk,Customer,"Amit Singh",2019-07-11,2019,7,July,Thursday,2019-11-01,2401,Inactive
+f16b8a62-a6b1-654b-4532-6110e8d11aaf,"Vivenns Management Services –F. Z .E",Reseller,"Amit Singh",2021-08-09,2021,8,August,Monday,2025-08-12,290,Inactive
+f17e510e-dcfa-c6b3-1821-5ee2151a1426,"APS Industrial",Unknown,"Amit Singh",2020-06-11,2020,6,June,Thursday,2020-06-11,2178,Inactive
+f1e030d6-f489-2747-6a59-6646f36bb3e3,Asfalt,Customer,"Amit Singh",2024-05-17,2024,5,May,Friday,2024-05-17,742,Inactive
+f21f379e-8a1a-6af7-022b-5f8844ec4daa,ABAMYWAY,Customer,"Amit Singh",2020-10-15,2020,10,October,Thursday,2020-12-28,1978,Inactive
+f298d7fe-8d6e-d355-7872-5c5598a2c5f8,"ECRM Solutions",Partner,"Amit Singh",2019-02-02,2019,2,February,Saturday,2019-04-20,2596,Inactive
+f2a6faba-6700-995b-a9a4-641962f85003,Milinator,Customer,"Amit Singh",2023-03-21,2023,3,March,Tuesday,2023-03-21,1165,Inactive
+f347fa67-1096-c8a3-6d27-5ccc37c87401,"ENERGIA INFORMATICA",Reseller,"Amit Singh",2019-05-03,2019,5,May,Friday,2019-05-03,2583,Inactive
+f3ab4ca8-31dd-afa9-edce-639ab16e3f10,"Mata Digital",Reseller,"Amit Singh",2022-12-15,2022,12,December,Thursday,2022-12-15,1261,Inactive
+f3ac39df-3992-e7f6-1fcf-5e42381c183f,Peoplewalking,Reseller,"Amit Singh",2020-02-11,2020,2,February,Tuesday,2020-02-11,2299,Inactive
+f5119ed9-3413-4ece-926a-6b8ab2028657,"KARGWAL ENTERPRISES PVT.LTD",,"Amit Singh",2026-02-11,2026,2,February,Wednesday,2026-02-11,107,Inactive
+f6040c78-1fbd-b5c5-e42b-672c6da17404,"Dinanath Singh Father",,"Amit Singh",2024-11-07,2024,11,November,Thursday,2024-11-07,568,Inactive
+f61f089b-4e52-4d24-db96-615d89bb4d19,"TruFarm Co.",Customer,"Amit Singh",2021-10-06,2021,10,October,Wednesday,2021-10-06,1696,Inactive
+f96d077c-0b77-3a3a-5c49-5e10233a4918,"New Fields Technologies",Reseller,"Amit Singh",2020-01-04,2020,1,January,Saturday,2021-11-25,1646,Inactive
+7e7dc5a3-0f44-664f-0646-63622edfc288,"ecrystal Digital Technology Pvt Ltd",Reseller," ",2022-11-02,2022,11,November,Wednesday,2022-11-02,1304,Inactive
+ded2bda5-7e5b-e8ad-2152-63622b60b387,"Pentagreen Nature First India Pvt Ltd",Prospect," ",2022-11-02,2022,11,November,Wednesday,2022-11-02,1304,Inactive
+56398c6a-4108-a7e6-9a8b-5bfe207fce5d,"Raj Cabletronics",Partner," ",2018-11-28,2018,11,November,Wednesday,2025-05-08,386,Inactive
+58c48a9f-3045-e831-67cf-679c680b1c23,"Rupero Power Infra Private Limited",Customer,"Jinal Jadav",2025-01-31,2025,1,January,Friday,2025-01-31,483,Inactive
+5de2dc6e-6840-d338-a53e-60ba24b8d4d6,"Om sai",," ",2021-06-04,2021,6,June,Friday,2021-06-04,1820,Inactive
+95426e5d-900d-091f-7b42-667946c53616,"Aman Aircon",,"Jinal Jadav",2024-06-24,2024,6,June,Monday,2024-06-24,704,Inactive
