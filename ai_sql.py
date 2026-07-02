@@ -18,9 +18,22 @@ client = Groq(
 )
 
 
-def generate_sql(question):
+def generate_sql(question, conversation):
 
     schema = get_schema()
+    conversation_context = ""
+    for chat in conversation:
+        conversation_context += f"""
+        Previous Question:
+        {chat['question']}
+        Generated SQL:
+        {chat['sql']}
+        Rows Returned:
+        {chat['rows']}
+        Business Insight:
+        {chat['insight']}
+        -------------------------
+"""
 
     prompt = f"""
 You are an expert SQLite Database Engineer and CRM Data Analyst.
@@ -192,7 +205,42 @@ Always cast to INTEGER first.
 
 ----------------------------------------------------
 
-Question:
+CONVERSATION HISTORY
+
+{conversation_context}
+
+----------------------------------------------------
+
+FOLLOW-UP QUESTION RULES
+
+If the current question refers to a previous question using words like:
+
+- this
+- that
+- these
+- those
+- it
+- its
+- they
+- them
+- compare
+- only
+- same
+- above
+- previous
+- last
+- earlier
+
+Use the conversation history to understand the user's intent.
+
+Do NOT ignore previous context.
+
+If the current question is completely unrelated,
+ignore the conversation history and answer normally.
+
+----------------------------------------------------
+
+Current User Question:
 
 {question}
 """

@@ -2,7 +2,7 @@ import sqlite3
 import pandas as pd
 import plotly.express as px
 
-from App.ai.ai_sql import generate_sql
+from ai_sql import generate_sql
 
 # ----------------------------
 # Connect Database
@@ -169,7 +169,7 @@ finally:
 # Generate AI Insights    
 #-------------------------------------
 
-from App.ai.ai_insights import generate_insight
+from ai_insights import generate_insight
 
 print("\nGenerating AI Insights...\n")
 

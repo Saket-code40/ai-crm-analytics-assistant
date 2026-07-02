@@ -4,7 +4,7 @@ import streamlit as st
 import plotly.express as px
 from kpi import get_kpis
 from datetime import datetime
-
+from followup import generate_followups
 from ai_sql import generate_sql
 from ai_insights import generate_insight
 
@@ -34,6 +34,12 @@ if "insight" not in st.session_state:
 
 if "history" not in st.session_state:
     st.session_state.history = []
+
+if "conversation" not in st.session_state:
+    st.session_state.conversation = []
+
+if "messages" not in st.session_state:
+    st.session_state.messages = []
 
 # =====================================
 # Sidebar
@@ -77,7 +83,7 @@ with st.sidebar:
             key=f"suggestion_{i}",
             use_container_width=True
     ):
-            st.session_state.question = q
+            st.session_state.next_question = q
             st.rerun()
             st.markdown("---")
 
@@ -172,6 +178,10 @@ elif page == "Ask AI":
 
     st.header("🤖 Ask Your CRM")
 
+    if "next_question" in st.session_state:
+        st.session_state.question = st.session_state.next_question
+        del st.session_state.next_question
+
     question = st.text_input(
         "Ask your CRM",
         value=st.session_state.question,
@@ -179,6 +189,64 @@ elif page == "Ask AI":
     )
 
     st.session_state.question = question
+
+    # ========================
+    # Helper Functions
+    # ========================
+
+    def generate_chart(result, question):
+        """Generate appropriate chart based on result columns and question."""
+        fig = None
+        
+        if len(result.columns) == 2:
+            x = result.columns[0]
+            y = result.columns[1]
+
+            if pd.api.types.is_numeric_dtype(result[y]):
+                q = question.lower()
+
+                if any(word in q for word in ["distribution", "share", "percentage"]):
+                    fig = px.pie(
+                        result,
+                        names=x,
+                        values=y,
+                        title=question
+                    )
+
+                elif any(word in q for word in ["month", "year", "trend", "growth"]):
+                    fig = px.line(
+                        result,
+                        x=x,
+                        y=y,
+                        markers=True,
+                        title=question
+                    )
+
+                else:
+                    fig = px.bar(
+                        result,
+                        x=x,
+                        y=y,
+                        text_auto=True,
+                        title=question
+                    )
+
+        elif len(result.columns) == 3:
+            x = result.columns[0]
+            color = result.columns[1]
+            y = result.columns[2]
+
+            if pd.api.types.is_numeric_dtype(result[y]):
+                fig = px.bar(
+                    result,
+                    x=x,
+                    y=y,
+                    color=color,
+                    barmode="group",
+                    title=question
+                )
+
+        return fig
 
     # -----------------------------
     # Analyze Button
@@ -191,20 +259,39 @@ elif page == "Ask AI":
         try:
 
             with st.spinner("Generating SQL..."):
-
-                sql = generate_sql(question)
-                st.session_state.sql = sql
+                sql = generate_sql(
+                    question,
+                    st.session_state.conversation
+                )
 
             result = pd.read_sql(sql, conn)
-            st.session_state.result = result
 
             with st.spinner("Generating AI Insights..."):
-
                 insight = generate_insight(question, result)
-                st.session_state.insight = insight
 
-            st.session_state.history.append({
+            # Generate chart
+            chart = generate_chart(result, question)
+
+            # Generate followups
+            followups = generate_followups(question, result)
+
+            # Create complete message object
+            message = {
                 "time": datetime.now().strftime("%d-%m-%Y %H:%M:%S"),
+                "question": question,
+                "sql": sql,
+                "result": result,
+                "chart": chart,
+                "insight": insight,
+                "followups": followups
+            }
+
+            # Append to messages
+            st.session_state.messages.append(message)
+
+            # Update history for backwards compatibility
+            st.session_state.history.append({
+                "time": message["time"],
                 "question": question,
                 "sql": sql,
                 "rows": len(result),
@@ -212,97 +299,46 @@ elif page == "Ask AI":
                 "insight": insight
             })
 
-        except Exception as e:
+            # Update conversation memory
+            st.session_state.conversation.append({
+                "question": question,
+                "sql": sql,
+                "rows": len(result),
+                "result": result.head(5).to_dict("records"),
+                "insight": insight
+            })
+            if len(st.session_state.conversation) > 5:
+                st.session_state.conversation.pop(0)
 
+        except Exception as e:
             st.error(e)
 
         finally:
-
             conn.close()
 
-    # =====================================
-    # Display Previous Analysis
-    # =====================================
+    # -----------------------
+    # Display Messages
+    # -----------------------
 
-    if st.session_state.sql:
-
-        st.subheader("📝 Generated SQL")
-        st.code(st.session_state.sql, language="sql")
-
-    if st.session_state.result is not None:
-
-        result = st.session_state.result
-
-        st.subheader("📋 Results")
-        st.dataframe(result, use_container_width=True)
-
-        # -----------------------
-        # Charts
-        # -----------------------
-
-        if len(result.columns) == 2:
-
-            x = result.columns[0]
-            y = result.columns[1]
-
-            if pd.api.types.is_numeric_dtype(result[y]):
-
-                q = st.session_state.question.lower()
-
-                if any(word in q for word in ["distribution", "share", "percentage"]):
-
-                    fig = px.pie(
-                        result,
-                        names=x,
-                        values=y,
-                        title=st.session_state.question
-                    )
-
-                elif any(word in q for word in ["month", "year", "trend", "growth"]):
-
-                    fig = px.line(
-                        result,
-                        x=x,
-                        y=y,
-                        markers=True,
-                        title=st.session_state.question
-                    )
-
-                else:
-
-                    fig = px.bar(
-                        result,
-                        x=x,
-                        y=y,
-                        text_auto=True,
-                        title=st.session_state.question
-                    )
-
-                st.plotly_chart(fig, use_container_width=True)
-
-        elif len(result.columns) == 3:
-
-            x = result.columns[0]
-            color = result.columns[1]
-            y = result.columns[2]
-
-            if pd.api.types.is_numeric_dtype(result[y]):
-
-                fig = px.bar(
-                    result,
-                    x=x,
-                    y=y,
-                    color=color,
-                    barmode="group",
-                    title=st.session_state.question
-                )
-
-                st.plotly_chart(fig, use_container_width=True)
-
-    if st.session_state.insight:
-
-        st.subheader("🤖 AI Business Insights")
-        st.write(st.session_state.insight)
+    if st.session_state.messages:
+        for message in st.session_state.messages:
+            with st.container(border=True):
+                st.markdown(f"**Question:** {message['question']}")
+                
+                # Display chart if available
+                if message["chart"] is not None:
+                    st.plotly_chart(message["chart"], use_container_width=True)
+                
+                # Display insight
+                st.subheader("🤖 AI Business Insights")
+                st.write(message["insight"])
+                
+                # Display followup questions
+                st.subheader("💡 Suggested Follow-up Questions")
+                for i, q in enumerate(message["followups"]):
+                    if st.button(q, key=f"followup_{message['time']}_{i}"):
+                        st.session_state.next_question = q
+                        st.rerun()
 # =====================================
 # Analytics Page
 # =====================================
