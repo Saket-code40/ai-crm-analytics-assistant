@@ -7,6 +7,8 @@ from datetime import datetime
 from followup import generate_followups
 from ai_sql import generate_sql
 from ai_insights import generate_insight
+from chat_utils import process_question
+from chart_panel import render_chart_panel
 
 # -----------------------------
 # Page Config
@@ -40,6 +42,9 @@ if "conversation" not in st.session_state:
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
+
+if "auto_analyze" not in st.session_state:
+    st.session_state.auto_analyze = False
 
 # =====================================
 # Sidebar
@@ -85,6 +90,26 @@ with st.sidebar:
     ):
             st.session_state.next_question = q
             st.rerun()
+
+    # ----------------------------------
+    # Recent Chats — dynamically built
+    # ----------------------------------
+    recent_questions = [
+        msg["question"] for msg in st.session_state.messages
+    ]
+    if recent_questions:
+        st.markdown("---")
+        st.subheader("💬 Recent Chats")
+        for i, q in enumerate(reversed(recent_questions)):
+            if st.button(
+                q,
+                key=f"recent_{i}",
+                use_container_width=True,
+                icon="💬"
+            ):
+                st.session_state.next_question = q
+                st.session_state.auto_analyze = False
+                st.rerun()
             st.markdown("---")
 
     st.success("🟢 Database Connected")
@@ -171,174 +196,153 @@ if page == "Dashboard":
     st.divider()
 
 # =====================================
-# Ask AI Page
+# Ask AI Page — Conversational UI
 # =====================================
 
 elif page == "Ask AI":
 
     st.header("🤖 Ask Your CRM")
 
+    # ------------------------------------------
+    # Handle incoming question (from followup/recent chat).
+    # We write directly into the widget's keyed state so
+    # st.text_input() picks it up on this rerun.
+    # ------------------------------------------
     if "next_question" in st.session_state:
-        st.session_state.question = st.session_state.next_question
+        st.session_state.chat_input = st.session_state.next_question
         del st.session_state.next_question
 
+    # ------------------------------------------
+    # Question input — uses keyed state (chat_input)
+    # so follow-ups can pre-fill it reliably.
+    # ------------------------------------------
     question = st.text_input(
         "Ask your CRM",
-        value=st.session_state.question,
-        placeholder="Example: Show opportunity amount by sales stage"
+        placeholder="Example: Show opportunity amount by sales stage",
+        key="chat_input"
     )
 
-    st.session_state.question = question
+    # ------------------------------------------
+    # Helper: store a processed message in all
+    # required session state structures
+    # ------------------------------------------
+    def _store_message(message):
+        """Persist a message in messages, history, and conversation memory."""
+        # Main message list (used for rendering)
+        st.session_state.messages.append(message)
 
-    # ========================
-    # Helper Functions
-    # ========================
+        # History (used by Query History page)
+        st.session_state.history.append({
+            "time": message["time"],
+            "question": message["question"],
+            "sql": message["sql"],
+            "rows": len(message["result"]),
+            "result": message["result"].to_dict("records"),
+            "insight": message["insight"],
+        })
 
-    def generate_chart(result, question):
-        """Generate appropriate chart based on result columns and question."""
-        fig = None
-        
-        if len(result.columns) == 2:
-            x = result.columns[0]
-            y = result.columns[1]
+        # Conversation memory (last 5 — sent to LLM for context)
+        st.session_state.conversation.append({
+            "question": message["question"],
+            "sql": message["sql"],
+            "rows": len(message["result"]),
+            "result": message["result"].head(5).to_dict("records"),
+            "insight": message["insight"],
+        })
+        if len(st.session_state.conversation) > 5:
+            st.session_state.conversation.pop(0)
 
-            if pd.api.types.is_numeric_dtype(result[y]):
-                q = question.lower()
-
-                if any(word in q for word in ["distribution", "share", "percentage"]):
-                    fig = px.pie(
-                        result,
-                        names=x,
-                        values=y,
-                        title=question
-                    )
-
-                elif any(word in q for word in ["month", "year", "trend", "growth"]):
-                    fig = px.line(
-                        result,
-                        x=x,
-                        y=y,
-                        markers=True,
-                        title=question
-                    )
-
-                else:
-                    fig = px.bar(
-                        result,
-                        x=x,
-                        y=y,
-                        text_auto=True,
-                        title=question
-                    )
-
-        elif len(result.columns) == 3:
-            x = result.columns[0]
-            color = result.columns[1]
-            y = result.columns[2]
-
-            if pd.api.types.is_numeric_dtype(result[y]):
-                fig = px.bar(
-                    result,
-                    x=x,
-                    y=y,
-                    color=color,
-                    barmode="group",
-                    title=question
-                )
-
-        return fig
-
-    # -----------------------------
-    # Analyze Button
-    # -----------------------------
-
-    if st.button("🚀 Analyze"):
-
-        conn = sqlite3.connect("crm.db")
+    # ------------------------------------------
+    # Auto-analyze (triggered by follow-up clicks)
+    # ------------------------------------------
+    if st.session_state.auto_analyze and question.strip():
+        st.session_state.auto_analyze = False
 
         try:
-
-            with st.spinner("Generating SQL..."):
-                sql = generate_sql(
+            with st.spinner("🧠 Generating SQL..."):
+                message = process_question(
                     question,
                     st.session_state.conversation
                 )
 
-            result = pd.read_sql(sql, conn)
+            _store_message(message)
 
-            with st.spinner("Generating AI Insights..."):
-                insight = generate_insight(question, result)
-
-            # Generate chart
-            chart = generate_chart(result, question)
-
-            # Generate followups
-            followups = generate_followups(question, result)
-
-            # Create complete message object
-            message = {
-                "time": datetime.now().strftime("%d-%m-%Y %H:%M:%S"),
-                "question": question,
-                "sql": sql,
-                "result": result,
-                "chart": chart,
-                "insight": insight,
-                "followups": followups
-            }
-
-            # Append to messages
-            st.session_state.messages.append(message)
-
-            # Update history for backwards compatibility
-            st.session_state.history.append({
-                "time": message["time"],
-                "question": question,
-                "sql": sql,
-                "rows": len(result),
-                "result": result.to_dict("records"),
-                "insight": insight
-            })
-
-            # Update conversation memory
-            st.session_state.conversation.append({
-                "question": question,
-                "sql": sql,
-                "rows": len(result),
-                "result": result.head(5).to_dict("records"),
-                "insight": insight
-            })
-            if len(st.session_state.conversation) > 5:
-                st.session_state.conversation.pop(0)
+            # Force a rerun to show the new message immediately
+            st.rerun()
 
         except Exception as e:
-            st.error(e)
+            st.error(f"❌ Error: {e}")
 
-        finally:
-            conn.close()
+    # ------------------------------------------
+    # Manual Analyze button
+    # ------------------------------------------
+    if st.button("🚀 Analyze", key="analyze_btn"):
+        if question.strip():
+            try:
+                with st.spinner("🧠 Analyzing your question..."):
+                    message = process_question(
+                        question,
+                        st.session_state.conversation
+                    )
 
-    # -----------------------
-    # Display Messages
-    # -----------------------
+                _store_message(message)
 
-    if st.session_state.messages:
-        for message in st.session_state.messages:
-            with st.container(border=True):
-                st.markdown(f"**Question:** {message['question']}")
-                
-                # Display chart if available
-                if message["chart"] is not None:
-                    st.plotly_chart(message["chart"], use_container_width=True)
-                
-                # Display insight
-                st.subheader("🤖 AI Business Insights")
-                st.write(message["insight"])
-                
-                # Display followup questions
-                st.subheader("💡 Suggested Follow-up Questions")
+                st.rerun()
+
+            except Exception as e:
+                st.error(f"❌ Error: {e}")
+        else:
+            st.warning("Please enter a question first.")
+
+    # ------------------------------------------
+    # Display all messages — ChatGPT style
+    # ------------------------------------------
+    for message in st.session_state.messages:
+
+        # --- User bubble ---
+        with st.chat_message("user"):
+            st.markdown(message["question"])
+
+        # --- AI response bubble ---
+        with st.chat_message("assistant"):
+
+            # 1) Generated SQL (collapsible expander)
+            with st.expander("💻 Generated SQL", expanded=False):
+                st.code(message["sql"], language="sql")
+
+            # 2) Result Table
+            st.markdown("#### 📊 Result Table")
+            st.dataframe(
+                message["result"],
+                use_container_width=True,
+                hide_index=True
+            )
+
+            # 3) Interactive Visualization Panel
+            if message["chart"] is not None:
+                render_chart_panel(
+                    result=message["result"],
+                    question=message["question"],
+                    msg_time=message["time"]
+                )
+            # 4) Business Insights
+            st.markdown("#### 🤖 Business Insights")
+            st.markdown(message["insight"])
+
+            # 5) Suggested Follow-up Questions
+            if message.get("followups"):
+                st.markdown("#### 💡 Suggested Follow-up Questions")
+                cols = st.columns(len(message["followups"]))
                 for i, q in enumerate(message["followups"]):
-                    if st.button(q, key=f"followup_{message['time']}_{i}"):
-                        st.session_state.next_question = q
-                        st.rerun()
+                    with cols[i]:
+                        if st.button(
+                            q,
+                            key=f"followup_{message['time']}_{i}",
+                            use_container_width=True
+                        ):
+                            st.session_state.next_question = q
+                            st.session_state.auto_analyze = True
+                            st.rerun()
 # =====================================
 # Analytics Page
 # =====================================
