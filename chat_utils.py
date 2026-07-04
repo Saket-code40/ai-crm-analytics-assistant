@@ -9,7 +9,6 @@ Functions:
     process_question(question, conversation) → message dict with full response
 """
 
-import sqlite3
 import pandas as pd
 import plotly.express as px
 from datetime import datetime
@@ -17,6 +16,7 @@ from datetime import datetime
 # ---------------------------------------------------------------------------
 # Local imports (same directory)
 # ---------------------------------------------------------------------------
+from database_manager import get_connection
 from ai_sql import generate_sql
 from ai_insights import generate_insight
 from followup import generate_followups
@@ -260,7 +260,7 @@ def process_question(question: str, conversation: list) -> dict:
         Exception: If SQL generation or execution fails
     """
 
-    conn = sqlite3.connect("crm.db")
+    conn = get_connection()
 
     try:
         # Step 1 — Generate SQL

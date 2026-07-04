@@ -1,11 +1,11 @@
-import sqlite3
+from database_manager import get_connection
 
-conn = sqlite3.connect("crm.db")
+conn = get_connection()
 
 cursor = conn.cursor()
 
 cursor.execute(
-    "SELECT name FROM sqlite_master WHERE type='table';"
+    "SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = DATABASE();"
 )
 
 print(cursor.fetchall())

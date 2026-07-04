@@ -1,23 +1,22 @@
-import sqlite3
-from pathlib import Path
-
-ROOT_DIR = Path(__file__).resolve().parent
-DB_PATH = ROOT_DIR / "crm.db"
+from database_manager import get_connection
 
 
 def get_schema():
 
-    conn = sqlite3.connect(DB_PATH)
+    conn = get_connection()
     cursor = conn.cursor()
 
     schema = ""
 
-    # Get all tables
+    # --------------------------------------------------
+    # Get all tables from INFORMATION_SCHEMA
+    # --------------------------------------------------
+
     cursor.execute("""
-        SELECT name
-        FROM sqlite_master
-        WHERE type='table'
-        ORDER BY name;
+        SELECT TABLE_NAME
+        FROM INFORMATION_SCHEMA.TABLES
+        WHERE TABLE_SCHEMA = DATABASE()
+        ORDER BY TABLE_NAME;
     """)
 
     tables = cursor.fetchall()
@@ -35,22 +34,29 @@ def get_schema():
         # Row Count
         # -----------------------------
 
-        cursor.execute(f'SELECT COUNT(*) FROM "{table_name}"')
+        cursor.execute(f'SELECT COUNT(*) FROM `{table_name}`')
         row_count = cursor.fetchone()[0]
 
         schema += f"Rows : {row_count}\n\n"
 
         # -----------------------------
-        # Columns
+        # Columns (from INFORMATION_SCHEMA)
         # -----------------------------
 
-        cursor.execute(f'PRAGMA table_info("{table_name}")')
+        cursor.execute(f"""
+            SELECT COLUMN_NAME, DATA_TYPE
+            FROM INFORMATION_SCHEMA.COLUMNS
+            WHERE TABLE_SCHEMA = DATABASE()
+              AND TABLE_NAME = '{table_name}'
+            ORDER BY ORDINAL_POSITION;
+        """)
+
         columns = cursor.fetchall()
 
         for col in columns:
 
-            column = col[1]
-            datatype = col[2].upper()
+            column = col[0]
+            datatype = col[1].upper()
 
             schema += "-" * 50 + "\n"
             schema += f"Column : {column}\n"
@@ -62,15 +68,15 @@ def get_schema():
                 # Numeric Columns
                 # --------------------------------
 
-                if any(x in datatype for x in ["INT", "REAL", "NUM", "FLOAT", "DOUBLE"]):
+                if any(x in datatype for x in ["INT", "REAL", "NUM", "FLOAT", "DOUBLE", "DECIMAL"]):
 
                     cursor.execute(f'''
                         SELECT
-                            MIN("{column}"),
-                            MAX("{column}"),
-                            AVG("{column}")
-                        FROM "{table_name}"
-                        WHERE "{column}" IS NOT NULL
+                            MIN(`{column}`),
+                            MAX(`{column}`),
+                            AVG(`{column}`)
+                        FROM `{table_name}`
+                        WHERE `{column}` IS NOT NULL
                     ''')
 
                     minimum, maximum, average = cursor.fetchone()
@@ -93,10 +99,10 @@ def get_schema():
 
                     cursor.execute(f'''
                         SELECT
-                            MIN("{column}"),
-                            MAX("{column}")
-                        FROM "{table_name}"
-                        WHERE "{column}" IS NOT NULL
+                            MIN(`{column}`),
+                            MAX(`{column}`)
+                        FROM `{table_name}`
+                        WHERE `{column}` IS NOT NULL
                     ''')
 
                     earliest, latest = cursor.fetchone()
@@ -111,8 +117,8 @@ def get_schema():
                 else:
 
                     cursor.execute(f'''
-                        SELECT COUNT(DISTINCT "{column}")
-                        FROM "{table_name}"
+                        SELECT COUNT(DISTINCT `{column}`)
+                        FROM `{table_name}`
                     ''')
 
                     distinct = cursor.fetchone()[0]
@@ -123,10 +129,10 @@ def get_schema():
                     if distinct <= 20:
 
                         cursor.execute(f'''
-                            SELECT DISTINCT "{column}"
-                            FROM "{table_name}"
-                            WHERE "{column}" IS NOT NULL
-                            ORDER BY "{column}"
+                            SELECT DISTINCT `{column}`
+                            FROM `{table_name}`
+                            WHERE `{column}` IS NOT NULL
+                            ORDER BY `{column}`
                             LIMIT 20
                         ''')
 
@@ -148,9 +154,9 @@ def get_schema():
                     else:
 
                         cursor.execute(f'''
-                            SELECT "{column}"
-                            FROM "{table_name}"
-                            WHERE "{column}" IS NOT NULL
+                            SELECT `{column}`
+                            FROM `{table_name}`
+                            WHERE `{column}` IS NOT NULL
                             LIMIT 5
                         ''')
 

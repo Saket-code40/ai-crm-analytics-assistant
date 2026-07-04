@@ -1,10 +1,10 @@
-import sqlite3
 import pandas as pd
+from database_manager import get_connection
 
 
 def get_kpis():
 
-    conn = sqlite3.connect("crm.db")
+    conn = get_connection()
 
     kpis = {}
 
@@ -22,7 +22,7 @@ def get_kpis():
     # -------------------------
 
     kpis["leads"] = pd.read_sql(
-        "SELECT COUNT(*) AS total FROM lead_analytics",
+        "SELECT COUNT(*) AS total FROM crm_leads",
         conn
     ).iloc[0, 0]
 
@@ -31,7 +31,7 @@ def get_kpis():
     # -------------------------
 
     kpis["opportunities"] = pd.read_sql(
-        "SELECT COUNT(*) AS total FROM opportunity_analytics",
+        "SELECT COUNT(*) AS total FROM opportunity",
         conn
     ).iloc[0, 0]
 
@@ -68,7 +68,7 @@ def get_kpis():
     kpis["converted"] = pd.read_sql(
         """
         SELECT COUNT(*)
-        FROM lead_analytics
+        FROM crm_leads
         WHERE conversion_status='Converted'
         """,
         conn
@@ -81,7 +81,7 @@ def get_kpis():
     kpis["revenue"] = pd.read_sql(
         """
         SELECT SUM(amount)
-        FROM opportunity_analytics
+        FROM opportunity
         """,
         conn
     ).iloc[0, 0]
@@ -93,7 +93,7 @@ def get_kpis():
     kpis["avg_deal"] = pd.read_sql(
         """
         SELECT AVG(amount)
-        FROM opportunity_analytics
+        FROM opportunity
         """,
         conn
     ).iloc[0, 0]

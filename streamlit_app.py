@@ -1,4 +1,3 @@
-import sqlite3
 import pandas as pd
 import streamlit as st
 import plotly.express as px
@@ -9,6 +8,7 @@ from ai_sql import generate_sql
 from ai_insights import generate_insight
 from chat_utils import process_question
 from chart_panel import render_chart_panel
+from database_manager import get_connection
 
 # -----------------------------
 # Page Config
@@ -351,7 +351,7 @@ elif page == "Analytics":
 
     st.header("📊 Analytics Dashboard")
 
-    conn = sqlite3.connect("crm.db")
+    conn = get_connection()
 
 
 # =====================================

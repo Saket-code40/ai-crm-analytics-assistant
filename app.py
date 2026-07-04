@@ -1,14 +1,14 @@
-import sqlite3
 import pandas as pd
 import plotly.express as px
 
+from database_manager import get_connection
 from ai_sql import generate_sql
 
 # ----------------------------
 # Connect Database
 # ----------------------------
 
-conn = sqlite3.connect("crm.db")
+conn = get_connection()
 
 # ----------------------------
 # Ask User

@@ -36,10 +36,15 @@ def generate_sql(question, conversation):
 """
 
     prompt = f"""
-You are an expert SQLite Database Engineer and CRM Data Analyst.
+You are an expert MySQL Database Engineer and CRM Data Analyst.
 
 Database Name:
-crm.db
+cleaned_files
+
+Tables:
+- account_analytics
+- crm_leads
+- opportunity
 
 Database Schema:
 
@@ -47,14 +52,14 @@ Database Schema:
 
 IMPORTANT RULES
 
-1. Return ONLY valid SQLite SQL.
+1. Return ONLY valid MySQL SQL.
 2. Never return markdown.
 3. Never explain anything.
 4. Never use ```sql.
 5. Generate ONLY SELECT queries.
-6. Never generate INSERT, UPDATE, DELETE, DROP, ALTER, CREATE, TRUNCATE, ATTACH or DETACH statements.
-7. Use exact table names.
-8. Use exact column names.
+6. Never generate INSERT, UPDATE, DELETE, DROP, ALTER, CREATE, TRUNCATE statements.
+7. Use exact table names: account_analytics, crm_leads, opportunity.
+8. Use exact column names from the schema.
 9. Use JOIN whenever data is spread across multiple tables.
 10. Use aliases (a, l, o) whenever joins are required.
 
@@ -101,7 +106,7 @@ Example:
 
 SELECT created_year,
 COUNT(*) AS total
-FROM lead_analytics
+FROM crm_leads
 GROUP BY created_year
 ORDER BY created_year;
 
@@ -151,15 +156,15 @@ Example:
 SELECT
 l.lead_source,
 SUM(o.amount) AS total_amount
-FROM lead_analytics l
-JOIN opportunity_analytics o
+FROM crm_leads l
+JOIN opportunity o
 ON l.lead_source = o.lead_source
 GROUP BY l.lead_source
 ORDER BY total_amount DESC;
 
 ----------------------------------------------------
 
-Always generate optimized SQLite SQL.
+Always generate optimized MySQL SQL.
 ----------------------------------------------------
 
 DATE HANDLING RULES
@@ -167,41 +172,34 @@ DATE HANDLING RULES
 All date columns (created_date, modified_date, date_closed,
 next_followup_date, date_entered) are stored in YYYY-MM-DD format.
 
-Always use SQLite DATE() and STRFTIME() functions.
+Always use MySQL date functions.
 
 When the user asks:
 
 • Today
 
-WHERE date_column = DATE('now')
+WHERE date_column = CURDATE()
 
 • Yesterday
 
-WHERE date_column = DATE('now','-1 day')
+WHERE date_column = CURDATE() - INTERVAL 1 DAY
 
 • This Month
 
-WHERE date_column >= DATE('now','start of month')
+WHERE date_column >= DATE_FORMAT(CURDATE(), '%Y-%m-01')
 
 • Last Month
 
-WHERE date_column >= DATE('now','start of month','-1 month')
-AND date_column < DATE('now','start of month')
+WHERE date_column >= DATE_FORMAT(CURDATE() - INTERVAL 1 MONTH, '%Y-%m-01')
+AND date_column < DATE_FORMAT(CURDATE(), '%Y-%m-01')
 
 • This Year
 
-WHERE STRFTIME('%Y', date_column) = STRFTIME('%Y','now')
+WHERE YEAR(date_column) = YEAR(CURDATE())
 
 • Last Year
 
-WHERE STRFTIME('%Y', date_column) =
-CAST(STRFTIME('%Y','now') AS INTEGER) - 1
-
-Never compare years using
-
-STRFTIME('%Y','now') - 1
-
-Always cast to INTEGER first.
+WHERE YEAR(date_column) = YEAR(CURDATE()) - 1
 
 ----------------------------------------------------
 

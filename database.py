@@ -1,7 +1,7 @@
-import sqlite3
 import pandas as pd
+from database_manager import get_engine
 
-conn = sqlite3.connect("crm.db")
+engine = get_engine()
 
 # Load CSVs
 accounts = pd.read_csv("Data/account_analytics.csv")
@@ -11,27 +11,23 @@ opportunities = pd.read_csv("Data/opportunity_cleaned.csv")
 # Save as SQL tables
 accounts.to_sql(
     "account_analytics",
-    conn,
+    engine,
     if_exists="replace",
     index=False
 )
 
 leads.to_sql(
-    "lead_analytics",
-    conn,
+    "crm_leads",
+    engine,
     if_exists="replace",
     index=False
 )
 
 opportunities.to_sql(
-    "opportunity_analytics",
-    conn,
+    "opportunity",
+    engine,
     if_exists="replace",
     index=False
 )
 
-conn.commit()
-
 print("Database created successfully!")
-
-conn.close()

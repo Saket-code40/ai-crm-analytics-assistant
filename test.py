@@ -1,7 +1,7 @@
-import sqlite3
 import pandas as pd
+from database_manager import get_connection
 
-conn = sqlite3.connect("crm.db")
+conn = get_connection()
 
 query = """
 SELECT COUNT(*)
